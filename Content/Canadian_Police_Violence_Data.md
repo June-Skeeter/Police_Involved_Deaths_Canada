@@ -7,14 +7,23 @@ nav_order: 2
 
 This dataset covers January 2000 to July 2020 and was collected by the [CBC](https://newsinteractives.cbc.ca/fatalpoliceencounters/).  
 
-*"There is no government database listing deaths at the hands of the police available to the public in Canada, so CBC News created its own. The CBC’s research librarians have collected detailed information on each case, such as ethnicity, the role of mental illness or substance abuse, the type of weapon used and the police service involved, to create a picture of who is dying in police encounters."*
+* "There is no government database listing deaths at the hands of the police available to the public in Canada, so CBC News created its own. The CBC’s research librarians have collected detailed information on each case, such as ethnicity, the role of mental illness or substance abuse, the type of weapon used and the police service involved, to create a picture of who is dying in police encounters."*
+* This database is a collection of secondhand information (eg. press releases), and is an undercount of the true number of incidents.
 
-This is not an official count because police departments in Canada are not mandated to collect/release all of this information.  This dataset is a collection of second-hand information in the form of press releases and news articles, etc.  Some records are missing or incomplete.  The total number of incidents is higher than detailed here.  For example, this dataset does not include the killings of Rodney Naistus and Lawrence Wegner in January and February 2000.
+## Just a Fad
+[The dataset was intially published in 2018](https://newsinteractives.cbc.ca/longform-custom/deadly-force), covering incidents from 2000 to 2017.  It was only updated in summer 2020 in response to the killing of George Floyd.  
+* A key issue with relying on a news corporation to collect this information, is that it is not updated at regular intervals.
+* Once the subject falls out of the news cycle, they have little incentive to continue.
+* In the United States, there is a non-profit organization, [Mapping Police Violence](https://mappingpoliceviolence.org/) that maintains a database and updates it on a monthly basis.
 
-* Rodeny and Lawrence were victims ["starlight tours"](https://en.wikipedia.org/wiki/Saskatoon_freezing_deaths), a heinous practice where police, abduct indigenous people during winter and drop them off in rural areas far from their homes, leaving them to freeze to death if they couldn't make it home.  
-* I have reached out to to the CBC for comment on why these incidents were omitted from the data set, but they were unable to clarify wheter this was an oversite or an intentional omission.
 
-Another key issue with relying on a news corporation to collect this information, is that it is not updated at regular intervals.  The last time the dataset was updated prior to this summer was in 2017. They updated it in 2020 after the killing of George Floyd.  But once the subject falls out of the news cycle, they have little incentive to continue.
+## Filling the Gaps
+Many records are missing or incomplete.  For example, this dataset does not include the killings of Rodney Naistus and Lawrence Wegner in January and February 2000.
+
+
+* Rodeny and Lawrence were victims of ["starlight tours"](https://en.wikipedia.org/wiki/Saskatoon_freezing_deaths), a heinous practice where police, abduct indigenous people during winter and drop them off in rural areas far from their homes, leaving them to freeze to death if they couldn't make it home.  
+
+  * I have reached out to to the CBC for comment on why these incidents were omitted from the data set, but they were unable to clarify wheter this was an intentional or accidental omission.
   * I have added incidents that were omitted in the Deady Force Article and updated it through December 2020 to the best of my abilities.  However, it is difficult to find information regarding police killings (esepecially historically) so my updates are also incomplete.
 
 Despite the incomplete nature of this dataset, it is best record available.  It is important to understand the pervasiveness of police violence ans sytemic racism in policing in Canada, This is a problem across North America, not just in the United States.
@@ -228,3 +237,499 @@ There were 579 police killings in Canada between January 2000 and December 2020,
     B) The racial disparities are likely greater than indicated
     C) The racial disparities are likely less than indicated
     D) Minimal impact, the race of Unknown victims is probably distributed similarly to those of known race
+
+
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="US_Data.png" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="US_Data.png" target="_blank">View Image in New Tab</a>
+
+
+
+# Comparing to the United States  
+
+There are more police killings in the United States than in Canada.   
+
+
+<a href="RawComparison.png" target="_blank">View Image in New Tab</a>
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="RawComparison.png" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+
+# Poll Questions:
+
+### 6) What factors do we need to look at to calculate rates of police killings in Canada and the United States? (select all that apply)
+    A) The population of both countries
+    B) The record lengths of both datasets
+    C) The different socio-economic circumstances of each country
+    D) The different rates of gun ownership in each country
+    
+
+
+# Police Killing Rates
+By normalizing, we can more directly compare the patterns between geographic regions with different characteristics (Population) and datasets of different lengths.  Police in the United states are, on the whole, more likely to kill someone than Canadian Police.  However, this doesn't tell the full story.  Systemic Racism is pervasive on both sides of the border, and there are sever racial disparities in both countries.
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="NormalizedComparison.png" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="NormalizedComparison.png" target="_blank">View Image in New Tab</a>
+
+# Racial Disparities
+
+The police violence dataset and census for each country use different demographic groupings so we can't directly compare between all groups.  However, three demographic groups: White, Black, and Indigenous are recorded by each census, so we'll compare between these.  Whites are the majority in both countries, while black and indigenous people disproportionately impacted by police killings on both sides of the border.  One Caveat, the race of the victim is unknown for 25% of Canadian and 9% of United States.  This adds uncertainty to the comparison.  It also means that the Police Killing Rates by race are underestimated, especially for Canada.
+
+Scaled, to their respective populations, we can see that Indigenous and Black people are much more likely to be killed by the police than white people in both Canada and the United States and the overall rates for each racial group are higher in the US than Canada.
+
+
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="Racial_Comparison.png" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="Racial_Comparison.png" target="_blank">View Image in New Tab</a>
+
+# Systemic Racism in Canadian Policing
+
+However, the disparity between races is actually greater in Canada than the United States.  To show this, we can divide the black and indigenous rates for each country by the white rate (ie. Normalizing again).  This will tell us how many times more likely a black or indigenous individual is to be killed by the police than a white individual in each country.  We can see that Indigenous and Black Canadians are 6.3 and 4.4 times more likely to be killed by police than a White Canadian.  These disparities are higher than in the US.
+
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="Racial_Disparities.png" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="Racial_Disparities.png" target="_blank">View Image in New Tab</a>
+
+
+# Poll Questions:
+### 7) Which country has a higher frequency of police violence?
+    A) Canada
+    B) The United States
+    C) They're about equal
+    
+### 8) Which country has a greater racial disparity in incidents of police violence?
+    A) Canada
+    B) The United States
+    C) They're about equal    
+
+# A brief history of the policing in Canada.
+
+This issue isn't restricted to America, it's pervasive in Canada as well and cannot be overlooked. 
+
+* The RCMP were created by Prime Minister John A. Macdonald.  He got the idea for the Mounties from the Royal Irish Constabulary, a paramilitary police force the British created to keep the Irish under control.  Initially called the "North West Mounted Rifles", their primary purpose to clear Indigenous people off their land.  The name was changed to "North-West Mounted Police" because officials in the United States raised concerns that an armed force along the border was a prelude to a military buildup.  This organization was renamed the Royal Canadian Mounted Police in 1904.  If you want to learn more about the history of the RCMP, I suggest you listen to this [podcast](https://open.spotify.com/episode/1hiddm0ySVQUlJDBUtU0vj?si=jblh4sV5RMG7faychcMcQg) by The Secret Life of Canada
+
+
+# Ordinal Data
+Ratio data (eg. PKR) can be translated to or described as original data.  Sequential color schemes are a good choice for ordinal data as well.  The following is an example of ordinal data, but with a poor choice of category labels.  What does low, medium or high mean in this context?  
+
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="Ordinal_Map_Bad_Labels.png" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="Ordinal_Map_Bad_Labels.png" target="_blank">View Image in New Tab</a>
+
+Here is an example with better choices.  The categories give a good description of what the data is showing.  However, we can't infer anything about the differences between categories.
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="Ordinal_Map.png" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="Ordinal_Map.png" target="_blank">View Image in New Tab</a>
+
+
+# Nominal Data
+A nominal (categorical) variable can take on one of a limited number of possible values, assigning each record to a nominal category on the basis of a qualitative property.  When working with categorical data, avoid sequential and diverging colormaps, as they give the impression of an order or ranking in the data.  Choose a colormap designed for [categorical data](https://colorbrewer2.org/#type=qualitative&scheme=Accent&n=5).  You don't have to stick with the colors shown on color brewer, but they are a good starting point.
+
+Race is an example of categorical data, and we can choose to attribute a categorical value to the provinces/states in a number of ways.  For instance, we could map the race making up the largest number of police killings in each province/state.
+
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="MostNumerousRace_Map.png" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="MostNumerousRace_Map.png" target="_blank">View Image in New Tab</a>
+
+However, this is a bit misleading, for reasons we discussed earlier.  Its not accounting for differential population.  It is more meaningful to map the race most likely to be killed by police in each state/province.  
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="HighestRateRace_Map.png" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="HighestRateRace_Map.png" target="_blank">View Image in New Tab</a>
+
+
+# Poll Questions:
+### 11) Which map gives a more truthful representation of the data? 
+    A) Race of Majority of Police Killing Victims
+    B) Race Most Likely to be Killed by Police
+
+
+# Data Classification: Histograms, Classification Schemes & Choropleth Mapping
+
+# Data Types
+There are two kinds of data, that both have two sub-types.  Qualitative (descriptive) data includes Nominal and Ordinal Data types.  Nominal data is categorical data with no inherent ranking.  Ordinal data is categorical data that does have a rank.  Quantitative (numeric) data includes Ratio and Interval Data.  Interval data is similar to ratio data, but it lacks an absolute zero point.  Ratio data has an absolute zero point and the difference between values is meaningful.  PKR is ratio data, it can't be negative and a PKR of 2 is twice as high as a PKR of 1.
+
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="DataTypes.png" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="DataTypes.png" target="_blank">View Image in New Tab</a>
+
+# Rates by Province/State
+We can normalize our data by demographic information at different administrative levels (eg. Province, Municipality) because PKR varies by administrative divisions.  If we want to classify rates, the first step is to look at a histogram.  A Histogram shows us the frequency distribution of a given variable.  Data is grouped into a set of bins and counted.
+
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="Combined_Rate_Hist.png" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="Combined_Rate_Hist.png" target="_blank">View Image in New Tab</a>
+
+# Outliers
+Histograms can be useful for spotting outliers in a dataset.  The Indigenous Police Killing rate histogram for the US shows an outlier.  Vermont has a rate many times higher than the nearest value.  This is because the at 1743 individuals, the Indigenoous population of Vermont only makes up 0.3% of the states population.  So one killing diruing this time period leads to a very high PKR.
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="Combined_Hist_by_Race.png" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="Combined_Hist_by_Race.png" target="_blank">View Image in New Tab</a>
+
+# Classification Methods
+
+We'll cover five classification methods
+
+1) Equal Interval
+* Data is split to bins of equal width regardless of distribution
+
+2) Quantiles
+* Data is split by percentiles
+
+3) Natural Breaks
+* Data is split using the Jenks algorithm
+
+4) Manual Breaks
+* We define our own splits
+
+5) Standard Deviation
+* Data is split to bins based on distance from the mean
+
+### A note on color choices
+Sequential colormaps are the best choice for representing ratio data (eg. PKR).  I suggest you check out [color brewer](https://colorbrewer2.org/#type=sequential&scheme=OrRd&n=5) for help picking out color schemes. 
+
+# Equal Interval
+The simplest classification scheme is to just break the data into classes of equal sizes e.g. The minimum is 0.3 and the maximum is 10.6, so we can split that into four bins 2.6 units wide.
+
+### Nunavut has the highest Police Killing Rate of any administrative sub-division in Canada or the United States.   The numbers presented here are contradicted by the [CBC's own reporting](https://www.cbc.ca/news/canada/north/nunavut-police-related-death-rate-high-data-1.5645619).  This article suggests the death rates may be much higher across the north than presented here.
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="EqualInterval_Map.png" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="EqualInterval_Map.png" target="_blank">View Image in New Tab</a>
+
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="EqualInterval_Hist.png" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="EqualInterval_Hist.png" target="_blank">View Image in New Tab</a>
+
+
+
+
+# Quantiles
+The simplest classification scheme that is based of nthe data distribution.  The data is ranked and broken up by percentiles:
+  * class 1 contains 0-20%, class 2 is 20-40%, class 3 is 40-60%, class 4 is 60-80%, & class 5 is 80-100%
+
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="Quantile_Map.png" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="Quantile_Map.png" target="_blank">View Image in New Tab</a>
+
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="Quantiled_Hist.png" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="Quantiled_Hist.png" target="_blank">View Image in New Tab</a>
+
+# Natural Breaks
+Data is split using the [Jenks algorithm](http://wiki.gis.com/wiki/index.php/Jenks_Natural_Breaks_Classification).  This algorithm optimizes the data split into "Natural" classes.  The algorithm maximizes within group similarity and between group dissimilarity
+
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="NaturalBreaks_Map.png" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="NaturalBreaks_Map.png" target="_blank">View Image in New Tab</a>
+
+
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="NaturalBreaks_Hist.png" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="NaturalBreaks_Hist.png" target="_blank">View Image in New Tab</a>
+
+# Manual Breaks
+We can define our own break values to classify data.  This allows us to choose more meaningful break values if necessary (round numbers, clean fractions, etc.  The choice of manual breaks can influence the way the data is perceived.
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="ManualBreaks_Map.png" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="ManualBreaks_Map.png" target="_blank">View Image in New Tab</a>
+
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="ManualBreaks_Hist.png" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="ManualBreaks_Hist.png" target="_blank">View Image in New Tab</a>
+
+# Standard Deviation
+This distribution-based classification method shows how far a value is from the mean in standard deviations.  It can be very informative to a knowledgeable user, but it is not particularly accessible for the general public.  The standard deviation classification method converts the data to interval data (deviations above/below the mean).  [Diverging colormaps](https://colorbrewer2.org/#type=diverging&scheme=RdBu&n=5) are a better choice for interval data in many instances, as they can better highlight what values are above or below the zero point.
+
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="STDBreaks_Map.png" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="STDBreaks_Map.png" target="_blank">View Image in New Tab</a>
+
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="STDBreaks_Hist.png" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="STDBreaks_Hist.png" target="_blank">View Image in New Tab</a>
+
+
+# Poll Questions:
+
+### 9) If you want to highlight the severity of systemic racism in policing, which classification method would be best?
+    A) Equal Interval
+    B) Quantiles
+    C) Natural Breaks
+    D) Manual Breaks
+    E) Standard Deviation
+    
+### 10) What classification method might the RCMP choose to minimize the severity of systemic racism in policing?
+    A) Equal Interval
+    B) Quantiles
+    C) Natural Breaks
+    D) Manual Breaks
+    E) Standard Deviation
+
+
+
+
+
+
+
