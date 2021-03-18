@@ -116,7 +116,7 @@ class GetData(object):
                                 'Air gun, replica gun':'Other weapons',
                                 'Bat, club, other swinging object':'Other weapons',
                                 'Vehicle':'Other weapons',
-                                'Knife, axe, other cutting instruments':'Knife',
+                                'Knife, axe, other cutting instruments':'Knife / Sharp Object',
                                 'Unknown':'None',
                                 'Chemical or sprays':'Other weapons'})
 
