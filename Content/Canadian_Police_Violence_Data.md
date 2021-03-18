@@ -1,8 +1,20 @@
 ---
 layout: default
-title: The Data
+title: Data & Methods
 nav_order: 2
 ---
+
+# Definitions
+
+**Police Violence:** A broad term describing a wide number of ways in which Police engage in and perpetuate violence.  Including: killings, non-letahl use of force, itimidation, family separation, etc.
+
+**Police Killlings:** Any death directly resulting from police actions: shootings, tasers, other use of force, or incompetence (eg. car accidents)
+
+**Police Involved Deaths**  Any civilian death at the hands of police or in the custody of police is considred a police involved death.  Includes police killings as well as deaths resulting from police negligence/inacction: suicide, overdoses, medical emergenices, etc.  A broader term that is more difficult to refute on the grounds of semantics.  
+
+**Systemic Racism** Racism that is embedded as a normal practice in a society or a systetm
+
+
 # Deadly Force (2020)
 
 This dataset covers January 2000 to June 2020 and was collected by the [CBC](https://newsinteractives.cbc.ca/fatalpoliceencounters/).  
@@ -33,19 +45,11 @@ The CBC database has missing records and incomplete data.  One glaring example: 
   * *"While their deaths were very likely a result of starlight tours by the Saskatoon police, they were not added to the database because there is no record of police officers picking them up. The inquests into their deaths were also inconclusive. Because of the lack of definitive proof, it was decided not to include them in the database."*
 
 # Filling the Gaps
-I have added incidents that were omitted in the Deady Force Article and updated it through December 2020 to the best of my abilities.  However, it is difficult to find information regarding police killings (esepecially historically) so my updates are also incomplete.
+I have added incidents that were omitted in the Deady Force Article and updated it through March 2020 to the best of my abilities.  However, it is difficult to find information regarding police killings (esepecially historically) so my updates are also incomplete.
 
-Despite the incomplete nature of this dataset, it is best record available.  It is important to understand the pervasiveness of police violence ans sytemic racism in policing in Canada, This is a problem across North America, not just in the United States.
+Despite the incomplete nature of this dataset, I beleive this is the best publicly available record available.
 
-# Definitions
 
-**Police Violence:** A broad term describing a wide number of ways in which Police engage in and perpetuate violence.  Including: killings, non-letahl use of force, itimidation, family separation, etc.
-
-**Police Killlings:** Any death directly resulting from police actions: shootings, tasers, other use of force, or incompetence (eg. car accidents)
-
-**Police Involved Deaths**  Any civilian death at the hands of police or in the custody of police is considred a police involved death.  Includes police killings as well as deaths resulting from police negligence/inacction: suicide, overdoses, medical emergenices, etc.  A broader term that is more difficult to refute on the grounds of semantics.  
-
-**Systemic Racism** Racism that is embedded as a normal practice in a society or a systetm
 
 
 

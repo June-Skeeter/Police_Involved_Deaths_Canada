@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Teaching Materials
+title: Results
 nav_order: 3
 ---
 
 
-# 1) Police killings by year in Canada
+# 1) Police Involved Deaths by Year in Canada
 
-## 2020 was a record-breaking year, with *at least* 49 police involved killings.
-There were *at least* 581 killings between January 2000 - December 2020.  There was a statistically significant (p<0.001) increasing trend of 1.07 killings/year over this period.  Is this trend real? Or an artifact of increased awareness and acess to information?
+## 2020 was a record-breaking year, with *at least* 50 police involved deaths.
+There were *at least* 596 police involved deaths between January 2000 - March 2021.  There was a statistically significant (p<0.001) increasing trend of 1.12 killings/year over this period.  Is this trend real? Or an artifact of increased awareness and acess to information?
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
@@ -25,112 +25,15 @@ There were *at least* 581 killings between January 2000 - December 2020.  There 
 </div>
 <a href="CA_Trendline.png" target="_blank">View Image in New Tab</a>
 
+### The Police Killing Rate (PKR):
+The PKR is the number of police killings per unit of population (ie. million) per unit of time (ie. year).  Over the study period, Canada's Total Police Killing Rate is 0.8 killings per million residents per year.
 
-# 2) Age distribution of victims
-Histograms show the shape and spread of a dataset.  Here we see the age distribution of victims in 5-year increments.  The histogram shows us that the age is slightly skewed towards older ages.  The mean age of victims is 35.6 and the standard deviation is 11.9.  The youngest victim was 1 and the oldest was 77
-
-<div style="overflow: hidden;
-  padding-top: 56.25%;
-  position: relative">
-  <iframe src="CA_AgeHist.png" title="Processes" scrolling="no" frameborder="0"
-    style="border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;">
-   <p>Your browser does not support iframes.</p>
- </iframe>
-</div>
-<a href="CA_AgeHist.png" target="_blank">View Image in New Tab</a>
-
-# 3) What type of weapon (if any) did the victim have?
-Nearly 30% of victims were unarmed.  **Note** Being Armed is does *not* justify any individual police killing.  However, in aggregate a higher number of killings of unarmed people can indicate a predisposition towards excessive use of force.
-
-<div style="overflow: hidden;
-  padding-top: 56.25%;
-  position: relative">
-  <iframe src="CA_Weapon.png" title="Processes" scrolling="no" frameborder="0"
-    style="border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;">
-   <p>Your browser does not support iframes.</p>
- </iframe>
-</div>
-<a href="CA_Weapon.png" target="_blank">View Image in New Tab</a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=PKR&space;=&space;(\frac{596&space;Police&space;Killings}{35,151,728&space;ppl})&space;x&space;(\frac{1,000,000&space;ppl}{21.25&space;yr})&space;=&space;0.8&space;/&space;million&space;ppl&space;/&space;yr" target="_blank"><img src="https://latex.codecogs.com/gif.latex?PKR&space;=&space;(\frac{596&space;Police&space;Killings}{35,151,728&space;ppl})&space;x&space;(\frac{1,000,000&space;ppl}{21.25&space;yr})&space;=&space;0.8&space;/&space;million&space;ppl&space;/&space;yr" title="PKR = (\frac{596 Police Killings}{35,151,728 ppl}) x (\frac{1,000,000 ppl}{21.25 yr}) = 0.8 / million ppl / yr" /></a>
 
 
-# 4) Which police services are responsible for the most killings?
-There are 86 police services listed in the dataset, of which 11 are responsible for 68% of all police killings.  The RCMP are responsible for 27% (156)) of all police killings in Canada.  They are the federal police and serve as the provincial police in eight provinces and the territories.  The BC RCMP are far and away the deadliest police sericve in Canada.  Large municipal police departments and provincial police are responsible for the majority of the rest police killings.
+# 2) Racial Breakdown.
 
-### Deadliest Police Services in Canada
-
-|Rank|               Department                |Province|Killings|
-|---:|-----------------------------------------|--------|-------:|
-|   1|RCMP                                     |BC      |      80|
-|   2|Toronto Police Service                   |ON      |      57|
-|   3|RCMP                                     |AB      |      36|
-|   4|Service de police de la Ville de Montréal|QC      |      36|
-|   5|Sûreté du Québec                         |QC      |      36|
-|   6|Ontario Provincial Police                |ON      |      33|
-|   7|Edmonton Police Service                  |AB      |      28|
-|   8|Calgary Police Service                   |AB      |      26|
-|   9|Vancouver Police Department              |BC      |      24|
-|  10|Winnipeg Police Service                  |MB      |      21|
-|  11|Peel Regional Police                     |ON      |      16|
-
-
-
-<div style="overflow: hidden;
-  padding-top: 56.25%;
-  position: relative">
-  <iframe src="PoliceViolenceIncidents.html" title="Processes" scrolling="no" frameborder="0"
-    style="border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;">
-   <p>Your browser does not support iframes.</p>
- </iframe>
-</div>
-<a href="PoliceViolenceIncidents.html" target="_blank">View map new tab</a>
-
-
-# 5) The racial breakdown of police killings.
-You might hear someone say: "The majority of people killed by police in Canada are White".  This statement isn't false ... but it is also very misleading.
-
-<div style="overflow: hidden;
-  padding-top: 56.25%;
-  position: relative">
-  <iframe src="CA_Race.png" title="Processes" scrolling="no" frameborder="0"
-    style="border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;">
-   <p>Your browser does not support iframes.</p>
- </iframe>
-</div>
-<a href="CA_Race.png" target="_blank">View Image in New Tab</a>
-
-
-# Poll Questions:
-
-### 3) What should we do to get a more accurate picture of the racial breakdown of police killings?
-    A) Display the data alongside the proportion of Canada's total population each racial group comprises 
-    B) Divide by the total number of police killings to get a percentage
-    C) Subtract the Unknown category and then divide by the total number of police killings to get a percentage
-    D) Divide the total killings of each racial group by the total population of each racial group
-    
-
-# Data Normalization
-
-Demographic groups are not evenly represented in the population.  Canada's population is 73.4% White, but White people only account for 41.5% of police killings.  Meanwhile, Canada's population is only 4.8% Indigenous and 3.4% Black, but these groups account for 17.0% and 8.4% of police killings respectively.  The victim's race is unreported 150 (25.8%) of the incidents, this means the numbers for across racial groups are likely higher than reported.
+Demographic groups are not evenly represented in the population.  Canada's population is 73.4% White, but White people only account for 42.3% of police killings.  Meanwhile, Canada's population is only 4.8% Indigenous and 3.4% Black, but these groups account for 17.1% and 8.4% of police killings respectively.  The victim's race is Unknown 150 (25.8%) of the incidents, this means the numbers for across racial groups are likely higher than reported.
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
@@ -147,14 +50,8 @@ Demographic groups are not evenly represented in the population.  Canada's popul
 </div>
 <a href="CA_Race_Proportional.png" target="_blank">View Image in New Tab</a>
 
-In order to adequately account for this, we need to Normalize our data.  Normalization, is the process of scaling one variable by another.  For example, to find get the proportion of Canada's population made up by each racial group, we can divide the population of each racial group by the total population.  This tells the percentage of Canada's population each racial group makes up.  Normalizing by the sum of a dataset is the simplest example of data normalization.  Doing the same operation to the police killings data allows us to plot them side by side because they are on the same sale (Percentage).
 
-Comparing the proportion of police killings for each demographic group to their respective proportion of the population is informative.  However, its more meaningful to combine the police killings and the population into one statistic.
 
-### The Police Killing Rate (PKR):
-The PKR is the number of police killings per unit of population (ie. million) per unit of time (ie. year).  For example, Canada's Total Police Killing Rate is 0.79 killings per million residents per year.
-
-<a href="https://www.codecogs.com/eqnedit.php?latex=PKR&space;=&space;(\frac{581&space;Police&space;Killings}{35,151,728&space;ppl})&space;x&space;(\frac{1,000,000&space;ppl}{21&space;yr})&space;=&space;0.79&space;/&space;million&space;ppl&space;/&space;yr" target="_blank"><img src="https://latex.codecogs.com/gif.latex?PKR&space;=&space;(\frac{581&space;Police&space;Killings}{35,151,728&space;ppl})&space;x&space;(\frac{1,000,000&space;ppl}{21&space;yr})&space;=&space;0.79&space;/&space;million&space;ppl&space;/&space;yr" title="PKR = (\frac{581 Police Killings}{35,151,728 ppl}) x (\frac{1,000,000 ppl}{21 yr}) = 0.79 / million ppl / yr" /></a>
 
 
 This does not describe the whole picture, because there are large disparities in the police killing rate between demographic groups.  The PKR for Indigenous and Black people are **2.82** and **1.95** per million people per year.  The PKR for White people is 0.44 per million people per year.
@@ -231,6 +128,49 @@ There were 579 police killings in Canada between January 2000 and December 2020,
  </iframe>
 </div>
 <a href="US_Data.png" target="_blank">View Image in New Tab</a>
+
+
+
+
+
+# 3) Which police services are responsible for the most killings?
+There are 86 police services listed in the dataset, of which 11 are responsible for 68% of all police killings.  The RCMP are responsible for 27% (156)) of all police killings in Canada.  They are the federal police and serve as the provincial police in eight provinces and the territories.  The BC RCMP are far and away the deadliest police sericve in Canada.  Large municipal police departments and provincial police are responsible for the majority of the rest police killings.
+
+### Deadliest Police Services in Canada
+
+|Rank|               Department                |Province|Killings|
+|---:|-----------------------------------------|--------|-------:|
+|   1|RCMP                                     |BC      |      80|
+|   2|Toronto Police Service                   |ON      |      57|
+|   3|RCMP                                     |AB      |      36|
+|   4|Service de police de la Ville de Montréal|QC      |      36|
+|   5|Sûreté du Québec                         |QC      |      36|
+|   6|Ontario Provincial Police                |ON      |      33|
+|   7|Edmonton Police Service                  |AB      |      28|
+|   8|Calgary Police Service                   |AB      |      26|
+|   9|Vancouver Police Department              |BC      |      24|
+|  10|Winnipeg Police Service                  |MB      |      21|
+|  11|Peel Regional Police                     |ON      |      16|
+
+
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="PoliceViolenceIncidents.html" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="PoliceViolenceIncidents.html" target="_blank">View map new tab</a>
+
+
+
 
 
 
