@@ -241,6 +241,7 @@ The numbers presented here are contradicted by the [CBC's own reporting](https:/
 # 8) Highlighting the importance of data normalization
 
 I used these two maps with students to highlight the importance of normalizing our data.  The first shows total counts of poice involveed deaths which is a bit misleading.  Its not accounting for differential populations by race.  It is more meaningful to map the race most likely to be killed by police in each state/province.  
+
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
