@@ -219,9 +219,9 @@ We can see that Indigenous and Black Canadians are 3.8 and 2.4 times more likely
 
 # 7) Mapping Police Involved Deaths
 
-### Nunavut has the highest Police Killing Rate of any administrative sub-division in Canada or the United States.   The numbers presented here are contradicted by the [CBC's own reporting](https://www.cbc.ca/news/canada/north/nunavut-police-related-death-rate-high-data-1.5645619).  This article suggests the death rates may be much higher across the north than presented here.
+### Nunavut has the highest Police Killing Rate of any administrative sub-division in Canada or the United States.
 
-
+The numbers presented here are contradicted by the [CBC's own reporting](https://www.cbc.ca/news/canada/north/nunavut-police-related-death-rate-high-data-1.5645619).  This article suggests the death rates may be much higher across the north than presented here.
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
@@ -237,23 +237,6 @@ We can see that Indigenous and Black Canadians are 3.8 and 2.4 times more likely
  </iframe>
 </div>
 <a href="ManualBreaks_Map.png" target="_blank">View Image in New Tab</a>
-
-
-<div style="overflow: hidden;
-  padding-top: 56.25%;
-  position: relative">
-  <iframe src="ManualBreaks_Hist.png" title="Processes" scrolling="no" frameborder="0"
-    style="border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;">
-   <p>Your browser does not support iframes.</p>
- </iframe>
-</div>
-<a href="ManualBreaks_Hist.png" target="_blank">View Image in New Tab</a>
-
 
 # 8) Highlighting the importance of data normalization
 
