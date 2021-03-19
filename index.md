@@ -21,7 +21,7 @@ I encourage each of you to take a moment to explore [native-land.ca](https://nat
 
 1) Canadian Police Violcence Data (What's Available and What's Lacking)
 
-2) Highlighting racial disparites and comparing Canada to the United States.
+2) What can the data show us?
 
 3) Teaching materials: Using open source tools to promote soical and ecological justice issues.
 

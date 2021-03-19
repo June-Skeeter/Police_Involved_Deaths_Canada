@@ -7,7 +7,7 @@ nav_order: 3
 # 1) How are people dying at the hands of police?
 
 There were *at least* 600 police involved deaths in Canada since January 2000.  Of those, 71.9% were a result of police shootings.
-* Is this an artifact?  Shootings are the most "noticable".  Many other forms of violence may go unreported.
+* Is this an artifact?  Shootings are the most "noticable" since officers have to report when the discharge a firearm.  Many other forms of violence may go undreported.
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
@@ -25,11 +25,10 @@ There were *at least* 600 police involved deaths in Canada since January 2000.  
 <a href="CA_CauseofDeath.png" target="_blank">View Image in New Tab</a>
 
 
-# 2) Police Shootings by Year in Canada
+# 2) Police shootings by Year
 
 2020 was a record-breaking year, there were *at least* 50 police involved deaths, 35 of which were shootings.
-* There was a statistically significant (p<0.001) increasing trend of 1.15 shootings/year over this period.
-	* Police involved deaths mirrors this increasing trend (1.11 deaths/year).
+* There was a statistically significant (p<0.001) increasing trend of 1.15 shootings/year over this period.  Police involved deaths mirrors this increasing trend (1.11 deaths/year).
 * Is this trend real? Or an artifact of increased awareness and acess to information?
  --\
 <div style="overflow: hidden;
@@ -48,8 +47,7 @@ There were *at least* 600 police involved deaths in Canada since January 2000.  
 <a href="CA_Trendline.png" target="_blank">View Image in New Tab</a>
 
 ## The Police Involved Death Rate (PIDR):
-The IDR is the number of police killings per unit of population (ie. million) per unit of time (ie. year).  Over the study period, Canada's Total Police Killing Rate is 0.8 killings per million residents per year.
-
+The PIDR is the number of police killings per unit of population (ie. million) per unit of time (ie. year).  
 <a href="https://www.codecogs.com/eqnedit.php?latex=PIDR&space;=&space;(\frac{600&space;Deaths&space;}{35,151,728&space;ppl})&space;x&space;(\frac{1,000,000&space;ppl}{21.25&space;yr})&space;=&space;0.8&space;/&space;million&space;ppl&space;/&space;yr" target="_blank"><img src="https://latex.codecogs.com/gif.latex?PIDR&space;=&space;(\frac{600&space;Deaths&space;}{35,151,728&space;ppl})&space;x&space;(\frac{1,000,000&space;ppl}{21.25&space;yr})&space;=&space;0.8&space;/&space;million&space;ppl&space;/&space;yr" title="PIDR = (\frac{600 Deaths }{35,151,728 ppl}) x (\frac{1,000,000 ppl}{21.25 yr}) = 0.8 / million ppl / yr" /></a>
 
 
@@ -72,10 +70,6 @@ Demographic groups are not evenly represented in the population.  Canada's popul
 </div>
 <a href="CA_Race_Proportional.png" target="_blank">View Image in New Tab</a>
 
-
-
-
-
 This does not describe the whole picture, because there are large disparities in the police killing rate between demographic groups.  The PKR for Indigenous and Black people are **2.82** and **1.95** per million people per year.  The PKR for White people is 0.44 per million people per year.
 
 
@@ -94,10 +88,7 @@ This does not describe the whole picture, because there are large disparities in
 </div>
 <a href="CA_Race_Normalized.png" target="_blank">View Image in New Tab</a>
 
-
-
-
-# Statistical Testing
+### Statistical Testing
 
 What would we expect from a uniform proportional distribution?  A [Chi Square](https://www.youtube.com/watch?v=2QeDRsxSF9M) test can be used to check if the observed number of police killings by racial group is significantly different than what would be expect if the PKR were equal between racial groups.  Here is an example for the country as a whole.
 
@@ -107,72 +98,43 @@ There were 579 police killings in Canada between January 2000 and December 2020,
     * The test is significant to p < 0.0001, meaning there is **VERY STRONG** evidence showing that there are systemic racial biases in police killings.
 
 
-|                         | Total Population (Millions)   | Expected Distribtuion   |   Observed Killings |
-|:------------------------|:------------------------------|:------------------------|--------------------:|
-| Total                   | 35.1                          | 581.0                   |                 581 |
-| White                   | 25.8                          | 426.0                   |                 241 |
-| Asian                   | 3.2                           | 53.0                    |                  17 |
-| South Asian             | 1.9                           | 31.0                    |                  12 |
-| Indigenous              | 1.6                           | 27.0                    |                  99 |
-| Black                   | 1.1                           | 19.0                    |                  49 |
-| Arab                    | 0.5                           | 8.0                     |                   5 |
-| Latin American          | 0.4                           | 7.0                     |                   3 |
-| Visible minority, n.i.e | 0.3                           | 6.0                     |                   5 |
-| Unknown                 | --                            | --                      |                 150 |
-
-# Poll Questions:
-
-### 4) Do you think this pattern contiunes at the municipal department level?
-    A) Yes
-    B) No
-    C) Unsure
-    
-
-### 5) What impact do you think the missing data (Unknown race) has on this Chi Squared Analysis?
-    A) Invalidates  the results
-    B) The racial disparities are likely greater than indicated
-    C) The racial disparities are likely less than indicated
-    D) Minimal impact, the race of Unknown victims is probably distributed similarly to those of known race
+|                         |   Total Population (Millions) |   Expected Distribtuion |   Observed Distribution |
+|:------------------------|------------------------------:|------------------------:|------------------------:|
+| Total                   |                          35.1 |                     600 |                     600 |
+| White                   |                          25.8 |                     440 |                     252 |
+| Asian                   |                           3.2 |                      54 |                      17 |
+| South Asian             |                           1.9 |                      32 |                      12 |
+| Indigenous              |                           1.6 |                      28 |                     105 |
+| Black                   |                           1.1 |                      20 |                      50 |
+| Arab                    |                           0.5 |                       8 |                       5 |
+| Latin American          |                           0.4 |                       7 |                       3 |
+| Visible minority, n.i.e |                           0.3 |                       6 |                       5 |
+| Unknown                 |                           0   |                       0 |                     151 |
 
 
+# 4) Which police services are responsible for the most killings?
+There are 90 police services listed in the dataset, of which 13 are responsible for 69.7% of all police killings.
+* The RCMP are responsible for 27% (162)) of all police killings in Canada.
+	* They are the federal police and serve as the provincial police in eight provinces and the territories.
+	* The BC RCMP are far and away the deadliest police sericve in Canada.  
+* Large municipal police departments and provincial police are responsible for the majority of the rest police killings.
 
-<div style="overflow: hidden;
-  padding-top: 56.25%;
-  position: relative">
-  <iframe src="US_Data.png" title="Processes" scrolling="no" frameborder="0"
-    style="border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;">
-   <p>Your browser does not support iframes.</p>
- </iframe>
-</div>
-<a href="US_Data.png" target="_blank">View Image in New Tab</a>
-
-
-
-
-
-# 3) Which police services are responsible for the most killings?
-There are 86 police services listed in the dataset, of which 11 are responsible for 68% of all police killings.  The RCMP are responsible for 27% (156)) of all police killings in Canada.  They are the federal police and serve as the provincial police in eight provinces and the territories.  The BC RCMP are far and away the deadliest police sericve in Canada.  Large municipal police departments and provincial police are responsible for the majority of the rest police killings.
-
-### Deadliest Police Services in Canada
-
+### Deadliest Police Departments in Canada
 |Rank|               Department                |Province|Killings|
 |---:|-----------------------------------------|--------|-------:|
-|   1|RCMP                                     |BC      |      80|
-|   2|Toronto Police Service                   |ON      |      57|
-|   3|RCMP                                     |AB      |      36|
-|   4|Service de police de la Ville de Montréal|QC      |      36|
-|   5|Sûreté du Québec                         |QC      |      36|
+|   1|RCMP                                     |BC      |      82|
+|   2|Toronto Police Service                   |ON      |      58|
+|   3|RCMP                                     |AB      |      38|
+|   4|Service de police de la Ville de Montréal|QC      |      35|
+|   5|Sûreté du Québec                         |QC      |      34|
 |   6|Ontario Provincial Police                |ON      |      33|
-|   7|Edmonton Police Service                  |AB      |      28|
-|   8|Calgary Police Service                   |AB      |      26|
-|   9|Vancouver Police Department              |BC      |      24|
+|   7|Edmonton Police Service                  |AB      |      29|
+|   8|Calgary Police Service                   |AB      |      27|
+|   9|Vancouver Police Department              |BC      |      25|
 |  10|Winnipeg Police Service                  |MB      |      21|
 |  11|Peel Regional Police                     |ON      |      16|
+|  12|Ottawa Police Service                    |ON      |      10|
+|  13|York Regional Police                     |ON      |      10|
 
 
 
@@ -191,44 +153,9 @@ There are 86 police services listed in the dataset, of which 11 are responsible 
 </div>
 <a href="PoliceViolenceIncidents.html" target="_blank">View map new tab</a>
 
-
-
-
-
-
 # Comparing to the United States  
 
-There are more police killings in the United States than in Canada.   
-
-
-<a href="RawComparison.png" target="_blank">View Image in New Tab</a>
-
-<div style="overflow: hidden;
-  padding-top: 56.25%;
-  position: relative">
-  <iframe src="RawComparison.png" title="Processes" scrolling="no" frameborder="0"
-    style="border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;">
-   <p>Your browser does not support iframes.</p>
- </iframe>
-</div>
-
-# Poll Questions:
-
-### 6) What factors do we need to look at to calculate rates of police killings in Canada and the United States? (select all that apply)
-    A) The population of both countries
-    B) The record lengths of both datasets
-    C) The different socio-economic circumstances of each country
-    D) The different rates of gun ownership in each country
-    
-
-
-# Police Killing Rates
-By normalizing, we can more directly compare the patterns between geographic regions with different characteristics (Population) and datasets of different lengths.  Police in the United states are, on the whole, more likely to kill someone than Canadian Police.  However, this doesn't tell the full story.  Systemic Racism is pervasive on both sides of the border, and there are sever racial disparities in both countries.
+The PIDR in the United States 4.25 times higer than in Canada.  On the whole, US police are more violent than Canadian Police. 
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
@@ -247,11 +174,10 @@ By normalizing, we can more directly compare the patterns between geographic reg
 
 # Racial Disparities
 
-The police violence dataset and census for each country use different demographic groupings so we can't directly compare between all groups.  However, three demographic groups: White, Black, and Indigenous are recorded by each census, so we'll compare between these.  Whites are the majority in both countries, while black and indigenous people disproportionately impacted by police killings on both sides of the border.  One Caveat, the race of the victim is unknown for 25% of Canadian and 9% of United States.  This adds uncertainty to the comparison.  It also means that the Police Killing Rates by race are underestimated, especially for Canada.
+The data for each country use different demographic groupings so we can't directly compare between all groups.  Three demographic groups: White, Black, and Indigenous are recorded by each.
+* Whites are the majority in both countries, while black and indigenous people disproportionately impacted by police killings on both sides of the border.  
 
-Scaled, to their respective populations, we can see that Indigenous and Black people are much more likely to be killed by the police than white people in both Canada and the United States and the overall rates for each racial group are higher in the US than Canada.
-
-
+The PIDR for Indigenous and Black people are much higher than for white people in both Canada and the United States.  The overall rates for each racial group are higher in the US than Canada.
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
@@ -268,9 +194,12 @@ Scaled, to their respective populations, we can see that Indigenous and Black pe
 </div>
 <a href="Racial_Comparison.png" target="_blank">View Image in New Tab</a>
 
-# Systemic Racism in Canadian Policing
 
-However, the disparity between races is actually greater in Canada than the United States.  To show this, we can divide the black and indigenous rates for each country by the white rate (ie. Normalizing again).  This will tell us how many times more likely a black or indigenous individual is to be killed by the police than a white individual in each country.  We can see that Indigenous and Black Canadians are 6.3 and 4.4 times more likely to be killed by police than a White Canadian.  These disparities are higher than in the US.
+### However, the disparity between races is actually greater in Canada than the United States.
+
+To show this, we can divide the Black and Indigenous rates for each country by the national rate.  This will tell us how many times more likely a Black or Indigenous individual is to be the victim of a police involved death than is "typical" for the country.
+
+We can see that Indigenous and Black Canadians are 3.8 and 2.4 times more likely to be victims than the national average.
 
 
 <div style="overflow: hidden;
@@ -289,22 +218,11 @@ However, the disparity between races is actually greater in Canada than the Unit
 <a href="Racial_Disparities.png" target="_blank">View Image in New Tab</a>
 
 
-# Poll Questions:
-### 7) Which country has a higher frequency of police violence?
-    A) Canada
-    B) The United States
-    C) They're about equal
-    
-### 8) Which country has a greater racial disparity in incidents of police violence?
-    A) Canada
-    B) The United States
-    C) They're about equal    
-
 # A brief history of the policing in Canada.
+Racism has been ingrained in the misson of the RCMP since its foundation.
 
-This issue isn't restricted to America, it's pervasive in Canada as well and cannot be overlooked. 
-
-* The RCMP were created by Prime Minister John A. Macdonald.  He got the idea for the Mounties from the Royal Irish Constabulary, a paramilitary police force the British created to keep the Irish under control.  Initially called the "North West Mounted Rifles", their primary purpose to clear Indigenous people off their land.  The name was changed to "North-West Mounted Police" because officials in the United States raised concerns that an armed force along the border was a prelude to a military buildup.  This organization was renamed the Royal Canadian Mounted Police in 1904.  If you want to learn more about the history of the RCMP, I suggest you listen to this [podcast](https://open.spotify.com/episode/1hiddm0ySVQUlJDBUtU0vj?si=jblh4sV5RMG7faychcMcQg) by The Secret Life of Canada
+* The RCMP were created by Prime Minister John A. Macdonald.  He got the idea for the Mounties from the Royal Irish Constabulary, a paramilitary police force the British created to keep the Irish under control.  Initially called the "North West Mounted Rifles", their primary purpose to clear Indigenous people off their land.  The name was changed to "North-West Mounted Police" because officials in the United States raised concerns that an armed force along the border was a prelude to a military buildup.  This organization was renamed the Royal Canadian Mounted Police in 1904.
+* If you want to learn more about the history of the RCMP, I suggest you listen to these by [The Secret Life of Canada](https://www.cbc.ca/listen/cbc-podcasts/203-the-secret-life-of-canada/episode/15798131-s3-the-mounties-always-get-their-land-part-1) and [Commons](https://www.canadaland.com/podcast/the-police-2-the-secret-history-of-the-rcmp/) 
 
 
 # Ordinal Data
@@ -383,202 +301,8 @@ However, this is a bit misleading, for reasons we discussed earlier.  Its not ac
 <a href="HighestRateRace_Map.png" target="_blank">View Image in New Tab</a>
 
 
-# Poll Questions:
-### 11) Which map gives a more truthful representation of the data? 
-    A) Race of Majority of Police Killing Victims
-    B) Race Most Likely to be Killed by Police
-
-
-# Data Classification: Histograms, Classification Schemes & Choropleth Mapping
-
-# Data Types
-There are two kinds of data, that both have two sub-types.  Qualitative (descriptive) data includes Nominal and Ordinal Data types.  Nominal data is categorical data with no inherent ranking.  Ordinal data is categorical data that does have a rank.  Quantitative (numeric) data includes Ratio and Interval Data.  Interval data is similar to ratio data, but it lacks an absolute zero point.  Ratio data has an absolute zero point and the difference between values is meaningful.  PKR is ratio data, it can't be negative and a PKR of 2 is twice as high as a PKR of 1.
-
-
-<div style="overflow: hidden;
-  padding-top: 56.25%;
-  position: relative">
-  <iframe src="DataTypes.png" title="Processes" scrolling="no" frameborder="0"
-    style="border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;">
-   <p>Your browser does not support iframes.</p>
- </iframe>
-</div>
-<a href="DataTypes.png" target="_blank">View Image in New Tab</a>
-
-# Rates by Province/State
-We can normalize our data by demographic information at different administrative levels (eg. Province, Municipality) because PKR varies by administrative divisions.  If we want to classify rates, the first step is to look at a histogram.  A Histogram shows us the frequency distribution of a given variable.  Data is grouped into a set of bins and counted.
-
-
-<div style="overflow: hidden;
-  padding-top: 56.25%;
-  position: relative">
-  <iframe src="Combined_Rate_Hist.png" title="Processes" scrolling="no" frameborder="0"
-    style="border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;">
-   <p>Your browser does not support iframes.</p>
- </iframe>
-</div>
-<a href="Combined_Rate_Hist.png" target="_blank">View Image in New Tab</a>
-
-# Outliers
-Histograms can be useful for spotting outliers in a dataset.  The Indigenous Police Killing rate histogram for the US shows an outlier.  Vermont has a rate many times higher than the nearest value.  This is because the at 1743 individuals, the Indigenoous population of Vermont only makes up 0.3% of the states population.  So one killing diruing this time period leads to a very high PKR.
-
-<div style="overflow: hidden;
-  padding-top: 56.25%;
-  position: relative">
-  <iframe src="Combined_Hist_by_Race.png" title="Processes" scrolling="no" frameborder="0"
-    style="border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;">
-   <p>Your browser does not support iframes.</p>
- </iframe>
-</div>
-<a href="Combined_Hist_by_Race.png" target="_blank">View Image in New Tab</a>
-
-# Classification Methods
-
-We'll cover five classification methods
-
-1) Equal Interval
-* Data is split to bins of equal width regardless of distribution
-
-2) Quantiles
-* Data is split by percentiles
-
-3) Natural Breaks
-* Data is split using the Jenks algorithm
-
-4) Manual Breaks
-* We define our own splits
-
-5) Standard Deviation
-* Data is split to bins based on distance from the mean
-
-### A note on color choices
-Sequential colormaps are the best choice for representing ratio data (eg. PKR).  I suggest you check out [color brewer](https://colorbrewer2.org/#type=sequential&scheme=OrRd&n=5) for help picking out color schemes. 
-
-# Equal Interval
-The simplest classification scheme is to just break the data into classes of equal sizes e.g. The minimum is 0.3 and the maximum is 10.6, so we can split that into four bins 2.6 units wide.
-
 ### Nunavut has the highest Police Killing Rate of any administrative sub-division in Canada or the United States.   The numbers presented here are contradicted by the [CBC's own reporting](https://www.cbc.ca/news/canada/north/nunavut-police-related-death-rate-high-data-1.5645619).  This article suggests the death rates may be much higher across the north than presented here.
 
-<div style="overflow: hidden;
-  padding-top: 56.25%;
-  position: relative">
-  <iframe src="EqualInterval_Map.png" title="Processes" scrolling="no" frameborder="0"
-    style="border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;">
-   <p>Your browser does not support iframes.</p>
- </iframe>
-</div>
-<a href="EqualInterval_Map.png" target="_blank">View Image in New Tab</a>
-
-
-<div style="overflow: hidden;
-  padding-top: 56.25%;
-  position: relative">
-  <iframe src="EqualInterval_Hist.png" title="Processes" scrolling="no" frameborder="0"
-    style="border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;">
-   <p>Your browser does not support iframes.</p>
- </iframe>
-</div>
-<a href="EqualInterval_Hist.png" target="_blank">View Image in New Tab</a>
-
-
-
-
-# Quantiles
-The simplest classification scheme that is based of nthe data distribution.  The data is ranked and broken up by percentiles:
-  * class 1 contains 0-20%, class 2 is 20-40%, class 3 is 40-60%, class 4 is 60-80%, & class 5 is 80-100%
-
-
-<div style="overflow: hidden;
-  padding-top: 56.25%;
-  position: relative">
-  <iframe src="Quantile_Map.png" title="Processes" scrolling="no" frameborder="0"
-    style="border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;">
-   <p>Your browser does not support iframes.</p>
- </iframe>
-</div>
-<a href="Quantile_Map.png" target="_blank">View Image in New Tab</a>
-
-
-<div style="overflow: hidden;
-  padding-top: 56.25%;
-  position: relative">
-  <iframe src="Quantiled_Hist.png" title="Processes" scrolling="no" frameborder="0"
-    style="border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;">
-   <p>Your browser does not support iframes.</p>
- </iframe>
-</div>
-<a href="Quantiled_Hist.png" target="_blank">View Image in New Tab</a>
-
-# Natural Breaks
-Data is split using the [Jenks algorithm](http://wiki.gis.com/wiki/index.php/Jenks_Natural_Breaks_Classification).  This algorithm optimizes the data split into "Natural" classes.  The algorithm maximizes within group similarity and between group dissimilarity
-
-
-<div style="overflow: hidden;
-  padding-top: 56.25%;
-  position: relative">
-  <iframe src="NaturalBreaks_Map.png" title="Processes" scrolling="no" frameborder="0"
-    style="border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;">
-   <p>Your browser does not support iframes.</p>
- </iframe>
-</div>
-<a href="NaturalBreaks_Map.png" target="_blank">View Image in New Tab</a>
-
-
-
-<div style="overflow: hidden;
-  padding-top: 56.25%;
-  position: relative">
-  <iframe src="NaturalBreaks_Hist.png" title="Processes" scrolling="no" frameborder="0"
-    style="border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;">
-   <p>Your browser does not support iframes.</p>
- </iframe>
-</div>
-<a href="NaturalBreaks_Hist.png" target="_blank">View Image in New Tab</a>
 
 # Manual Breaks
 We can define our own break values to classify data.  This allows us to choose more meaningful break values if necessary (round numbers, clean fractions, etc.  The choice of manual breaks can influence the way the data is perceived.
@@ -614,55 +338,5 @@ We can define our own break values to classify data.  This allows us to choose m
 </div>
 <a href="ManualBreaks_Hist.png" target="_blank">View Image in New Tab</a>
 
-# Standard Deviation
-This distribution-based classification method shows how far a value is from the mean in standard deviations.  It can be very informative to a knowledgeable user, but it is not particularly accessible for the general public.  The standard deviation classification method converts the data to interval data (deviations above/below the mean).  [Diverging colormaps](https://colorbrewer2.org/#type=diverging&scheme=RdBu&n=5) are a better choice for interval data in many instances, as they can better highlight what values are above or below the zero point.
 
-
-<div style="overflow: hidden;
-  padding-top: 56.25%;
-  position: relative">
-  <iframe src="STDBreaks_Map.png" title="Processes" scrolling="no" frameborder="0"
-    style="border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;">
-   <p>Your browser does not support iframes.</p>
- </iframe>
-</div>
-<a href="STDBreaks_Map.png" target="_blank">View Image in New Tab</a>
-
-
-<div style="overflow: hidden;
-  padding-top: 56.25%;
-  position: relative">
-  <iframe src="STDBreaks_Hist.png" title="Processes" scrolling="no" frameborder="0"
-    style="border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;">
-   <p>Your browser does not support iframes.</p>
- </iframe>
-</div>
-<a href="STDBreaks_Hist.png" target="_blank">View Image in New Tab</a>
-
-
-# Poll Questions:
-
-### 9) If you want to highlight the severity of systemic racism in policing, which classification method would be best?
-    A) Equal Interval
-    B) Quantiles
-    C) Natural Breaks
-    D) Manual Breaks
-    E) Standard Deviation
-    
-### 10) What classification method might the RCMP choose to minimize the severity of systemic racism in policing?
-    A) Equal Interval
-    B) Quantiles
-    C) Natural Breaks
-    D) Manual Breaks
-    E) Standard Deviation
 
