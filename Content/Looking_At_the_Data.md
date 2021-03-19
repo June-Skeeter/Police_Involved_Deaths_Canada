@@ -120,6 +120,7 @@ There are 90 police services listed in the dataset, of which 13 are responsible 
 * Large municipal police departments and provincial police are responsible for the majority of the rest police killings.
 
 ### Deadliest Police Departments in Canada
+
 |Rank|               Department                |Province|Killings|
 |---:|-----------------------------------------|--------|-------:|
 |   1|RCMP                                     |BC      |      82|
