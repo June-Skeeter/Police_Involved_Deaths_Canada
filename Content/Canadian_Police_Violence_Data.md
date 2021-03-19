@@ -27,7 +27,7 @@ The most comprehensive publicly avalialbe dataset on police killings in Canada i
 
 # Irregular Updates
 
-The dataset was intially published in [2018](https://newsinteractives.cbc.ca/longform-custom/deadly-force), covering incidents from 2000 to 2017.  It wasn't updated again two and a half years.
+The dataset was intially published in [2018](https://newsinteractives.cbc.ca/longform-custom/deadly-force), covering incidents from 2000 to 2017.  It wasn't updated again for two and a half years.
 
 * The updates coincided wite media attention surrounding the Black Lives Matter protests in summer 2020, and to date the CBC has no plans of updating it further.
 
@@ -42,9 +42,9 @@ Because it is a collection of secondhand information (eg. press releases and new
 	* The victims name is unknown in 45 incidetns.
 	* The cause of death is unknown in 22 incidents.
 
-The CBC database has missing incidnets entirely.  Including four shootings [1](https://toronto.citynews.ca/2014/05/21/jeffrey-reodica-vigil-marks-10-years-since-fatal-police-shooting/) [2](https://globalnews.ca/news/7643929/former-b-c-cop-granted-escorted-temporary-absences/) [3](https://globalnews.ca/news/6267867/asirt-shooting-cochrane-dec-2019/) [4](https://edmonton.ctvnews.ca/man-dead-after-police-involved-shooting-in-central-alberta-officials-1.4747826), a death from a police dog [5](https://www.cbc.ca/news/indigenous/prince-george-death-rcmp-custody-investigation-1.5540688), and two [starlight tours](https://www.canadaland.com/podcast/the-police-4-starlight-tours/).
+The CBC database has missing incidnets entirely.  Including *at least* four shootings [1](https://toronto.citynews.ca/2014/05/21/jeffrey-reodica-vigil-marks-10-years-since-fatal-police-shooting/) [2](https://globalnews.ca/news/7643929/former-b-c-cop-granted-escorted-temporary-absences/) [3](https://globalnews.ca/news/6267867/asirt-shooting-cochrane-dec-2019/) [4](https://edmonton.ctvnews.ca/man-dead-after-police-involved-shooting-in-central-alberta-officials-1.4747826), a death from a [police dog](https://www.cbc.ca/news/indigenous/prince-george-death-rcmp-custody-investigation-1.5540688), and two [starlight tours](https://www.canadaland.com/podcast/the-police-4-starlight-tours/).
 
-I reached out to the CBC for comment on why the deaths of Rodney Naistus and Lawrence Wegner in January and February [2000](https://en.wikipedia.org/wiki/Saskatoon_freezing_deaths#Incidents):
+I reached out to the CBC for comment on why the starlight tour deaths of Rodney Naistus and Lawrence Wegner in January and February at the hands of the Saskatoon Police in 2000.
 * *"While their deaths were very likely a result of starlight tours by the Saskatoon police, they were not added to the database because there is no record of police officers picking them up. The inquests into their deaths were also inconclusive. Because of the lack of definitive proof, it was decided not to include them in the database."*
 
 # Looking to the United States
