@@ -25,7 +25,7 @@ There were *at least* 596 police involved deaths between January 2000 - March 20
 </div>
 <a href="CA_Trendline.png" target="_blank">View Image in New Tab</a>
 
-### The Police Killing Rate (PKR):
+## The Police Killing Rate (PKR):
 The PKR is the number of police killings per unit of population (ie. million) per unit of time (ie. year).  Over the study period, Canada's Total Police Killing Rate is 0.8 killings per million residents per year.
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=PKR&space;=&space;(\frac{596&space;Police&space;Killings}{35,151,728&space;ppl})&space;x&space;(\frac{1,000,000&space;ppl}{21.25&space;yr})&space;=&space;0.8&space;/&space;million&space;ppl&space;/&space;yr" target="_blank"><img src="https://latex.codecogs.com/gif.latex?PKR&space;=&space;(\frac{596&space;Police&space;Killings}{35,151,728&space;ppl})&space;x&space;(\frac{1,000,000&space;ppl}{21.25&space;yr})&space;=&space;0.8&space;/&space;million&space;ppl&space;/&space;yr" title="PKR = (\frac{596 Police Killings}{35,151,728 ppl}) x (\frac{1,000,000 ppl}{21.25 yr}) = 0.8 / million ppl / yr" /></a>

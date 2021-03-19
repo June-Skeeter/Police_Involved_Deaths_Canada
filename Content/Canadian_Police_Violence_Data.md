@@ -1,18 +1,10 @@
 ---
 layout: default
-title: Data & Methods
+title: Police Violence Data
 nav_order: 2
 ---
 
-# Definitions
 
-**Police Violence:** A broad term describing a wide number of ways in which Police engage in and perpetuate violence.  Including: killings, non-letahl use of force, itimidation, family separation, etc.
-
-**Police Killlings:** Any death directly resulting from police actions: shootings, tasers, other use of force, or incompetence (eg. car accidents)
-
-**Police Involved Deaths**  Any civilian death at the hands of police or in the custody of police is considred a police involved death.  Includes police killings as well as deaths resulting from police negligence/inacction: suicide, overdoses, medical emergenices, etc.  A broader term that is more difficult to refute on the grounds of semantics.  
-
-**Systemic Racism** Racism that is embedded as a normal practice in a society or a systetm
 
 
 # Deadly Force (2020)
