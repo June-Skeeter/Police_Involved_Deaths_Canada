@@ -107,7 +107,15 @@ class GetData(object):
                               parse_dates=['DATE'],
                               # index_col=['VICTIM ID'],
                               encoding='cp1252'
-                                                     )
+                                 )
+
+        self.CBC_Data_Original = pd.read_csv('Inputs/Deadly_Force_2020_Original.csv',
+                                parse_dates=['DATE'],
+                                # index_col=['VICTIM ID']
+                                )
+
+
+
         self.CA_PoliceKillings = CBC_Data.append(Missing_Records)
         self.CA_PoliceKillings=self.CA_PoliceKillings.set_index(pd.DatetimeIndex(self.CA_PoliceKillings['DATE']),
                                                       drop=True
