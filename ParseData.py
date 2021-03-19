@@ -128,6 +128,17 @@ class GetData(object):
                                 'Unknown':'None',
                                 'Chemical or sprays':'Other weapons'})
 
+
+        self.CA_PoliceKillings['CAUSE DEATH'] = self.CA_PoliceKillings['CAUSE DEATH'].replace({'Intermediat weapon':'Other',
+                                          'Starlight Tour':'Other',
+                                            'Taser':'Other',
+                                            'Vehicle':'Other',
+                                           'Police Dog':'Other',
+                                           'Pepper spray':'Other',
+                                           'Hit by Car':'Other',
+                                           'Negligence':'Other',
+                                           'Beating & Strangling':'Other'})
+
         self.CA_PoliceKillings['RACE'] =  self.CA_PoliceKillings['RACE'].replace({
                                 'Other':'Visible minority, n.i.e',
                                 'Caucasian':'Visible minority, n.i.e'})

@@ -1,15 +1,37 @@
 ---
 layout: default
-title: Results
+title: Trends
 nav_order: 3
 ---
 
+# 1) How are people dying at the hands of police?
 
-# 1) Police Involved Deaths by Year in Canada
+There were *at least* 600 police involved deaths in Canada since January 2000.  Of those, 71.9% were a result of police shootings.
+* Is this an artifact?  Shootings are the most "noticable".  Many other forms of violence may go unreported.
 
-## 2020 was a record-breaking year, with *at least* 50 police involved deaths.
-There were *at least* 596 police involved deaths between January 2000 - March 2021.  There was a statistically significant (p<0.001) increasing trend of 1.12 killings/year over this period.  Is this trend real? Or an artifact of increased awareness and acess to information?
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="CA_CauseofDeath.png" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="CA_CauseofDeath.png" target="_blank">View Image in New Tab</a>
 
+
+# 2) Police Shootings by Year in Canada
+
+2020 was a record-breaking year, there were *at least* 50 police involved deaths, 35 of which were shootings.
+* There was a statistically significant (p<0.001) increasing trend of 1.15 shootings/year over this period.
+	* Police involved deaths mirrors this increasing trend (1.11 deaths/year).
+* Is this trend real? Or an artifact of increased awareness and acess to information?
+ --\
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
@@ -31,7 +53,7 @@ The PKR is the number of police killings per unit of population (ie. million) pe
 <a href="https://www.codecogs.com/eqnedit.php?latex=PKR&space;=&space;(\frac{596&space;Police&space;Killings}{35,151,728&space;ppl})&space;x&space;(\frac{1,000,000&space;ppl}{21.25&space;yr})&space;=&space;0.8&space;/&space;million&space;ppl&space;/&space;yr" target="_blank"><img src="https://latex.codecogs.com/gif.latex?PKR&space;=&space;(\frac{596&space;Police&space;Killings}{35,151,728&space;ppl})&space;x&space;(\frac{1,000,000&space;ppl}{21.25&space;yr})&space;=&space;0.8&space;/&space;million&space;ppl&space;/&space;yr" title="PKR = (\frac{596 Police Killings}{35,151,728 ppl}) x (\frac{1,000,000 ppl}{21.25 yr}) = 0.8 / million ppl / yr" /></a>
 
 
-# 2) Racial Breakdown.
+# 3) Racial Breakdown.
 
 Demographic groups are not evenly represented in the population.  Canada's population is 73.4% White, but White people only account for 42.3% of police killings.  Meanwhile, Canada's population is only 4.8% Indigenous and 3.4% Black, but these groups account for 17.1% and 8.4% of police killings respectively.  The victim's race is Unknown 150 (25.8%) of the incidents, this means the numbers for across racial groups are likely higher than reported.
 
