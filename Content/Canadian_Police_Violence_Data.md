@@ -10,6 +10,21 @@ The most comprehensive publicly avalialbe dataset on police killings in Canada i
 
 * *"There is no government database listing deaths at the hands of the police available to the public in Canada, so CBC News created its own. The CBC’s research librarians have collected detailed information on each case, such as ethnicity, the role of mental illness or substance abuse, the type of weapon used and the police service involved, to create a picture of who is dying in police encounters."*
 
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="deadlyforce.png" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="deadlyforce.png" target="_blank">View Image in New Tab</a>
+
 # Irregular Updates
 
 The dataset was intially published in [2018](https://newsinteractives.cbc.ca/longform-custom/deadly-force), covering incidents from 2000 to 2017.  It wasn't updated again two and a half years.
@@ -36,6 +51,20 @@ I reached out to the CBC for comment on why the deaths of Rodney Naistus and Law
 In the US, there is a non-profit organization, [Mapping Police Violence](https://mappingpoliceviolence.org/), which maintains a database and updates it frequently.
 * *We believe the data represented on this site is the most comprehensive accounting of people killed by police since 2013. ... more comprehensive than the Washington Post police shootings database: ... includes additional incidents such as cases where police kill someone through use of a chokehold, baton, taser or other means as well as cases such as killings by off-duty police.*
 
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="mappingpoliceviolence.png" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="mappingpoliceviolence.png" target="_blank">View Image in New Tab</a>
 
 # Exapnding the Dataset and Filling Gaps
 The Deadly Force dataset only includes deaths that are "verifiably" the result of police use of force during an arrest.  This does not capture the full picture, we need a broader, more inclusive account of all deaths that are occuring as a result of interactions with the police in Canada. 
@@ -55,9 +84,17 @@ The Deadly Force dataset only includes deaths that are "verifiably" the result o
 # What other informatoin is avalable?
 [Killercopscanada](https://killercopscanada.wordpress.com/) has a more inclusive record of police involved deaths dating back to July 2015.
 
-
-
-
-
-
-
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="killercopscanada.png" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="killercopscanada.png" target="_blank">View Image in New Tab</a>
