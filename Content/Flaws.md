@@ -1,25 +1,21 @@
 ---
 layout: default
-title: The Data
-nav_order: 5
+title: Flaws in the Data
+nav_order: 4
 ---
 
-# Irregular Updates
+# The CBC Dataset is highly Flawed.
 
-The dataset was intially published in [2018](https://newsinteractives.cbc.ca/longform-custom/deadly-force), covering incidents from 2000 to 2017.  It wasn't updated again for two and a half years.
+# 1) They have not been transparent about their methods.
+They have not adequately defined their methods, defined what does and does not qualify as a police killing, or provided sources for their data.
 
+# 2) The data is not regularly updated.
+The dataset was intially published in [2018](https://newsinteractives.cbc.ca/longform-custom/deadly-force).  It wasn't updated again for two and a half years.
 * The updates coincided wite media attention surrounding the Black Lives Matter protests in summer 2020, and to date the CBC has no plans of updating it further.
+* A key issue with relying on a news corporation to collect & disseminate this type of information
 
-* A key issue with relying on a news corporation to collect this information, is that it is not updated at regular intervals.
-	* Once the subject falls out of the news cycle, they have little incentive to continue.
-
-
-# Missing & Incomplete Records
-
-Because it is a collection of secondhand information (eg. press releases and news stories), many of the records are incomplete.
-	* The race of the victim is unknown in 136/554 incidents.
-	* The victims name is unknown in 45 incidetns.
-	* The cause of death is unknown in 22 incidents.
+# 3) There are many missing/incomplete records.
+The victims race is unknown in 153 incidents.  Their name is missing in 45 incidents.  The cause of death is unknown in 22 incidents.
 
 The CBC database has missing incidnets entirely.  Including *at least* four shootings [1](https://toronto.citynews.ca/2014/05/21/jeffrey-reodica-vigil-marks-10-years-since-fatal-police-shooting/) [2](https://globalnews.ca/news/7643929/former-b-c-cop-granted-escorted-temporary-absences/) [3](https://globalnews.ca/news/6267867/asirt-shooting-cochrane-dec-2019/) [4](https://edmonton.ctvnews.ca/man-dead-after-police-involved-shooting-in-central-alberta-officials-1.4747826), a death from a [police dog](https://www.cbc.ca/news/indigenous/prince-george-death-rcmp-custody-investigation-1.5540688), and two [starlight tours](https://www.canadaland.com/podcast/the-police-4-starlight-tours/).
 
@@ -77,3 +73,4 @@ The Deadly Force dataset only includes deaths that are "verifiably" the result o
  </iframe>
 </div>
 <a href="killercopscanada.png" target="_blank">View Image in New Tab</a>
+

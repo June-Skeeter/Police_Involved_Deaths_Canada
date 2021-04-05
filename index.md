@@ -5,7 +5,7 @@ nav_order: 1
 ---
 # Police Involved Deaths in Canada
 
-##  Presnetation by June Skeeter [They/Them/Theirs]
+##  Presentation by June Skeeter [They/Them/Theirs]
 
 # Content Warning:
 I will be speaking about police violence today.  This difficult and painful subject that may be triggering to some, especially BIPOC individuals.
