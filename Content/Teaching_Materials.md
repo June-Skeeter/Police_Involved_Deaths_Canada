@@ -11,7 +11,7 @@ nav_order: 3
 # Data Normalization & Classification: Highlighting Racial Disparities in Police Violence
 
 [This lecture style workshop](https://ubc-lib-geo.github.io/Data-Normalization-Classification/) highlights the importance of normalizing data and teaches students how to apply different data classification methods.
-* I've also adapted it to a lecture for 
+* I've also adapted it to a lecture for a Introductory GIS course I teach
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
@@ -35,7 +35,7 @@ nav_order: 3
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="Infographic.png" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="InfoGraphic.png" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -45,7 +45,7 @@ nav_order: 3
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="Infographic.png" target="_blank">View Image in New Tab</a>
+<a href="InfoGraphic.png" target="_blank">View Image in New Tab</a>
 
 # Geocoding & Web Mapping with Python
 

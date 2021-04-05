@@ -28,9 +28,7 @@ The most comprehensive publicly avalialbe dataset on police killings in Canada i
 
 # Racial Breakdown.
 
-Since January 1st 2000, there have been *at leaset* 603 police involved deaths in Canada. 
-
-* Police involved death rates were calculated using 2016 census data.  The death rates for Indigennous, Black, and White indiviuals are *at least*: **2.94**, **1.94**, **0.44** deaths / million residents / year.
+Between January 1st 2000 and April 4th 2021 there have been *at leaset* 603 police involved deaths in Canada.  This number is based an updates I've added to the CBC data. These deaths were not evenli distributed across demographic groups.  To highlight this, I've calculated the Police Involved death rates were calculated using 2016 census data.  The death rates for Indigennous, Black, and White indiviuals are *at least*: **2.94**, **1.94**, **0.44** deaths / million residents / year.
 * The victim's race is Unknown in 153 (25.4%) of the incidents, this means the numbers for across racial groups are likely higher than reported.  
 
 <div style="overflow: hidden;
