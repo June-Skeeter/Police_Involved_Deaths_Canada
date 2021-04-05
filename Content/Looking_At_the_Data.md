@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Trends
-nav_order: 3
+nav_order: 2
 ---
 
-# 1) How are people dying at the hands of police?
+# Deadly Force
 
-There were *at least* 600 police involved deaths in Canada since January 2000.  Of those, 71.9% were a result of police shootings.
-* Is this an artifact?  Shootings are the most "noticable" since officers have to report when the discharge a firearm.  Many other forms of violence may go undreported.
+The most comprehensive publicly avalialbe dataset on police killings in Canada is the [Deadly Force database](https://newsinteractives.cbc.ca/fatalpoliceencounters/) was initally published in 2018 and updated July 23rd 2020.
+
+* *"There is no government database listing deaths at the hands of the police available to the public in Canada, so CBC News created its own. The CBC’s research librarians have collected detailed information on each case, such as ethnicity, the role of mental illness or substance abuse, the type of weapon used and the police service involved, to create a picture of who is dying in police encounters."*
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="CA_CauseofDeath.png" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="deadlyforce.png" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -22,56 +23,15 @@ There were *at least* 600 police involved deaths in Canada since January 2000.  
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="CA_CauseofDeath.png" target="_blank">View Image in New Tab</a>
+<a href="deadlyforce.png" target="_blank">View Image in New Tab</a>
 
 
-# 2) Police shootings by Year
+# Racial Breakdown.
 
-2020 was a record-breaking year, there were *at least* 50 police involved deaths, 35 of which were shootings.
-* There was a statistically significant (p<0.001) increasing trend of 1.15 shootings/year over this period.  Police involved deaths mirrors this increasing trend (1.11 deaths/year).
-* Is this trend real? Or an artifact of increased awareness and acess to information?
- --\
-<div style="overflow: hidden;
-  padding-top: 56.25%;
-  position: relative">
-  <iframe src="CA_Trendline.png" title="Processes" scrolling="no" frameborder="0"
-    style="border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;">
-   <p>Your browser does not support iframes.</p>
- </iframe>
-</div>
-<a href="CA_Trendline.png" target="_blank">View Image in New Tab</a>
+Since January 1st 2000, there have been *at leaset* 603 police involved deaths in Canada. 
 
-## The Police Involved Death Rate (PIDR):
-The PIDR is the number of police killings per unit of population (ie. million) per unit of time (ie. year).  
-<a href="https://www.codecogs.com/eqnedit.php?latex=PIDR&space;=&space;(\frac{600&space;Deaths&space;}{35,151,728&space;ppl})&space;x&space;(\frac{1,000,000&space;ppl}{21.25&space;yr})&space;=&space;0.8&space;/&space;million&space;ppl&space;/&space;yr" target="_blank"><img src="https://latex.codecogs.com/gif.latex?PIDR&space;=&space;(\frac{600&space;Deaths&space;}{35,151,728&space;ppl})&space;x&space;(\frac{1,000,000&space;ppl}{21.25&space;yr})&space;=&space;0.8&space;/&space;million&space;ppl&space;/&space;yr" title="PIDR = (\frac{600 Deaths }{35,151,728 ppl}) x (\frac{1,000,000 ppl}{21.25 yr}) = 0.8 / million ppl / yr" /></a>
-
-
-# 3) Racial Breakdown.
-
-Demographic groups are not evenly represented in the population.  Canada's population is 73.4% White, but White people only account for 42.3% of police killings.  Meanwhile, Canada's population is only 4.8% Indigenous and 3.4% Black, but these groups account for 17.1% and 8.4% of police killings respectively.  The victim's race is Unknown 150 (25.8%) of the incidents, this means the numbers for across racial groups are likely higher than reported.
-
-<div style="overflow: hidden;
-  padding-top: 56.25%;
-  position: relative">
-  <iframe src="CA_Race_Proportional.png" title="Processes" scrolling="no" frameborder="0"
-    style="border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;">
-   <p>Your browser does not support iframes.</p>
- </iframe>
-</div>
-<a href="CA_Race_Proportional.png" target="_blank">View Image in New Tab</a>
-
-This does not describe the whole picture, because there are large disparities in the police killing rate between demographic groups.  The PKR for Indigenous and Black people are **2.82** and **1.95** per million people per year.  The PKR for White people is 0.44 per million people per year.
-
+* Police involved death rates were calculated using 2016 census data.  The death rates for Indigennous, Black, and White indiviuals are *at least*: **2.94**, **1.94**, **0.44** / million residents / year.
+  * The victim's race is Unknown in 153 (25.4%) of the incidents, this means the numbers for across racial groups are likely higher than reported.  
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
@@ -88,71 +48,7 @@ This does not describe the whole picture, because there are large disparities in
 </div>
 <a href="CA_Race_Normalized.png" target="_blank">View Image in New Tab</a>
 
-### Statistical Testing
-
-What would we expect from a uniform proportional distribution? 
-* If Systemic Racism did not exist in Canada, as the RCMP commissioner Brenda Lucki claimed ... The National PIDR would apply to each demographic group.
-* The Chi Square test, will compare the expected and observed distribution to see if the deviations in the observed killings are beyond what would be randomly expected.
-* The test is significant to p < 0.0001, meaning there is **VERY STRONG** evidence showing that there are systemic racial biases in police killings.
-
-
-|                         |   Total Population (Millions) |   Expected Distribtuion |   Observed Distribution |
-|:------------------------|------------------------------:|------------------------:|------------------------:|
-| Total                   |                          35.1 |                     600 |                     600 |
-| White                   |                          25.8 |                     440 |                     252 |
-| Asian                   |                           3.2 |                      54 |                      17 |
-| South Asian             |                           1.9 |                      32 |                      12 |
-| Indigenous              |                           1.6 |                      28 |                     105 |
-| Black                   |                           1.1 |                      20 |                      50 |
-| Arab                    |                           0.5 |                       8 |                       5 |
-| Latin American          |                           0.4 |                       7 |                       3 |
-| Visible minority, n.i.e |                           0.3 |                       6 |                       5 |
-| Unknown                 |                           0   |                       0 |                     151 |
-
-
-# 4) Which police services are responsible for the most killings?
-There are 90 police services listed in the dataset, of which 13 are responsible for 69.7% of all police killings.
-* The RCMP are responsible for 27% (162)) of all police killings in Canada.
-	* They are the federal police and serve as the provincial police in eight provinces and the territories.
-	* The BC RCMP are far and away the deadliest police sericve in Canada.  
-* Large municipal police departments and provincial police are responsible for the majority of the rest police killings.
-
-### Deadliest Police Departments in Canada
-
-|Rank|               Department                |Province|Killings|
-|---:|-----------------------------------------|--------|-------:|
-|   1|RCMP                                     |BC      |      82|
-|   2|Toronto Police Service                   |ON      |      58|
-|   3|RCMP                                     |AB      |      38|
-|   4|Service de police de la Ville de Montréal|QC      |      35|
-|   5|Sûreté du Québec                         |QC      |      34|
-|   6|Ontario Provincial Police                |ON      |      33|
-|   7|Edmonton Police Service                  |AB      |      29|
-|   8|Calgary Police Service                   |AB      |      27|
-|   9|Vancouver Police Department              |BC      |      25|
-|  10|Winnipeg Police Service                  |MB      |      21|
-|  11|Peel Regional Police                     |ON      |      16|
-|  12|Ottawa Police Service                    |ON      |      10|
-|  13|York Regional Police                     |ON      |      10|
-
-
-
-<div style="overflow: hidden;
-  padding-top: 56.25%;
-  position: relative">
-  <iframe src="PoliceViolenceIncidents.html" title="Processes" scrolling="no" frameborder="0"
-    style="border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;">
-   <p>Your browser does not support iframes.</p>
- </iframe>
-</div>
-<a href="PoliceViolenceIncidents.html" target="_blank">View map new tab</a>
-
-# 5) Comparing to the United States  
+# Comparing to the United States  
 
 The PIDR in the United States 4.25 times higer than in Canada.  On the whole, US police are more violent than Canadian Police. 
 

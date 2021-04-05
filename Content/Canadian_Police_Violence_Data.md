@@ -1,29 +1,8 @@
 ---
 layout: default
 title: The Data
-nav_order: 2
+nav_order: 4
 ---
-
-# Deadly Force
-
-The most comprehensive publicly avalialbe dataset on police killings in Canada is the [Deadly Force database](https://newsinteractives.cbc.ca/fatalpoliceencounters/) was publisehd July 23rd 2020.
-
-* *"There is no government database listing deaths at the hands of the police available to the public in Canada, so CBC News created its own. The CBC’s research librarians have collected detailed information on each case, such as ethnicity, the role of mental illness or substance abuse, the type of weapon used and the police service involved, to create a picture of who is dying in police encounters."*
-
-<div style="overflow: hidden;
-  padding-top: 56.25%;
-  position: relative">
-  <iframe src="deadlyforce.png" title="Processes" scrolling="no" frameborder="0"
-    style="border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;">
-   <p>Your browser does not support iframes.</p>
- </iframe>
-</div>
-<a href="deadlyforce.png" target="_blank">View Image in New Tab</a>
 
 # Irregular Updates
 
