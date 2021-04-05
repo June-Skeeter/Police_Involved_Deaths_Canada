@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Trends
+title: Police Violence Data
 nav_order: 2
 ---
 
@@ -30,8 +30,8 @@ The most comprehensive publicly avalialbe dataset on police killings in Canada i
 
 Since January 1st 2000, there have been *at leaset* 603 police involved deaths in Canada. 
 
-* Police involved death rates were calculated using 2016 census data.  The death rates for Indigennous, Black, and White indiviuals are *at least*: **2.94**, **1.94**, **0.44** / million residents / year.
-  * The victim's race is Unknown in 153 (25.4%) of the incidents, this means the numbers for across racial groups are likely higher than reported.  
+* Police involved death rates were calculated using 2016 census data.  The death rates for Indigennous, Black, and White indiviuals are *at least*: **2.94**, **1.94**, **0.44** deaths / million residents / year.
+* The victim's race is Unknown in 153 (25.4%) of the incidents, this means the numbers for across racial groups are likely higher than reported.  
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
@@ -50,7 +50,7 @@ Since January 1st 2000, there have been *at leaset* 603 police involved deaths i
 
 # Comparing to the United States  
 
-The PIDR in the United States 4.25 times higer than in Canada.  On the whole, US police are more violent than Canadian Police. 
+The death rate in the United States 4.2 times higer than in Canada.  On the whole, US police are more violent than Canadian police. 
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
@@ -67,12 +67,11 @@ The PIDR in the United States 4.25 times higer than in Canada.  On the whole, US
 </div>
 <a href="NormalizedComparison.png" target="_blank">View Image in New Tab</a>
 
-# 6) Racial Disparities
+# Racial Disparities
 
 The data for each country use different demographic groupings so we can't directly compare between all groups.  Three demographic groups: White, Black, and Indigenous are recorded by each.
 * Whites are the majority in both countries, while black and indigenous people disproportionately impacted by police killings on both sides of the border.  
-
-The PIDR for Indigenous and Black people are much higher than for white people in both Canada and the United States.  The overall rates for each racial group are higher in the US than Canada.
+* The death rates for Indigenous and Black people are much higher than for White people in both Canada and the United States.  The overall rates for each group are higher in the United States.
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
@@ -92,7 +91,7 @@ The PIDR for Indigenous and Black people are much higher than for white people i
 
 ### However, the disparity between races is actually greater in Canada than the United States.
 
-To show this, we can divide the Black and Indigenous rates for each country by the national rate.  This will tell us how many times more likely a Black or Indigenous individual is to be the victim of a police involved death than is "typical" for the country.
+To show this, we can divide the rates for the three demographic groups by the total rate for each country.  This will tell us how many times more likely a Black or Indigenous individual is to die at the hands of police involved death than is "typical" for the country.
 
 We can see that Indigenous and Black Canadians are 3.8 and 2.4 times more likely to be victims than the national average.
 
@@ -113,7 +112,7 @@ We can see that Indigenous and Black Canadians are 3.8 and 2.4 times more likely
 <a href="Racial_Disparities.png" target="_blank">View Image in New Tab</a>
 
 
-# 7) Mapping Police Involved Deaths
+# Mapping Police Involved Deaths
 
 ### Nunavut has the highest rate of any administrative sub-division in Canada or the United States.
 
@@ -134,48 +133,9 @@ The numbers presented here are contradicted by the [CBC's own reporting](https:/
 </div>
 <a href="ManualBreaks_Map.png" target="_blank">View Image in New Tab</a>
 
-# 8) Highlighting the importance of data normalization
 
-I used these two maps with students to highlight the importance of normalizing our data.  The first shows total counts of poice involveed deaths which is a bit misleading.  Its not accounting for differential populations by race.  It is more meaningful to map the race most likely to be killed by police in each state/province.  
-
-<div style="overflow: hidden;
-  padding-top: 56.25%;
-  position: relative">
-  <iframe src="MostNumerousRace_Map.png" title="Processes" scrolling="no" frameborder="0"
-    style="border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;">
-   <p>Your browser does not support iframes.</p>
- </iframe>
-</div>
-<a href="MostNumerousRace_Map.png" target="_blank">View Image in New Tab</a>
-
-<div style="overflow: hidden;
-  padding-top: 56.25%;
-  position: relative">
-  <iframe src="HighestRateRace_Map.png" title="Processes" scrolling="no" frameborder="0"
-    style="border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;">
-   <p>Your browser does not support iframes.</p>
- </iframe>
-</div>
-<a href="HighestRateRace_Map.png" target="_blank">View Image in New Tab</a>
-
-
-
-
-
-
-# 9) A brief history of the policing in Canada.
+# A brief history of the policing in Canada.
 Racism has been ingrained in the misson of the RCMP since its foundation.
-
 * The RCMP were created by Prime Minister John A. Macdonald.  He got the idea for the Mounties from the Royal Irish Constabulary, a paramilitary police force the British created to keep the Irish under control.  Initially called the "North West Mounted Rifles", their primary purpose to clear Indigenous people off their land.  The name was changed to "North-West Mounted Police" because officials in the United States raised concerns that an armed force along the border was a prelude to a military buildup.  This organization was renamed the Royal Canadian Mounted Police in 1904.
 * If you want to learn more about the history of the RCMP, I suggest you listen to these by [The Secret Life of Canada](https://www.cbc.ca/listen/cbc-podcasts/203-the-secret-life-of-canada/episode/15798131-s3-the-mounties-always-get-their-land-part-1) and [Commons](https://www.canadaland.com/podcast/the-police-2-the-secret-history-of-the-rcmp/) 
 
