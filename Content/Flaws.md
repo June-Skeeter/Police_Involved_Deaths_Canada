@@ -41,7 +41,7 @@ In the US, there is a non-profit organization, [Mapping Police Violence](https:/
 </div>
 <a href="mappingpoliceviolence.png" target="_blank">View Image in New Tab</a>
 
-# Exapnding the Dataset and Filling Gaps
+# Expanding the Dataset and Filling Gaps
 The Deadly Force dataset only includes deaths that are "verifiably" the result of police use of force during an arrest.  This does not capture the full picture, we need a broader, more inclusive account of all deaths that are occuring as a result of interactions with the police in Canada. 
 
 ### 1) Killings by off duty & ex police officers.
@@ -54,7 +54,7 @@ The Deadly Force dataset only includes deaths that are "verifiably" the result o
 * There are many records of indivuduals in police custody being denied medical care.
 	* In one horrific case, Paul Kayuryuk from [Baker Lake, NU](https://www.cbc.ca/news/canada/north/paul-kayuryuk-baker-lake-inquest-1.4231300) died after being found unconcious at the landfill.  Paul was diabetic had suffered a stroke but the police assumed he was intoxicated and kept him in a jail cell overnight.
 * Suicides in police custody are [oftentimes preventable](https://www.theglobeandmail.com/news/politics/womans-death-in-custody-exposes-indigenous-policing-issues/article32694835/).
-* Two men burned to death in a jail cell [while being held for public intoxication at the ramshackle Kashechewan First Nation police detachment](https://www.cbc.ca/news/canada/kashechewan-fire-inquest-calls-for-more-funds-for-police-stations-training-1.819764)
+* Two men burned to death in a jail cell while being held for public intoxication at the ramshackle [Kashechewan First Nation police detachment](https://www.cbc.ca/news/canada/kashechewan-fire-inquest-calls-for-more-funds-for-police-stations-training-1.819764)
 
 # What other informatoin is avalable?
 [Killercopscanada](https://killercopscanada.wordpress.com/) has a more inclusive record of police involved deaths dating back to July 2015.
