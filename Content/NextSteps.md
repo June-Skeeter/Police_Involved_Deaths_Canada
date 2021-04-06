@@ -53,9 +53,6 @@ Regardless of whether an officer is charged with a crime, the departments involv
 
 
 
-# Sharing the Data
-
-This information needs to be disseminated more widely; systemic racism is swept under the rug too often in Canada.  The updated dataset is publicly available on my [github page](https://github.com/June-Spaceboots/Police_Involved_Deaths_Canada/tree/main/Inputs).  I intend to continue working to update, document, and share this dataset.  If anyone has any questions, comments, or interest in collaborating on this please contact me at: skeeter1@mail.ubc.ca
 
 
 
