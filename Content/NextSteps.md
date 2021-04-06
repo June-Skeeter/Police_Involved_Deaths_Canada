@@ -7,7 +7,7 @@ nav_order: 5
 # Validating, Updating, and Expanding the Dataset
 So far, I have found 15 police involved deaths that were left out of the dataset.  
 * There are more that need to be added, which I haven't been able to find a source for yet.  
-  * ["Between 2010 and July 2020, there have been 13 police-related deaths in Nunavut"](https://www.cbc.ca/news/canada/north/nunavut-police-related-death-rate-high-data-1.5645619)
+  * ["Between 2010 and July 2020, there have been 13 police-related deaths in Nunavut"](Police-Involved)
   * So far, I've only been able to find sources for eight of them.
 
 There have been *at least* 32 police involved deaths since
@@ -55,6 +55,7 @@ Regardless of whether an officer is charged with a crime, the departments involv
 
 # Sharing the Data
 
-This information needs to be disseminated more widely, Systemic Racism is swept under the rug too often in Canada.  The updated dataset is publicly available on my [github page](https://github.com/June-Spaceboots/Police_Involved_Deaths_Canada/tree/main/Inputs).  I intend to continue to working update, document and share this dataste, but I am just one grad student with limited time & resources.  
+This information needs to be disseminated more widely; systemic racism is swept under the rug too often in Canada.  The updated dataset is publicly available on my [github page](https://github.com/June-Spaceboots/Police_Involved_Deaths_Canada/tree/main/Inputs).  I intend to continue working to update, document, and share this dataset.  If anyone has any questions, concenrs, comments, or is interested in collaborating on this please contact me at: skeeter1@mail.ubc.ca
 
-If any one has any questions, concenrs, comments, or is interested in collaborating on this please contact reach out me at: skeeter1@mail.ubc.ca
+
+
