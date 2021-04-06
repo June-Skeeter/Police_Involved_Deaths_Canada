@@ -26,7 +26,7 @@ The most comprehensive publicly available dataset on police killings in Canada i
 <a href="deadlyforce.png" target="_blank">View Image in New Tab</a>
 
 # Police-Involved Deaths Data
- This numbers I am showing are based on my personal interpretation of the CBC data and updates I have made to fill missing records.  Between January 1, 2000 and April 4, 2021 there have been *at least* **603 police-involved deaths in Canada**.
+ This numbers I am showing are based on my personal interpretation of the CBC data and updates I have made to fill missing records.  Between January 1, 2000 and April 4, 2021 there have been *at least* **631 police-involved deaths in Canada**.
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
@@ -45,9 +45,8 @@ The most comprehensive publicly available dataset on police killings in Canada i
 
 # Racial Breakdown
 
-  
 * To highlight the uneven distribution of deaths across demographic groups, I've calculated the police-involved death rates for each group using 2016 census data.
-* The death rates for Indigenous, Black, and White individuals are *at least*: **2.94**, **1.94**, **0.44** deaths / million residents / year respectively.
+* The death rates for Indigenous, Black, and White individuals are *at least*: **3.0**, **2.0**, **0.5** deaths / million residents / year respectively.
 * The victims' race is Unknown in 153 (25.4%) of the incidents, this means the numbers for across racial groups are likely higher than reported.  
 
 <div style="overflow: hidden;
@@ -67,28 +66,9 @@ The most comprehensive publicly available dataset on police killings in Canada i
 
 # Comparing to the United States  
 
-The death rate in the United States is 4.2 times higher than in Canada.  On the whole, police in the United States are more violent than police in Canada. 
-
-<div style="overflow: hidden;
-  padding-top: 56.25%;
-  position: relative">
-  <iframe src="NormalizedComparison.png" title="Processes" scrolling="no" frameborder="0"
-    style="border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;">
-   <p>Your browser does not support iframes.</p>
- </iframe>
-</div>
-<a href="NormalizedComparison.png" target="_blank">View Image in New Tab</a>
-
-# Racial Disparities
-
-The census data for each country use different demographic groupings so we can't directly compare between all groups.  Three demographic groups: White, Black, and Indigenous are recorded by each.
-* Whites are the majority in both countries, while Black and Indigenous people are disproportionately impacted by police killings.  
+The Total death rate in the United States is about 4 times higher than in Canada.  The census data for each country use different demographic groupings so we can't directly compare between all groups.  Three demographic groups: White, Black, and Indigenous are recorded by each.
 * The death rates for Indigenous and Black people are much higher than for White people in both Canada and the United States.  The overall rates for each group are higher in the United States.
+
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
@@ -105,13 +85,9 @@ The census data for each country use different demographic groupings so we can't
 </div>
 <a href="Racial_Comparison.png" target="_blank">View Image in New Tab</a>
 
+# The Racial Disparity is Greater in Canada than the United States.
 
-### However, the disparity between races is actually greater in Canada than the United States.
-
-To show this, we can divide the rates for the three demographic groups by the total rate for each country.  This will tell us how many times more likely a Black or Indigenous individual is to die at the hands of police-involved death than is "typical" for the country.
-
-We can see that Indigenous and Black Canadians respectively are 3.8 and 2.4 times more likely to be victims than the national average.
-
+Dividing the rates for the three demographic groups by the total rate for each country will tell us how many times more likely a Black or Indigenous individual is to die in a police encounter than is "typical" for the country.
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
