@@ -56,6 +56,25 @@ The Deadly Force dataset only includes deaths that are "verifiably" the result o
 * Suicides in police custody are [oftentimes preventable](https://www.theglobeandmail.com/news/politics/womans-death-in-custody-exposes-indigenous-policing-issues/article32694835/).
 * Two men burned to death in a jail cell while being held for public intoxication at the [Kashechewan First Nation police detachment](https://www.cbc.ca/news/canada/kashechewan-fire-inquest-calls-for-more-funds-for-police-stations-training-1.819764).
 
+
+|Category |               Incidents                |
+|--------:|----------------------------------------|
+|Shooting |[1](https://toronto.citynews.ca/2014/05/21/jeffrey-reodica-vigil-marks-10-years-since-fatal-police-shooting/) [2](https://globalnews.ca/news/7643929/former-b-c-cop-granted-escorted-temporary-absences/) [3](https://globalnews.ca/news/6267867/asirt-shooting-cochrane-dec-2019/) [4](https://edmonton.ctvnews.ca/man-dead-after-police-involved-shooting-in-central-alberta-officials-1.4747826) |
+|<!--    2|Toronto Police Service                   |ON      |      61|
+|   3|RCMP                                     |AB      |      39|
+|   4|Service de police de la Ville de Montréal|QC      |      35|
+|   5|Sûreté du Québec                         |QC      |      34|
+|   6|Ontario Provincial Police                |ON      |      33|
+|   7|Edmonton Police Service                  |AB      |      29|
+|   8|Calgary Police Service                   |AB      |      27|
+|   9|Vancouver Police Department              |BC      |      25|
+|  10|Winnipeg Police Service                  |MB      |      21|
+|  11|Peel Regional Police                     |ON      |      16|
+|  12|Ottawa Police Service                    |ON      |      10|
+|  13|York Regional Police                     |ON      |      10|
+ -->
+
+
 # What Other Information is Available?
 [Killercopscanada](https://killercopscanada.wordpress.com/) has a more inclusive record of police involved deaths dating back to July 2015.
 

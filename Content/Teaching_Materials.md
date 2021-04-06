@@ -4,7 +4,7 @@ title: Teaching Materials
 nav_order: 3
 ---
 
-# UBC Libary Research Commons GIS Workshops
+# UBC Library Research Commons GIS Workshops
 
  I have applied these data to create a series of instructional workshops focusing on data visualization and using Python as a tool to promote social justice issues.
 
