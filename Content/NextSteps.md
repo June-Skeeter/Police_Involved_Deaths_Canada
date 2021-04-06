@@ -70,7 +70,8 @@ There have been *at least* 600 police involved deaths that have occured since th
 
 As of 2017 (*2020 update does not include this information*), only 14 officers (3%) had been charged for a killing.  Regardless of whether an officer is charged with a crime, the departments involved are directly responsible for the deaths of these 634 individuals.  Here is a list of the departments in Canada with at leasat 10 Police-Inolved Deaths.
 
-# Deadliest Police Departments in Canada
+### Deadliest Police Departments in Canada
+
 |Rank|               Department                |Province|Killings|
 |---:|-----------------------------------------|--------|-------:|
 |   1|RCMP                                     |BC      |      83|
