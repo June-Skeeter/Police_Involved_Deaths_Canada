@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Next Steps
-nav_order: 5
+nav_order: 4
 ---
-
 # Expanding the Dataset and Filling Gaps
 
 The Deadly Force dataset does not capture the full picture.  We need a broader, more inclusive account of all deaths that are occurring as a result of interactions with police in Canada.  I propose  
@@ -44,12 +43,12 @@ The Deadly Force dataset does not capture the full picture.  We need a broader, 
 
 
 # Validating, Updating, and Expanding the Dataset
-Using the Deadly Force Dataset, the Killercopscanada](https://killercopscanada.wordpress.com/) blog, and Google Searches, I have stared compiling a new, morecomprehensive database of Police-Involved Deaths.
+Using the Deadly Force Dataset, the [Killercopscanada](https://killercopscanada.wordpress.com/) blog, and Google Searches, I have stared compiling a new, morecomprehensive database of Police-Involved Deaths.
 * I have added all verifiable recrods from [Killercopscanada](https://killercopscanada.wordpress.com/) occuring after the CBC DeadlyForce database ends (June 30, 2020).
 * I have begun working backwards through the DeadlyForce database to fill in missing incidients and update missing records.  So far, I have found 19 police involved-deaths that were left out of the dataset.  
   * I have only just begun this part of the process, there are many more missing records to be added.
 
-There have been *at least* 600 police involved deaths that have occured since the dataset was published.
+There have been *at least* 60 police involved deaths that have occured since the dataset was published.
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
@@ -91,6 +90,8 @@ As of 2017 (*2020 update does not include this information*), only 14 officers (
 
 
 
+# Sharing the Data
 
+This information needs to be disseminated more widely; systemic racism is swept under the rug too often in Canada.  The updated dataset is publicly available on my [github page](https://github.com/June-Spaceboots/Police_Involved_Deaths_Canada/tree/main/Inputs).  I intend to continue working to update, document, and share this dataset.  If anyone has any questions, comments, or interest in collaborating on this please contact me at: skeeter1@mail.ubc.ca
 
 
