@@ -47,7 +47,7 @@ The most comprehensive publicly available dataset on police killings in Canada i
 
 * To highlight the uneven distribution of deaths across demographic groups, I've calculated the police-involved death rates for each group using 2016 census data.
 * The death rates for Indigenous, Black, and White individuals are *at least*: **3.0**, **2.0**, **0.5** deaths / million residents / year respectively.
-* The victims' race is Unknown in 153 (25.4%) of the incidents, this means the numbers for across racial groups are likely higher than reported.  
+* The victims' race is Unknown in 179 (28%) of the incidents, this means the numbers for across racial groups are likely higher than reported.  
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
@@ -128,7 +128,7 @@ The numbers presented here are contradicted by the [CBC's own reporting](https:/
 
 
 # A Brief History of Policing in Canada.
-Racism has been ingrained in the mission of the Royal Canadian Mounted Police (RCMP) since its foundation.  If you want to learn more about the history of the RCMP, I suggest you listen to these podcasts by [The Secret Life of Canada](https://www.cbc.ca/listen/cbc-podcasts/203-the-secret-life-of-canada/episode/15798131-s3-the-mounties-always-get-their-land-part-1) and [Commons](https://www.canadaland.com/podcast/the-police-2-the-secret-history-of-the-rcmp/).
+Racism is ingrained in the history of policing in Canada.  If you want to learn more about the history of the Canadian Policing, I suggest you listen to these podcasts by [The Secret Life of Canada](https://www.cbc.ca/listen/cbc-podcasts/203-the-secret-life-of-canada/episode/15798131-s3-the-mounties-always-get-their-land-part-1) and [Commons](https://www.canadaland.com/podcast/the-police-2-the-secret-history-of-the-rcmp/).
 
 
 

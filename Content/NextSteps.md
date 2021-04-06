@@ -4,13 +4,52 @@ title: Next Steps
 nav_order: 5
 ---
 
-# Validating, Updating, and Expanding the Dataset
-So far, I have found 15 police involved deaths that were left out of the dataset.  
-* There are more that need to be added, which I haven't been able to find a source for yet.  
-  * ["Between 2010 and July 2020, there have been 13 police-related deaths in Nunavut"](Police-Involved)
-  * So far, I've only been able to find sources for eight of them.
+# Expanding the Dataset and Filling Gaps
 
-There have been *at least* 32 police involved deaths since
+The Deadly Force dataset does not capture the full picture.  We need a broader, more inclusive account of all deaths that are occurring as a result of interactions with police in Canada.  I propose  
+
+### 1) Killings by off duty & ex police officers.
+* Domestic violence rates among police families are [two to four](https://www.theatlantic.com/national/archive/2014/09/police-officers-who-hit-their-wives-or-girlfriends/380329/) times higher than they are in the general public.
+  * At least four Candian police have killed their partners since 2000 [1](https://www.thestar.com/news/2007/10/31/wills_found_guilty_of_murdering_mistress.html) [2](https://globalnews.ca/news/7643929/former-b-c-cop-granted-escorted-temporary-absences/) [3](https://www.cbc.ca/news/canada/ex-rcmp-officer-convicted-of-murder-1.305479) [4](https://www.cbc.ca/news/canada/edmonton/former-mountie-found-not-criminally-responsible-in-wife-s-death-1.1304062)
+  
+
+### 2) Deaths from Negligence, Incompetence
+* There are multiple incidents deaths from police-involved car crashes. [1](https://www.cbc.ca/news/canada/montreal/man-dies-police-custody-puvirnituq-1.4091914) [2](https://barrie.ctvnews.ca/pedestrian-struck-and-killed-by-an-unmarked-opp-vehicle-in-midland-1.5124667?cache=) [3](https://www.bei.gouv.qc.ca/actualites/detail/mise-a-jour-concernant-levenement-survenu-a-mont-laurier-le-13-octobre-lidentite-du-civil-decede.html)
+* [Falls](https://en.wikipedia.org/wiki/Death_of_Regis_Korchinski-Paquet) or suicides during police encounters are a frequent occurence.
+
+### 3) Deaths Occurring in Police Custody.
+* There are many records of individuals in police custody being denied or delayed medical care.
+  * In one horrific case, a diabetic inidgenous mas from [Baker Lake, NU](https://www.cbc.ca/news/canada/north/paul-kayuryuk-baker-lake-inquest-1.4231300) was found unconscious after suffering a stroke.  The police assumed he was intoxicated and kept him in a jail cell overnight.
+* Suicides in police custody are [oftentimes preventable](https://www.theglobeandmail.com/news/politics/womans-death-in-custody-exposes-indigenous-policing-issues/article32694835/).
+* Two men burned to death in a jail cell while being held for public intoxication at the [Kashechewan First Nation police detachment](https://www.cbc.ca/news/canada/kashechewan-fire-inquest-calls-for-more-funds-for-police-stations-training-1.819764).
+
+
+# What Other Information is Available?
+[Killercopscanada](https://killercopscanada.wordpress.com/) has a more inclusive record of police involved deaths dating back to July 2015.
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="killercopscanada.png" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="killercopscanada.png" target="_blank">View Image in New Tab</a>
+
+
+# Validating, Updating, and Expanding the Dataset
+Using the Deadly Force Dataset, the Killercopscanada](https://killercopscanada.wordpress.com/) blog, and Google Searches, I have stared compiling a new, morecomprehensive database of Police-Involved Deaths.
+* I have added all verifiable recrods from [Killercopscanada](https://killercopscanada.wordpress.com/) occuring after the CBC DeadlyForce database ends (June 30, 2020).
+* I have begun working backwards through the DeadlyForce database to fill in missing incidients and update missing records.  So far, I have found 19 police involved-deaths that were left out of the dataset.  
+  * I have only just begun this part of the process, there are many more missing records to be added.
+
+There have been *at least* 600 police involved deaths that have occured since the dataset was published.
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
@@ -27,29 +66,27 @@ There have been *at least* 32 police involved deaths since
 </div>
 <a href="CA_Trendline.png" target="_blank">View Image in New Tab</a>
 
-# Advocating for Accountability
+# Advocating for Accountability, Attributing Blame
 
-As of 2017 (The 2020 update didn't include this information), only 14 officers (3%) had been charged for a killing.
+As of 2017 (*2020 update does not include this information*), only 14 officers (3%) had been charged for a killing.  Regardless of whether an officer is charged with a crime, the departments involved are directly responsible for the deaths of these 634 individuals.  Here is a list of the departments in Canada with at leasat 10 Police-Inolved Deaths.
 
-# Attributing Blame
-
-Regardless of whether an officer is charged with a crime, the departments involved are directly responsible for the deaths of these 603 individuals.
-
+# Deadliest Police Departments in Canada
 |Rank|               Department                |Province|Killings|
 |---:|-----------------------------------------|--------|-------:|
-|   1|RCMP                                     |BC      |      82|
-|   2|Toronto Police Service                   |ON      |      61|
-|   3|RCMP                                     |AB      |      39|
-|   4|Service de police de la Ville de Montréal|QC      |      35|
-|   5|Sûreté du Québec                         |QC      |      34|
-|   6|Ontario Provincial Police                |ON      |      33|
-|   7|Edmonton Police Service                  |AB      |      29|
-|   8|Calgary Police Service                   |AB      |      27|
-|   9|Vancouver Police Department              |BC      |      25|
+|   1|RCMP                                     |BC      |      83|
+|   2|Toronto Police Service                   |ON      |      65|
+|   3|RCMP                                     |AB      |      40|
+|   4|Ontario Provincial Police                |ON      |      36|
+|   5|Service de police de la Ville de Montréal|QC      |      35|
+|   6|Sûreté du Québec                         |QC      |      34|
+|   7|Edmonton Police Service                  |AB      |      30|
+|   8|Calgary Police Service                   |AB      |      28|
+|   9|Vancouver Police Department              |BC      |      26|
 |  10|Winnipeg Police Service                  |MB      |      21|
-|  11|Peel Regional Police                     |ON      |      16|
-|  12|Ottawa Police Service                    |ON      |      10|
-|  13|York Regional Police                     |ON      |      10|
+|  11|Peel Regional Police                     |ON      |      18|
+|  12|Ottawa Police Service                    |ON      |      12|
+|  13|RCMP                                     |SK      |      10|
+|  14|York Regional Police                     |ON      |      10|
 
 
 
