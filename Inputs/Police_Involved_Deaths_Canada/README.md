@@ -1,3 +1,9 @@
+---
+layout: default
+title: Updated Data Docs
+nav_order: 6
+---
+
 # Police_Involved_Deaths_Canada
 
 This folder contains there data sets
@@ -10,3 +16,5 @@ This folder contains there data sets
 	* Police-Involved Deaths that occured between January 1, 2001 and June 30, 2020
 	* Police Killings and Police-Involved Deaths from July 1, 2020 to April 4
 		* -I've backtrakced everything from KillerCopsCanada thru Nov 2020
+
+I've tried to aviod making assumptions on race of the victims when it is unspecified.  The only exception, is if an incident occured in a first nation community, I have assumed the victim was Indigenous.
