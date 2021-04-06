@@ -29,7 +29,7 @@ I am speaking to you today from the traditional, ancestral, and unceded territor
  
 # Notes on Terminology
 
-**Police Killling:** A death directly resulting from police use of force.  Including but not limited to: shooting, tassing, other use of force, or incompetence (eg. car accidents).
+**Police Killing:** A death directly resulting from police use of force.  Including but not limited to: shooting, tassing, other use of force, or incompetence (e.g. car accidents).
 
-**Police-Involved Deaths**  Any civilian death at the hands of police or in the custody of police is considred a police-involved death.  Includes police killings as well as deaths resulting from police negligence/inaction: suicide, overdoses, medical emergenices, etc.  This is broader term that is more difficult to refute on the grounds of semantics.  
+**Police-Involved Deaths**  Any civilian death at the hands of police or in the custody of police is consiedred a police-involved death.  Includes police killings as well as deaths resulting from police negligence/inaction: suicide, overdoses, medical emergencies, etc.  This is broader term that is more difficult to refute on the grounds of semantics.  
 
