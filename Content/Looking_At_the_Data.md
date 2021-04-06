@@ -28,7 +28,9 @@ The most comprehensive publicly available dataset on police killings in Canada i
 
 # Racial Breakdown
 
-Between January 1, 2000 and April 4, 2021 there have been *at least* 603 police-involved deaths in Canada.  This number is based on updates I've added to the CBC data. These deaths were not evenly distributed across demographic groups.  To highlight this, I've calculated the police-involved death rates using 2016 census data.  The death rates for Indigenous, Black, and White individuals are *at least*: **2.94**, **1.94**, **0.44** deaths / million residents / year respectively.
+Between January 1, 2000 and April 4, 2021 there have been *at least* **603 police-involved deaths in Canada**.  This number is based on updates I've added to the CBC data. 
+* To highlight the uneven distribution of deaths across demographic groups, I've calculated the police-involved death rates for each group using 2016 census data.
+* The death rates for Indigenous, Black, and White individuals are *at least*: **2.94**, **1.94**, **0.44** deaths / million residents / year respectively.
 * The victims' race is Unknown in 153 (25.4%) of the incidents, this means the numbers for across racial groups are likely higher than reported.  
 
 <div style="overflow: hidden;
@@ -67,8 +69,8 @@ The death rate in the United States is 4.2 times higher than in Canada.  On the 
 
 # Racial Disparities
 
-The data for each country use different demographic groupings so we can't directly compare between all groups.  Three demographic groups: White, Black, and Indigenous are recorded by each.
-* Whites are the majority in both countries, while Black and Indigenous people are disproportionately impacted by police killings on both sides of the border.  
+The census data for each country use different demographic groupings so we can't directly compare between all groups.  Three demographic groups: White, Black, and Indigenous are recorded by each.
+* Whites are the majority in both countries, while Black and Indigenous people are disproportionately impacted by police killings.  
 * The death rates for Indigenous and Black people are much higher than for White people in both Canada and the United States.  The overall rates for each group are higher in the United States.
 
 <div style="overflow: hidden;
@@ -132,10 +134,9 @@ The numbers presented here are contradicted by the [CBC's own reporting](https:/
 <a href="ManualBreaks_Map.png" target="_blank">View Image in New Tab</a>
 
 
-# A brief History of Policing in Canada.
-Racism has been ingrained in the misson of the Royal Canadian Mounted Police (RCMP) since its foundation.
-* The RCMP was created by Prime Minister John A. Macdonald.  He got the idea for the Mounties from the Royal Irish Constabulary, a paramilitary police force the British created to keep the Irish under control.  Initially called the "North West Mounted Rifles", their primary purpose was to clear Indigenous people off their land.  The name was changed to "North-West Mounted Police" because officials in the United States raised concerns that an armed force along the border was a prelude to a military buildup.  This organization was renamed the Royal Canadian Mounted Police in 1904.
-* If you want to learn more about the history of the RCMP, I suggest you listen to these podcasts by [The Secret Life of Canada](https://www.cbc.ca/listen/cbc-podcasts/203-the-secret-life-of-canada/episode/15798131-s3-the-mounties-always-get-their-land-part-1) and [Commons](https://www.canadaland.com/podcast/the-police-2-the-secret-history-of-the-rcmp/).
+# A Brief History of Policing in Canada.
+Racism has been ingrained in the misson of the Royal Canadian Mounted Police (RCMP) since its foundation.  If you want to learn more about the history of the RCMP, I suggest you listen to these podcasts by [The Secret Life of Canada](https://www.cbc.ca/listen/cbc-podcasts/203-the-secret-life-of-canada/episode/15798131-s3-the-mounties-always-get-their-land-part-1) and [Commons](https://www.canadaland.com/podcast/the-police-2-the-secret-history-of-the-rcmp/).
+
 
 
 

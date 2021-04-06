@@ -19,13 +19,13 @@ I am speaking to you today from the traditional, ancestral, and unceded territor
 
 # Topics Covered Today
 
-1) Canadian police violcence - How does it compare to the United States?
+1) Canadian police violence and how it compares to the United States.
 
-2) Teaching materials: Using open-source tools to promote soical and ecological justice issues.
+2) Teaching materials: Using open-source tools to address social justice issues.
 
-3) More about the data - (What's Available and What's Lacking)
+3) More about the data: What's available and what's lacking.
 
-4) Next steps
+4) Next steps.
  
 # Notes on Terminology
 

@@ -9,13 +9,13 @@ nav_order: 4
 # 1) The CBC has not disclosed the specifics of their methodology.
 They have not adequately defined their methods, defined what does and does not qualify as a police killing, or provided sources for their data.
 
-# 2) The data are not regularly updated.
+# 2) The Data are not Regularly Updated.
 The dataset was intially published in [2018](https://newsinteractives.cbc.ca/longform-custom/deadly-force).  It was not updated again for two and a half years.
 * The updates coincided with media attention surrounding the Black Lives Matter protests in summer 2020, and to date the CBC has no plans of updating it further.
 * This highlights a problem with relying on a news corporation to collect & disseminate this type of information.
 
 # 3) There are many missing/incomplete records.
-The victims' race is unknown in 153 incidents.  Their name is missing in 45 incidents.  The cause of death is unknown in 22 incidents.
+The victims' race is Unknown in 153 incidents, their names are missing in 45 incidents and the cause of death is Unknown in 22 incidents.
 
 The CBC database has missing incidents entirely, including *at least* four shootings [1](https://toronto.citynews.ca/2014/05/21/jeffrey-reodica-vigil-marks-10-years-since-fatal-police-shooting/) [2](https://globalnews.ca/news/7643929/former-b-c-cop-granted-escorted-temporary-absences/) [3](https://globalnews.ca/news/6267867/asirt-shooting-cochrane-dec-2019/) [4](https://edmonton.ctvnews.ca/man-dead-after-police-involved-shooting-in-central-alberta-officials-1.4747826), a death from a [police dog](https://www.cbc.ca/news/indigenous/prince-george-death-rcmp-custody-investigation-1.5540688), and two [starlight tours](https://www.canadaland.com/podcast/the-police-4-starlight-tours/).
 
@@ -23,7 +23,7 @@ A starlight tour is a heinous practice where police abduct indigenous individual
 * *"While their deaths were very likely a result of starlight tours by the Saskatoon police, they were not added to the database because there is no record of police officers picking them up. The inquests into their deaths were also inconclusive. Because of the lack of definitive proof, it was decided not to include them in the database."*
 
 # Looking to the United States
-In the US, there is a non-profit organization, [Mapping Police Violence](https://mappingpoliceviolence.org/), which maintains a database and updates it frequently.
+A non-profit organization, [Mapping Police Violence](https://mappingpoliceviolence.org/), maintains a database and updates it frequently.
 * *We believe the data represented on this site is the most comprehensive accounting of people killed by police since 2013. ... more comprehensive than the Washington Post police shootings database: ... includes additional incidents such as cases where police kill someone through use of a chokehold, baton, taser or other means as well as cases such as killings by off-duty police.*
 
 <div style="overflow: hidden;
