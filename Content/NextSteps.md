@@ -95,7 +95,7 @@ As of 2017 (*2020 update does not include this information*), only 14 officers (
 I have applied these data to create a series of instructional workshops.  The goal is to expose students to this important information and show them how they can use open-source tools to address issues they are passionate about.
 
 Two hands-on workshops show students how they use open source technology to advocate for social justice.  [The first](https://ubc-library-rc.github.io/Geospatial-Analysis-Visualization-with-Python/) some basic skills needed to analyze and plot geospatial data with Python.  [The second](https://ubc-library-rc.github.io/Geocoding-Web-Mapping-with-Python/) teaches students how to geocode with Python using the Mapbox API and gives them a basic overview of how to create interactive webmaps.
-[A thrid](https://ubc-lib-geo.github.io/Data-Normalization-Classification/) lecture-style workshop highlights the importance of normalizing data and teaches students how to apply different data classification methods.
+[A third](https://ubc-lib-geo.github.io/Data-Normalization-Classification/) lecture-style workshop highlights the importance of normalizing data and teaches students how to apply different data classification methods.
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
