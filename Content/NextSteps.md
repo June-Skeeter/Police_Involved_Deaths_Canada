@@ -10,6 +10,7 @@ The Deadly Force dataset does not capture the full picture.  We need a broader, 
 ### 1) Killings by off duty & ex police officers.
 * Domestic violence rates among police families are [two to four](https://www.theatlantic.com/national/archive/2014/09/police-officers-who-hit-their-wives-or-girlfriends/380329/) times higher than they are in the general public.
   * At least four Candian police have killed their partners since 2000 [1](https://www.thestar.com/news/2007/10/31/wills_found_guilty_of_murdering_mistress.html) [2](https://globalnews.ca/news/7643929/former-b-c-cop-granted-escorted-temporary-absences/) [3](https://www.cbc.ca/news/canada/ex-rcmp-officer-convicted-of-murder-1.305479) [4](https://www.cbc.ca/news/canada/edmonton/former-mountie-found-not-criminally-responsible-in-wife-s-death-1.1304062)
+  * At least one death from a drunk off-duty officer striking a pedestrian. [1](https://killercopscanada.wordpress.com/2019/10/31/killer-cop-justin-holz-gets-30-months-for-killing-cody-severight-in-2017/)
   
 
 ### 2) Deaths from Negligence, Incompetence
@@ -24,7 +25,7 @@ The Deadly Force dataset does not capture the full picture.  We need a broader, 
 
 
 # What Other Information is Available?
-[Killercopscanada](https://killercopscanada.wordpress.com/) has a more inclusive record of police involved deaths dating back to July 2015.
+[Killercopscanada](https://killercopscanada.wordpress.com/) has a more inclusive record of police-involved deaths dating back to July 2015.
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
@@ -45,10 +46,10 @@ The Deadly Force dataset does not capture the full picture.  We need a broader, 
 # Validating, Updating, and Expanding the Dataset
 Using the Deadly Force Dataset, the [Killercopscanada](https://killercopscanada.wordpress.com/) blog, and Google Searches, I have stared compiling a new, morecomprehensive database of Police-Involved Deaths.
 * I have added all verifiable recrods from [Killercopscanada](https://killercopscanada.wordpress.com/) occuring after the CBC DeadlyForce database ends (June 30, 2020).
-* I have begun working backwards through the DeadlyForce database to fill in missing incidients and update missing records.  So far, I have found 19 police involved-deaths that were left out of the dataset.  
+* I have begun working backwards through the DeadlyForce database to fill in missing incidients and update missing records.  So far, I have found 38 police-involved-deaths that were left out of the CBC dataset.  
   * I have only just begun this part of the process, there are many more missing records to be added.
 
-There have been *at least* 60 police involved deaths that have occured since the dataset was published.
+There have been *at least* 60 police-involved deaths that have occured since the dataset was published.
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
@@ -67,26 +68,26 @@ There have been *at least* 60 police involved deaths that have occured since the
 
 # Advocating for Accountability, Attributing Blame
 
-As of 2017 (*2020 update does not include this information*), only 14 officers (3%) had been charged for a killing.  Regardless of whether an officer is charged with a crime, the departments involved are directly responsible for the deaths of these 634 individuals.  Here is a list of the departments in Canada with at leasat 10 Police-Inolved Deaths.
+As of 2017 (*2020 update does not include this information*), only 14 officers (3%) had been charged for a killing.  Regardless of whether an officer is charged with a crime, the departments involved are directly responsible for the deaths of these 634 individuals.
 
 ### Deadliest Police Departments in Canada
 
 |Rank|               Department                |Province|Killings|
 |---:|-----------------------------------------|--------|-------:|
-|   1|RCMP                                     |BC      |      83|
-|   2|Toronto Police Service                   |ON      |      65|
+|   1|RCMP                                     |BC      |      87|
+|   2|Toronto Police Service                   |ON      |      66|
 |   3|RCMP                                     |AB      |      40|
 |   4|Ontario Provincial Police                |ON      |      36|
 |   5|Service de police de la Ville de Montréal|QC      |      35|
 |   6|Sûreté du Québec                         |QC      |      34|
-|   7|Edmonton Police Service                  |AB      |      30|
+|   7|Edmonton Police Service                  |AB      |      31|
 |   8|Calgary Police Service                   |AB      |      28|
 |   9|Vancouver Police Department              |BC      |      26|
-|  10|Winnipeg Police Service                  |MB      |      21|
+|  10|Winnipeg Police Service                  |MB      |      22|
 |  11|Peel Regional Police                     |ON      |      18|
 |  12|Ottawa Police Service                    |ON      |      12|
-|  13|RCMP                                     |SK      |      10|
-|  14|York Regional Police                     |ON      |      10|
+|  13|York Regional Police                     |ON      |      11|
+|  14|RCMP                                     |SK      |      10|
 
 # Sharing the Information  
 

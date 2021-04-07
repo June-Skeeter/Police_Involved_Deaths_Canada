@@ -12,11 +12,11 @@ nav_order: 3
 
 3) There are many missing/incomplete records in their data.  The victims' race is Unknown in 136 incidents, their names are missing in 45 incidents and the cause of death is Unknown in 22 incidents.
 
-* This highlights a problem with relying on a news corporation to collect & disseminate this type of information.
-
 The CBC database has missing incidents entirely, including *at least* three shootings, a tasing, a death from a police dog, and two [starlight tours](https://www.canadaland.com/podcast/the-police-4-starlight-tours/).  A starlight tour is when police abduct indigenous individuals and drop them off in rural areas.  When done in the winter, some victims  freeze to death.  I asked the CBC why the starlight tour deaths of Rodney Naistus and Lawrence Wegner in January and February 2000 at the hands of the Saskatoon Police were not included in the database.
 * *"While their deaths were very likely a result of starlight tours by the Saskatoon police, they were not added to the database because there is no record of police officers picking them up. The inquests into their deaths were also inconclusive. Because of the lack of definitive proof, it was decided not to include them in the database."*
 
+
+### This response highlights why we can not rely on a news corporation to collect & disseminate this type of information.
 
 # Looking to the United States
 A non-profit organization, [Mapping Police Violence](https://mappingpoliceviolence.org/), maintains a database and updates it frequently.

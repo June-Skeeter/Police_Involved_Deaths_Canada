@@ -26,7 +26,7 @@ The most comprehensive publicly available dataset on police killings in Canada i
 <a href="deadlyforce.png" target="_blank">View Image in New Tab</a>
 
 # Police-Involved Deaths Data
- This numbers I am showing are based on my personal interpretation of the CBC data and updates I have made to fill missing records.  Between January 1, 2000 and April 6, 2021 there have been *at least* **634 police-involved deaths in Canada**.
+ This numbers I am showing are based on my personal interpretation of the CBC data and updates I have made to fill missing records.
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
@@ -46,7 +46,7 @@ The most comprehensive publicly available dataset on police killings in Canada i
 # Racial Breakdown
 
 * To highlight the uneven distribution of deaths across demographic groups, I've calculated the police-involved death rates for each group using 2016 census data.
-* The victims' race is Unknown in 179 (28%) of the incidents, this means the numbers for across racial groups are likely higher than reported.  
+* The victims' race is Unknown in 195 (30%) of the incidents, this means the numbers for across racial groups are likely higher than reported.  
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
