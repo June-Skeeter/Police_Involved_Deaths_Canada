@@ -5,7 +5,7 @@ nav_order: 4
 ---
 # Expanding the Dataset and Filling Gaps
 
-The Deadly Force dataset does not capture the full picture.  We need a broader, more inclusive account of all deaths that are occurring as a result of interactions with police in Canada.  I propose  
+The Deadly Force dataset does not capture the full picture.  We need a broader, more inclusive account of all deaths that are occurring as a result of interactions with police in Canada. 
 
 ### 1) Killings by off-duty & ex police officers
 * Domestic violence rates among police families are [two to four](https://www.theatlantic.com/national/archive/2014/09/police-officers-who-hit-their-wives-or-girlfriends/380329/) times higher than they are in the general public.
@@ -19,7 +19,7 @@ The Deadly Force dataset does not capture the full picture.  We need a broader, 
 
 ### 3) Deaths Occurring in Police Custody
 * There are many records of individuals in police custody being denied or delayed medical care.
-  * In one horrific case, a diabetic Indigenous man from [Baker Lake, NU](https://www.cbc.ca/news/canada/north/paul-kayuryuk-baker-lake-inquest-1.4231300) was found unconscious after suffering a stroke.  The police assumed he was intoxicated and kept him in a jail cell overnight.
+  * In one horrific case, an Indigenous man from [Baker Lake, NU](https://www.cbc.ca/news/canada/north/paul-kayuryuk-baker-lake-inquest-1.4231300) was found unconscious after suffering a stroke.  The police assumed he was intoxicated and kept him in a jail cell overnight.
 * Suicides in police custody are [oftentimes preventable](https://www.theglobeandmail.com/news/politics/womans-death-in-custody-exposes-indigenous-policing-issues/article32694835/).
 * Two men burned to death in a jail cell while being held for public intoxication at the [Kashechewan First Nation police detachment](https://www.cbc.ca/news/canada/kashechewan-fire-inquest-calls-for-more-funds-for-police-stations-training-1.819764).
 
@@ -46,7 +46,7 @@ The Deadly Force dataset does not capture the full picture.  We need a broader, 
 # Validating, Updating, and Expanding the Dataset
 Using the Deadly Force Dataset, the [Killercopscanada](https://killercopscanada.wordpress.com/) blog, and Google Searches, I have stared compiling a new, more comprehensive database of Police-Involved Deaths.
 * I have added all verifiable recrods from [Killercopscanada](https://killercopscanada.wordpress.com/) occuring after the CBC Deadly Force database ends (June 30, 2020).
-* I have begun working backwards through the DeadlyForce database to fill in missing incidients and update missing records.  So far, I have found 38 police-involved-deaths that were left out of the CBC dataset.  
+* I have begun working backwards through the DeadlyForce database to fill in missing incidients and update missing records.  So far, I have found 53 police-involved-deaths that were left out of the CBC dataset.  
   * I have only just begun this part of the process, there are many more missing records to be added.
 
 There have been *at least* 60 police-involved deaths that have occured since the dataset was published.
@@ -70,24 +70,39 @@ There have been *at least* 60 police-involved deaths that have occured since the
 
 As of 2017 (*2020 update does not include this information*), only 14 officers (3%) had been charged for a killing.  Regardless of whether an officer is charged with a crime, the departments involved are directly responsible for the deaths of these 634 individuals.
 
-### Deadliest Police Departments in Canada
+### Police-Involved Deaths by Departments
 
 |Rank|               Department                |Province|Killings|
 |---:|-----------------------------------------|--------|-------:|
-|   1|RCMP                                     |BC      |      87|
-|   2|Toronto Police Service                   |ON      |      66|
-|   3|RCMP                                     |AB      |      40|
+|   1|RCMP                                     |BC      |      91|
+|   2|Toronto Police Service                   |ON      |      67|
+|   3|RCMP                                     |AB      |      41|
 |   4|Ontario Provincial Police                |ON      |      36|
 |   5|Service de police de la Ville de Montréal|QC      |      35|
 |   6|Sûreté du Québec                         |QC      |      34|
 |   7|Edmonton Police Service                  |AB      |      31|
-|   8|Calgary Police Service                   |AB      |      28|
-|   9|Vancouver Police Department              |BC      |      26|
-|  10|Winnipeg Police Service                  |MB      |      22|
-|  11|Peel Regional Police                     |ON      |      18|
-|  12|Ottawa Police Service                    |ON      |      12|
-|  13|York Regional Police                     |ON      |      11|
-|  14|RCMP                                     |SK      |      10|
+|   8|Calgary Police Service                   |AB      |      29|
+|   9|Vancouver Police Department              |BC      |      27|
+|  10|Winnipeg Police Service                  |MB      |      26|
+|  11|Peel Regional Police                     |ON      |      17|
+|  12|Ottawa Police Service                    |ON      |      14|
+|  13|RCMP                                     |SK      |      11|
+|  14|York Regional Police                     |ON      |      10|
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="PoliceViolenceIncidents.html" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="PoliceViolenceIncidents.html" target="_blank">View Image in New Tab</a>
 
 # Sharing the Information  
 

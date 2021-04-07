@@ -26,7 +26,7 @@ Candian instututions rely on the lack of race based statistics to perpetuate a n
 
 2) More about the data: What's available and what's lacking?
 
-3) Next steps: Filling the gaps and disseminating the information.
+3) Next steps: Filling gaps and disseminating the information.
 
 # Notes on Terminology
 
