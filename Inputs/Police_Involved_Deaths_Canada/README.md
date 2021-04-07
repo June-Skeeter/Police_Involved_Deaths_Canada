@@ -15,7 +15,7 @@ The folder linked contains:
 3) MissingRecords.csv contains:
 * Police Killings that are missing from the original dataset
 * Police-Involved Deaths that occured between January 1, 2001 and June 30, 2020
-	* So Far, I've backtracked through KillerCopsCanada's records thru November 1, 2019.  Still working on getting through the rest.
+	* So Far, I've backtracked through KillerCopsCanada's records through January 1, 2019.  Still working on getting through the rest.
 * Police Killings and Police-Involved Deaths from July 1, 2020 to April 6
 	* -I've backtrakced everything from KillerCopsCanada thru Nov 2020
 

@@ -13,7 +13,7 @@ I will be speaking about police violence today.  This difficult and painful subj
 # Land Acknowledgement
 I am speaking to you today from the traditional, ancestral, and unceded territory of the Coast Salish Peoples including the xʷməθkʷəy̓əm (Musqueam), səl̓ilwətaɁɬ təməxʷ (Tsleil-Waututh), Skwxwú7mesh-ulh Temíx̱w (Squamish) Nations.
 * I encourage each of you to take a moment to explore [native-land.ca](https://native-land.ca/).  This is by no means a definitive source, but it's a good place to start building an understanding of the Indigenous territories, languages, and treaties in your area.
-<iframe src="https://native-land.ca/api/embed/embed.html?maps=territories&position=49.268264,-123.157480" style="width:100%; height:400px; border:none;"></iframe>
+<iframe src="https://native-land.ca/api/embed/embed.html?maps=territories&position=49.268264,-123.157480" style="width:100%; height:500px; border:none;"></iframe>
 
 # Why Police-Involved Deaths in Canada?
 
