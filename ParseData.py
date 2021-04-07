@@ -141,7 +141,7 @@ class GetData(object):
 
         self.CA_PoliceKillings['RACE'] =  self.CA_PoliceKillings['RACE'].replace({
                                 'Other':'Other Visible Minority',
-                                # 'Arab':'Middle Easten',
+                                'Arab':'Middle Easten',
                                 'Caucasian':'White'})
         self.CA_PoliceKillings.RACE.fillna('Unknown',inplace=True)
 
@@ -160,7 +160,9 @@ class GetData(object):
 
         CA_Census =  CA_Census.rename(columns={
             'Caucasian':'White'})
-        CA_Census['Asian'] = CA_Census['Chinese']+CA_Census['Filipino']+CA_Census['West Asian']+\
+        CA_Census['Middle Eastern'] = CA_Census['West Asian']+CA_Census['Arab']
+        CA_Census['Asian'] = CA_Census['Chinese']+CA_Census['Filipino']+\
+        #CA_Census['West Asian']+\
         CA_Census['Japanese']+CA_Census['Korean']+CA_Census['Southeast Asian']
         CA_Census = CA_Census.drop(['Chinese','Filipino','West Asian','Japanese','Korean','Southeast Asian'],axis=1)
         CA_Census['Unknown'] = 0

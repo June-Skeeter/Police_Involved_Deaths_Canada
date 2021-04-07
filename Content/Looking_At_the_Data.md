@@ -45,7 +45,7 @@ The most comprehensive publicly available dataset on police killings in Canada i
 
 # Racial Breakdown
 
-* To highlight the uneven distribution of deaths across demographic groups, I've calculated the police-involved death rates for each group using 2016 census data.
+To highlight the uneven distribution of deaths across demographic groups, I've calculated the police-involved death rates for each group using 2016 census data.  Specifically the [Visible minority](https://www23.statcan.gc.ca/imdb/p3Var.pl?Function=DEC&Id=45152) and [Aboriginal identity](https://www23.statcan.gc.ca/imdb/p3Var.pl?Function=DEC&Id=42927) variables.
 * The victims' race is Unknown in 195 (30%) of the incidents, this means the numbers for across racial groups are likely higher than reported.  
 
 <div style="overflow: hidden;
