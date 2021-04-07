@@ -32,5 +32,5 @@ Candian instututions rely on the lack of race based statistics to perpetuate a n
 
 **Police Killing:** A death directly resulting from police use of force.  Including but not limited to: shooting, tazing, other use of force.
 
-**Police-Involved Deaths**  Any civilian death at the hands of police or in the custody of police is a police-involved death.  Includes police killings as well as deaths resulting from police negligence/inaction: suicide, overdoses, medical emergencies, etc.  This is broader term that is more difficult to refute on the grounds of semantics.  
+**Police-Involved Deaths**  Any civilian death at the hands of police or in the custody of police.  Includes police killings deaths resulting from police negligence/inaction: suicide, overdoses, medical emergencies, etc.  This is broader term that is more difficult to refute on the grounds of semantics.  
 

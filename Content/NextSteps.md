@@ -14,7 +14,7 @@ The Deadly Force dataset does not capture the full picture.  We need a broader, 
   
 
 ### 2) Deaths from Negligence, Incompetence
-* There are multiple incidents deaths from police-involved car crashes. [1](https://www.cbc.ca/news/canada/montreal/man-dies-police-custody-puvirnituq-1.4091914) [2](https://barrie.ctvnews.ca/pedestrian-struck-and-killed-by-an-unmarked-opp-vehicle-in-midland-1.5124667?cache=) [3](https://www.bei.gouv.qc.ca/actualites/detail/mise-a-jour-concernant-levenement-survenu-a-mont-laurier-le-13-octobre-lidentite-du-civil-decede.html)
+* There are multiple incidents of deaths from police-involved car crashes. [1](https://www.cbc.ca/news/canada/montreal/man-dies-police-custody-puvirnituq-1.4091914) [2](https://barrie.ctvnews.ca/pedestrian-struck-and-killed-by-an-unmarked-opp-vehicle-in-midland-1.5124667?cache=) [3](https://www.bei.gouv.qc.ca/actualites/detail/mise-a-jour-concernant-levenement-survenu-a-mont-laurier-le-13-octobre-lidentite-du-civil-decede.html)
 * [Falls](https://en.wikipedia.org/wiki/Death_of_Regis_Korchinski-Paquet) or suicides during police encounters are a frequent occurence.
 
 ### 3) Deaths Occurring in Police Custody
@@ -128,9 +128,10 @@ Two hands-on workshops show students how they use open source technology to advo
 </div>
 <a href="ImportanceOfNormalizing.png" target="_blank">View Image in New Tab</a>
 
-### Publishing the results
+# Publishing the Data and Results
 
-The updated dataset is publicly available on my [github page](https://github.com/June-Spaceboots/Police_Involved_Deaths_Canada/tree/main/Inputs).  I intend to continue working to update, document, and share this dataset.  I have aspirations of bulding an interactive web app to facilitate broader public engagement with the data.
+The updated dataset is publicly available on my [github page](https://github.com/June-Spaceboots/Police_Involved_Deaths_Canada/tree/main/Inputs).  I intend to continue working to update, document, and share this dataset.
+* I have aspirations of bulding an interactive web app to facilitate broader public engagement with the data.
 * It is also important to publish this work in a peer reviewed jornal.  But I am unsure what would be an appropriate outlet?
 * If anyone has any questions, comments, or interest in collaborating on this please contact me!  
 
