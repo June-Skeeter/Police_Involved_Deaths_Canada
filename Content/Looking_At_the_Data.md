@@ -127,7 +127,3 @@ Nunavut has the highest police-involved death rate of any sub-national in Canada
 
 # A Brief History of Policing in Canada
 Racism is ingrained in the history of policing in Canada since the founding of the Royal Canadian Mounted Police (RCMP) in 1873.  If you want to learn more about the history of the RCMP, I suggest you listen to these podcasts by [The Secret Life of Canada](https://www.cbc.ca/listen/cbc-podcasts/203-the-secret-life-of-canada/episode/15798131-s3-the-mounties-always-get-their-land-part-1) and [Commons](https://www.canadaland.com/podcast/the-police-2-the-secret-history-of-the-rcmp/).
-
-
-
-
