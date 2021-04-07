@@ -7,9 +7,9 @@ nav_order: 4
 
 The Deadly Force dataset does not capture the full picture.  We need a broader, more inclusive account of all deaths that are occurring as a result of interactions with police in Canada.  I propose  
 
-### 1) Killings by off duty & ex police officers.
+### 1) Killings by off-duty & ex police officers
 * Domestic violence rates among police families are [two to four](https://www.theatlantic.com/national/archive/2014/09/police-officers-who-hit-their-wives-or-girlfriends/380329/) times higher than they are in the general public.
-  * At least four Candian police have killed their partners since 2000 [1](https://www.thestar.com/news/2007/10/31/wills_found_guilty_of_murdering_mistress.html) [2](https://globalnews.ca/news/7643929/former-b-c-cop-granted-escorted-temporary-absences/) [3](https://www.cbc.ca/news/canada/ex-rcmp-officer-convicted-of-murder-1.305479) [4](https://www.cbc.ca/news/canada/edmonton/former-mountie-found-not-criminally-responsible-in-wife-s-death-1.1304062)
+  * At least four Canadian police have killed their partners since 2000 [1](https://www.thestar.com/news/2007/10/31/wills_found_guilty_of_murdering_mistress.html) [2](https://globalnews.ca/news/7643929/former-b-c-cop-granted-escorted-temporary-absences/) [3](https://www.cbc.ca/news/canada/ex-rcmp-officer-convicted-of-murder-1.305479) [4](https://www.cbc.ca/news/canada/edmonton/former-mountie-found-not-criminally-responsible-in-wife-s-death-1.1304062)
   * At least one death from a drunk off-duty officer striking a pedestrian. [1](https://killercopscanada.wordpress.com/2019/10/31/killer-cop-justin-holz-gets-30-months-for-killing-cody-severight-in-2017/)
   
 
@@ -17,9 +17,9 @@ The Deadly Force dataset does not capture the full picture.  We need a broader, 
 * There are multiple incidents deaths from police-involved car crashes. [1](https://www.cbc.ca/news/canada/montreal/man-dies-police-custody-puvirnituq-1.4091914) [2](https://barrie.ctvnews.ca/pedestrian-struck-and-killed-by-an-unmarked-opp-vehicle-in-midland-1.5124667?cache=) [3](https://www.bei.gouv.qc.ca/actualites/detail/mise-a-jour-concernant-levenement-survenu-a-mont-laurier-le-13-octobre-lidentite-du-civil-decede.html)
 * [Falls](https://en.wikipedia.org/wiki/Death_of_Regis_Korchinski-Paquet) or suicides during police encounters are a frequent occurence.
 
-### 3) Deaths Occurring in Police Custody.
+### 3) Deaths Occurring in Police Custody
 * There are many records of individuals in police custody being denied or delayed medical care.
-  * In one horrific case, a diabetic inidgenous mas from [Baker Lake, NU](https://www.cbc.ca/news/canada/north/paul-kayuryuk-baker-lake-inquest-1.4231300) was found unconscious after suffering a stroke.  The police assumed he was intoxicated and kept him in a jail cell overnight.
+  * In one horrific case, a diabetic Indigenous man from [Baker Lake, NU](https://www.cbc.ca/news/canada/north/paul-kayuryuk-baker-lake-inquest-1.4231300) was found unconscious after suffering a stroke.  The police assumed he was intoxicated and kept him in a jail cell overnight.
 * Suicides in police custody are [oftentimes preventable](https://www.theglobeandmail.com/news/politics/womans-death-in-custody-exposes-indigenous-policing-issues/article32694835/).
 * Two men burned to death in a jail cell while being held for public intoxication at the [Kashechewan First Nation police detachment](https://www.cbc.ca/news/canada/kashechewan-fire-inquest-calls-for-more-funds-for-police-stations-training-1.819764).
 
@@ -44,8 +44,8 @@ The Deadly Force dataset does not capture the full picture.  We need a broader, 
 
 
 # Validating, Updating, and Expanding the Dataset
-Using the Deadly Force Dataset, the [Killercopscanada](https://killercopscanada.wordpress.com/) blog, and Google Searches, I have stared compiling a new, morecomprehensive database of Police-Involved Deaths.
-* I have added all verifiable recrods from [Killercopscanada](https://killercopscanada.wordpress.com/) occuring after the CBC DeadlyForce database ends (June 30, 2020).
+Using the Deadly Force Dataset, the [Killercopscanada](https://killercopscanada.wordpress.com/) blog, and Google Searches, I have stared compiling a new, more comprehensive database of Police-Involved Deaths.
+* I have added all verifiable recrods from [Killercopscanada](https://killercopscanada.wordpress.com/) occuring after the CBC Deadly Force database ends (June 30, 2020).
 * I have begun working backwards through the DeadlyForce database to fill in missing incidients and update missing records.  So far, I have found 38 police-involved-deaths that were left out of the CBC dataset.  
   * I have only just begun this part of the process, there are many more missing records to be added.
 

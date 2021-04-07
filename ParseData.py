@@ -140,8 +140,9 @@ class GetData(object):
                                            'Beating & Strangling':'Other'})
 
         self.CA_PoliceKillings['RACE'] =  self.CA_PoliceKillings['RACE'].replace({
-                                'Other':'Visible minority, n.i.e',
-                                'Caucasian':'Visible minority, n.i.e'})
+                                'Other':'Other Visible Minority',
+                                # 'Arab':'Middle Easten',
+                                'Caucasian':'White'})
         self.CA_PoliceKillings.RACE.fillna('Unknown',inplace=True)
 
         self.CA_PoliceKillings['POLICE SERVICE'] =  self.CA_PoliceKillings['POLICE SERVICE'].replace({
@@ -164,8 +165,8 @@ class GetData(object):
         CA_Census = CA_Census.drop(['Chinese','Filipino','West Asian','Japanese','Korean','Southeast Asian'],axis=1)
         CA_Census['Unknown'] = 0
 
-        CA_Census['Visible minority, n.i.e'] = CA_Census['Visible minority, n.i.e']+CA_Census['Multiple visible minorities']
-        CA_Census = CA_Census.drop(['Multiple visible minorities'],axis=1)
+        CA_Census['Other Visible Minority'] = CA_Census['Visible minority, n.i.e']+CA_Census['Multiple visible minorities']
+        CA_Census = CA_Census.drop(['Multiple visible minorities','Visible minority, n.i.e'],axis=1)
 
         CA_Provinces= gpd.read_file('Inputs/Canadian_Census_Boundaries_2016.shp').set_index('PRUID')
 

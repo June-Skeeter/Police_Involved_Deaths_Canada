@@ -6,7 +6,7 @@ nav_order: 2
 
 # Deadly Force
 
-The most comprehensive publicly available dataset on police killings in Canada is the [Deadly Force database](https://newsinteractives.cbc.ca/fatalpoliceencounters/) was collected by the Canadian Boradcast Corporation (CBC).  Initally published in 2018, it was updated July 23rd 2020.
+The most comprehensive publicly available dataset on police killings in Canada is the [Deadly Force database](https://newsinteractives.cbc.ca/fatalpoliceencounters/) was collected by the Canadian Boradcast Corporation (CBC).  Initally published in 2018, it was updated July 23, 2020.
 
 * *"There is no government database listing deaths at the hands of the police available to the public in Canada, so CBC News created its own. The CBC’s research librarians have collected detailed information on each case, such as ethnicity, the role of mental illness or substance abuse, the type of weapon used and the police service involved, to create a picture of who is dying in police encounters."*
 
@@ -65,7 +65,7 @@ The most comprehensive publicly available dataset on police killings in Canada i
 
 # Comparing to the United States  
 
-The total police-involved death rate in the United States is about 4 times higher than in Canada.
+The total police-involved death rate in the United States is higher than in Canada.
 * The census data for each country use different demographic groupings so we can't directly compare between all groups.  Three demographic groups: White, Black, and Indigenous are recorded by each.
 * The death rates for Indigenous and Black people are much higher than for White people in both Canada and the United States.
 
