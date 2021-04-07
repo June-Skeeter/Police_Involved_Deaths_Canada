@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Flaws in the Data
-nav_order: 4
+nav_order: 3
 ---
 
-# The CBC Dataset is Highly Flawed.
+# The CBC Dataset is Highly Flawed
 
 1) The CBC has not: disclosed the specifics of their methodology, defined what qualifies as a police killing or a police-involved death, or provided sources for their data.
 

@@ -3,30 +3,31 @@ layout: default
 title: Introduction
 nav_order: 1
 ---
-# Police-Involved Deaths in Canada
+# Police-Involved Deaths: in Canada
 
-##  Presentation by June Skeeter [They/Them/Theirs]
+### June Skeeter [They/Them/Theirs]: skeeter1@mail.ubc.ca
 
 # Content Warning:
 I will be speaking about police violence today.  This difficult and painful subject may be triggering to some, especially BIPOC individuals.
 
-
 # Land Acknowledgement
 I am speaking to you today from the traditional, ancestral, and unceded territory of the Coast Salish Peoples including the xʷməθkʷəy̓əm (Musqueam), səl̓ilwətaɁɬ təməxʷ (Tsleil-Waututh), Skwxwú7mesh-ulh Temíx̱w (Squamish) Nations.
 * I encourage each of you to take a moment to explore [native-land.ca](https://native-land.ca/).  This is by no means a definitive source, but it's a good place to start building an understanding of the indigenous territories, languages, and treaties in your area.
-<iframe src="https://native-land.ca/api/embed/embed.html?maps=territories&position=49.268264,-123.157480" style="width:100%; height:300px; border:none;"></iframe>
+<iframe src="https://native-land.ca/api/embed/embed.html?maps=territories&position=49.268264,-123.157480" style="width:100%; height:400px; border:none;"></iframe>
 
+# Why Police-Involved Deaths in Canada?
 
-# Topics Covered Today
+Candian instututions rely on the lack of race based statistics to pepeturate a naritive that systemic racism is "just an American issue" and that Canada is "better".  As a white settler and imigrant from the Untied States, I fell for that narative and did not question that naritive for years.  
+* Systemic racism is swept under the rug in Canada.  It needs to be talked about.  It needs to be part of the public discourse so that it can be addressed. 
 
-1) Canadian police violence and how it compares to the United States.
+# Key Points
 
-2) Teaching materials: Using open-source tools to address social justice issues.
+1) Canadian police-involved deaths: How do they to the United States.
 
-3) More about the data: What's available and what's lacking.
+2) More about the data: What's available and what's lacking?
 
-4) Next steps.
- 
+3) Next steps: Filling the gaps and disseminating the information.
+
 # Notes on Terminology
 
 **Police Killing:** A death directly resulting from police use of force.  Including but not limited to: shooting, tassing, other use of force, or incompetence (e.g. car accidents).

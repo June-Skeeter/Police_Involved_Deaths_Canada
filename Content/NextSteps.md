@@ -88,10 +88,34 @@ As of 2017 (*2020 update does not include this information*), only 14 officers (
 |  13|RCMP                                     |SK      |      10|
 |  14|York Regional Police                     |ON      |      10|
 
+# Sharing the Information  
 
+### UBC Library Research Commons GIS Workshops
 
-# Sharing the Data
+I have applied these data to create a series of instructional workshops.  The goal is to expose students to this important information and show them how they can use open-source tools to address issues they are passionate about.
 
-This information needs to be disseminated more widely; systemic racism is swept under the rug too often in Canada.  The updated dataset is publicly available on my [github page](https://github.com/June-Spaceboots/Police_Involved_Deaths_Canada/tree/main/Inputs).  I intend to continue working to update, document, and share this dataset.  If anyone has any questions, comments, or interest in collaborating on this please contact me at: skeeter1@mail.ubc.ca
+Two hands-on workshops show students how they use open source technology to advocate for social justice.  [The first](https://ubc-library-rc.github.io/Geospatial-Analysis-Visualization-with-Python/) some basic skills needed to analyze and plot geospatial data with Python.  [The second](https://ubc-library-rc.github.io/Geocoding-Web-Mapping-with-Python/) teaches students how to geocode with Python using the Mapbox API and gives them a basic overview of how to create interactive webmaps.
+[A thrid](https://ubc-lib-geo.github.io/Data-Normalization-Classification/) lecture-style workshop highlights the importance of normalizing data and teaches students how to apply different data classification methods.
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="ImportanceOfNormalizing.png" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="ImportanceOfNormalizing.png" target="_blank">View Image in New Tab</a>
+
+### Publishing the results
+
+The updated dataset is publicly available on my [github page](https://github.com/June-Spaceboots/Police_Involved_Deaths_Canada/tree/main/Inputs).  I intend to continue working to update, document, and share this dataset.  I have aspirations of bulding an interactive web app to facilitate broader public engagement with the data.
+* It is also important to publish this work in a peer reviewed jornal.  But I am unsure what would be an appropriate outlet?
+* If anyone has any questions, comments, or interest in collaborating on this please contact me!  
 
 
