@@ -17,7 +17,7 @@ I am speaking to you today from the traditional, ancestral, and unceded territor
 
 # Why Police-Involved Deaths in Canada?
 
-Candian instututions rely on the lack of race based statistics to pepeturate a naritive that systemic racism is "just an American issue" and that Canada is "better".  As a white settler and imigrant from the Untied States, I fell for that narative and did not question it for years.  
+Candian instututions rely on the lack of race based statistics to pepeturate a naritive that systemic racism is "just an American issue" and that Canada is "better".  As a white settler and imigrant from the United States, I fell for that narative and did not question it for years.  
 * Systemic racism is swept under the rug in Canada.  It needs to be talked about.  It needs to be part of the public discourse so that it can be addressed. 
 
 # Key Points
