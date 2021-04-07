@@ -7,7 +7,7 @@ nav_order: 1
 
 ### June Skeeter [They/Them/Theirs]: skeeter1@mail.ubc.ca
 
-# Content Warning:
+# Content Warning
 I will be speaking about police violence today.  This difficult and painful subject may be triggering to some, especially BIPOC individuals.
 
 # Land Acknowledgement
