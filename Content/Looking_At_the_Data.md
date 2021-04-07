@@ -26,7 +26,7 @@ The most comprehensive publicly available dataset on police killings in Canada i
 <a href="deadlyforce.png" target="_blank">View Image in New Tab</a>
 
 # Police-Involved Deaths Data
- This numbers I am showing are based on my personal interpretation of the CBC data and updates I have made to fill missing records.
+ The numbers I am showing are based on my personal interpretation of the CBC data and updates I have made to fill missing records.
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
@@ -107,7 +107,7 @@ Dividing the rates for the three demographic groups by the total rate for each c
 
 # Mapping Police-Involved Deaths
 
-Nunavut has the highest police-involved death rate of any sub-national in Canada or the United States.  It is also the only majority Indigenous (85%) sub-national division.  
+Nunavut has the highest police-involved death rate of any sub-national division in Canada or the United States.  It is also the only majority Indigenous (85%) sub-national division.  
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
