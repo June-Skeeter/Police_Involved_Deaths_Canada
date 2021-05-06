@@ -15,7 +15,8 @@ The Deadly Force dataset does not capture the full picture.  We need a broader, 
 
 ### 2) Deaths from Negligence, Incompetence
 * There are multiple incidents of deaths from police-involved car crashes. [1](https://www.cbc.ca/news/canada/montreal/man-dies-police-custody-puvirnituq-1.4091914) [2](https://barrie.ctvnews.ca/pedestrian-struck-and-killed-by-an-unmarked-opp-vehicle-in-midland-1.5124667?cache=) [3](https://www.bei.gouv.qc.ca/actualites/detail/mise-a-jour-concernant-levenement-survenu-a-mont-laurier-le-13-octobre-lidentite-du-civil-decede.html)
-* [Falls](https://en.wikipedia.org/wiki/Death_of_Regis_Korchinski-Paquet) or suicides during police encounters are a frequent occurence.
+  * Including a [five year old boy](https://killercopscanada.wordpress.com/2018/12/15/killer-cop-patrick-ouellet-gets-8-months-for-killing-five-year-old-nicholas-thorne-belance/) who was killed by an officer in an unarmed vehicle going double the speed limit.
+* [Falls](https://en.wikipedia.org/wiki/Death_of_Regis_Korchinski-Paquet) or suicides during police encounters are a frequent occurrence.
 
 ### 3) Deaths Occurring in Police Custody
 * There are many records of individuals in police custody being denied or delayed medical care.
@@ -45,11 +46,11 @@ The Deadly Force dataset does not capture the full picture.  We need a broader, 
 
 # Validating, Updating, and Expanding the Dataset
 Using the Deadly Force Dataset, the [Killercopscanada](https://killercopscanada.wordpress.com/) blog, and Google Searches, I have stared compiling a new, more comprehensive database of Police-Involved Deaths.
-* I have added all verifiable recrods from [Killercopscanada](https://killercopscanada.wordpress.com/) occuring after the CBC Deadly Force database ends (June 30, 2020).
-* I have begun working backwards through the DeadlyForce database to fill in missing incidients and update missing records.  So far, I have found 53 police-involved-deaths that were left out of the CBC dataset.  
+* I have added all verifiable records from [Killercopscanada](https://killercopscanada.wordpress.com/) occurring after the CBC Deadly Force database ends (June 30, 2020).
+* I have begun working backwards through the DeadlyForce database to fill in missing incidents and update missing records.  So far, I have found 53 police-involved-deaths that were left out of the CBC dataset.  
   * I have only just begun this part of the process, there are many more missing records to be added.
 
-There have been *at least* 60 police-involved deaths that have occured since the dataset was published.
+There have been *at least* 60 police-involved deaths that have occurred since the dataset was published.
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
@@ -110,7 +111,7 @@ As of 2017 (*2020 update does not include this information*), only 14 officers (
 
 I have applied these data to create a series of instructional workshops.  The goal is to expose students to this important information and show them how they can use open-source tools to address issues they are passionate about.
 
-Two hands-on workshops show students how they use open source technology to advocate for social justice.  [The first](https://ubc-library-rc.github.io/Geospatial-Analysis-Visualization-with-Python/) some basic skills needed to analyze and plot geospatial data with Python.  [The second](https://ubc-library-rc.github.io/Geocoding-Web-Mapping-with-Python/) teaches students how to geocode with Python using the Mapbox API and gives them a basic overview of how to create interactive webmaps.
+Two hands-on workshops show students how they use open source technology to advocate for social justice.  [The first](https://ubc-library-rc.github.io/Geospatial-Analysis-Visualization-with-Python/) some basic skills needed to analyze and plot geospatial data with Python.  [The second](https://ubc-library-rc.github.io/Geocoding-Web-Mapping-with-Python/) teaches students how to geocode with Python using the Mapbox API and gives them a basic overview of how to create interactive web maps.
 [A third](https://ubc-lib-geo.github.io/Data-Normalization-Classification/) lecture-style workshop highlights the importance of normalizing data and teaches students how to apply different data classification methods.
 
 <div style="overflow: hidden;
@@ -131,8 +132,8 @@ Two hands-on workshops show students how they use open source technology to advo
 # Publishing the Data and Results
 
 The updated dataset is publicly available on my [github page](https://github.com/June-Spaceboots/Police_Involved_Deaths_Canada/tree/main/Inputs).  I intend to continue working to update, document, and share this dataset.
-* I have aspirations of bulding an interactive web app to facilitate broader public engagement with the data.
-* It is also important to publish this work in a peer reviewed jornal.  But I am unsure what would be an appropriate outlet?
+* I have aspirations of building an interactive web-app to facilitate broader public engagement with the data.
+* It is also important to publish this work in a peer reviewed journal.  But I am unsure what would be an appropriate outlet?
 * If anyone has any questions, comments, or interest in collaborating on this please contact me!  
 
 
