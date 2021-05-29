@@ -1,0 +1,1475 @@
+name,age,Date
+QUÉBEC
+
+Personnes décédées suite à une intervention policière à Montréal,Persons who died following a police intervention in Montreal,1 janvier 1987
+
+Serge Laforest,33,16 avril 1987
+Mark White,30,14 août 1987
+Anthony Griffin,19,11 novembre 1987
+Bernard Laforest,26,20 juin 1988
+José Carlos Garcia,43,7 octobre 1988
+Yvon Lafrance,40,3 janvier 1989
+Norman Major,29,28 septembre 1989
+Leslie Presley,26,9 avril 1990
+Jorge Chavarria-Reyes,22,22 novembre 1990
+Fabian Quienty,25,25 janvier 1991
+Yvan Dugas,36,19 avril 1991
+Fritzgerald Forbes,22,14 juin 1991
+Marcellus François,24,18 juillet 1991
+Armand Fernandez,24,4 novembre 1991
+Arthur Vahan Sukias,37,31 janvier 1992
+Trevor Kelly,43,1 janvier 1993
+Raphaël-William Geronimo-Castillo,32,6 mai 1994
+Paolo Romanelli,23,9 mars 1995
+Martin Suazo,23,1 juin 1995
+Philippe Ferraro,67,26 juin 1995
+Nelson Perreault,38,15 avril 1996
+Daniel Bélair,39,17 mai 1996
+Michel Mathurin,49,17 juin 1996
+Richard Whaley,29,10 novembre 1996
+Yvan Fond-Rouge,36,30 avril 1998
+Michel Charette,36,17 juin 1998
+Jean-Emmanuel Beaudet,27,23 juin 1999
+Jean-Pierre Lizotte,45,16 octobre 1999
+Carl Ouellet,34,31 mai 2000
+Luc Aubert,43,16 juillet 2000
+Sébastien McNicoll,26,18 juillet 2000
+Michael Kibbe,19,8 février 2001
+Michel Morin,43,4 septembre 2002
+Wilson Oliviera,24,12 avril 2003
+Michel Berniquez,45,28 juin 2003
+Rohan Wilson,28,21 février 2004
+Stéphane Coulombe,35,24 juin 2004
+Daniel Annett,42,25 juillet 2004
+Maurice Leblanc,59,4 juillet 2005
+Mohamed Anas Bennis,25,1 décembre 2005
+Vianney Charest,51,9 juillet 2007
+Quilem Registre,39,18 octobre 2007
+Fredy Villanueva,18,9 août 2008
+Claude Racine,55,28 juin 2010
+Jean-Claude Lemay,48,26 janvier 2011
+Patrick Saulnier,26,6 février 2011
+Mario Hamel,40,7 juin 2011
+Patrick Limoges,36,7 juin 2011
+Julien Gaudreau,25,11 juin 2011
+Farshad Mohammadi,34,6 janvier 2012
+Jean-Francois Nadreau,30,16 février 2012
+Robert Hénault,70,8 août 2013
+Isidore Havis,72,17 août 2013
+Donald Ménard,41,11 novembre 2013
+Sisavat Pagnasith,38,27 décembre 2013
+Alain Magloire,41,3 février 2014
+René Gallant,45,31 mai 2015
+Sylvain Beauchamp,53,13 mars 2016
+Bony Jean-Pierre,46,4 avril 2016
+André Benjamin,63,25 avril 2016
+Jimmy Cloutier,38,6 janvier 2017
+Koray Kevin Celik,28,6 mars 2017
+Noam Cohen,27,15 juin 2017
+Pierre Coriolan,58,27 juin 2017
+Nicholas Gibbs,23,21 août 2018
+Sylvain Legault,54,11 mars 2020
+Patrick Bellemare,51,20 juin 2020
+Sheffield Matthews,41,29 octobre 2020
+
+Décès par suicide lors d’une intervention policière à Montréal,Persons who died by suicide during a police intervention in Montreal,1 janvier 1987 
+
+Kenneth Carter,25,21 juillet 1987
+Michel Saint-Georges,41,6 janvier 1991
+Osmond Seymour Fletcher,26,14 novembre 1991
+Georges Froment,39,9 octobre 1992
+Yvon Asselin,39,6 mars 1993
+Gilles Vinette,49,23 juin 1993
+Danny Wright,32,18 septembre 1994
+Ronald Olszewski,40,30 août 1995
+Jacques Beaudoin,35,24 janvier 1996
+Richard Laverdière,30,16 février 1998
+Jeffrey Hébert,24,27 juillet 1998
+Gaétan Bibeau,49,2 mars 1999
+Karine Haché,27,21 janvier 2002
+Yann Côté,31,13 janvier 2003
+Robert-Pierre Hénault,39,19 décembre 2003
+Micheler St-Hubert,33,1 avril 2004
+Michel Limoges,25,5 juillet 2004
+Jason Lewis,27,9 septembre 2004 
+Kimveer Gill,25,13 septembre 2006
+Daniel Vanier,42,6 novembre 2006
+Benoît Claveau,42,10 janvier 2009
+Louise Fafard,62,3 juin 2009
+Rudolph André Freyd,46,9 mai 2010
+Danny Forbes,36,27 août 2010
+Guy Nadeau,56,1 décembre 2011
+William Zanetti,61,15 avril 2013
+Alain Gaudreault,55,4 décembre 2013
+Sylvio Sergilles,49,7 mars 2014
+Ikuko Ogura,53,3 août 2014
+Vladimir Kan,46,10 juin 2016
+Gerardo Manuel Alvarado Huasapoma,25,1 février 2017
+Flordeliza Juarez,64,18 février 2017
+André Blais,58,17 juillet 2018
+Philippe Lareau,21,7 juin 2019
+Michael Pemberton Smith,57,28 décembre 2019
+Guillaume Beauregard,29,30 juillet 2020
+Yufei Wang,20,7 février 2021
+
+Personnes décédées lors d’un incident routier impliquant un policier à Montréal,Persons who died following a traffic incident involving a police officer in Montreal,1 janvier 1987
+
+Stéphane Robert,16,13 août 1987
+Andrew David Sirota,25,3 décembre 1988
+Paul McKinnon,14,25 octobre 1990
+Philippe Laheurte,34,9 juillet 1991
+Guy Hébert,23,11 mars 1992
+Stéphane Duhaime,22,18 mai 1993
+Dick Tanguay,26,31 juillet 1994
+Jean-Édouard Dominique,36,22 mai 1997
+Michel Paradis,27,28 décembre 1997
+Jean-Claubert Anicette,30,3 octobre 1999
+Mostafa Amrane,45,20 août 2001
+Omar Albert Thompson,27,10 novembre 2004
+Troy Fesam Hakim,31,10 novembre 2004
+Donald Greer,78,20 juillet 2005
+Gloria Zimmerman,82,20 juillet 2005
+Melissa Murat,14,14 novembre 2005
+Marc-Antoine Bernier,14,5 juillet 2008
+Marcel Locas,82,28 décembre 2010 
+Carolina Zollo-Braca,79,16 mars 2021
+
+Personnes décédées sous la garde de policiers à Montréal,Persons who died IN police custody in Montreal,1 janvier 1987
+
+Laurier Lachance,55,27 avril 1990
+Francois Khodeir,31,25 août 1990
+Richard Barnabé,38,2 mai 1996
+Tuami Tullaugak,306 novembre 2012
+Tshiteya Kalubi,23,8 novembre 2017
+Sylvain Couture,51,25 août 2018
+Daniel Haynes,42,4 novembre 2018
+Carl Washington Crosdale,60,26 avril 2020
+
+Personnes décédées par suicide sous la garde de policiers à Montréal,Persons who died IN police custody in Montreal,1 janvier 1987
+
+Michel Fanizzi,44,20 janvier 1987
+Sylvain Lussier,26,8 février 1987
+Edmond Lamontagne,45,5 avril 1987
+Jean-Hughes Fournier,26,29 avril 1987
+François Brunelle,30,24 mai 1987
+Yvan Lafrenière,27,3 juin 1987
+Jean Boivin,33,12 juin 1987
+René Laporte,39,28 juin 1987
+Bernard Armand,40,20 juillet 1987
+Robert Mongeau,35,6 août 1987
+Fernand Roux,59,2 septembre 1987
+Jacques Lavoie,39,19 septembre 1987
+Adrien Girard,48,2 novembre 1987
+Sylvain Beaudreault,28,29 mars 1988
+Alain McMartin,27,1 octobre 1992
+Vinkaitwar Bikhari,33,12 février 1994
+Paul Grosset,33,8 février 1997
+
+Personnes décédées suite à une intervention policière ailleurs au Québec,Persons who died following a police intervention in Quebec,1 janvier 1987
+
+Réal Nadeau,32,3 octobre 1987
+Mario Leblanc,34,21 juillet 1990
+Gilles Lessard,42,29 octobre 1990
+Marcel Beaudoin,36,26 novembre 1990
+Laurent Saint-Louis,34,22 avril 1991
+Laurent Tremblay,65,8 juin 1991
+Jeffrey Fortin,20,17 juin 1991
+Claude Hamel,34,30 août 1991
+Jacques Ducas,37,1 décembre 1991
+John Kordic,27,8 août 1992
+Jimmy George Akpahatuk,24,17 octobre 1992
+Richard Théorêt,35,21 octobre 1992
+Gérard Égan,28,19 février 1993
+Gervais Plourde,36,16 novembre 1993
+Michel Pharand,28,22 août 1994
+Pierre Côté,56,24 septembre 1994
+Claude Trempe,43,11 novembre 1994
+Michel Tremblay,31,23 septembre 1995
+Jacques McGonigal,45,27 mai 1996
+Jean-Guy Caron Junior,28,8 juin 1996
+Willard Carter,32,1 août 1996
+Vital Pelletier,45,13 mai 1997
+Roger Pelletier,57,27 décembre 1997
+Jean-Maurice Michaud,30,18 août 1998
+Denis Ouellet,34,3 mai 1999
+Serge Boisvert,41,18 juillet 1999
+Roger Bourgeois,62,25 avril 2001
+Philippe Gagné,27,7 juin le 2001
+Steve Courchesne,30,14 février 2002
+Alexandre Fortin,26,5 juin 2002
+Sylvain Bourrelle,39,10 juin 2003
+Mathieu Synnott,29,18 septembre 2003
+Constant Bolduc,42,24 septembre 2003
+Jorge Giraldo,34,11 février 2004
+Sandy Salowatfeak,30,31 mars 2004
+Martin Blouin,29,20 septembre 2004
+Denis Martineau,47,4 mai 2005
+Michel Weeds,48,8 mars 2005
+Gilles Lamy,62,29 septembre 2005
+Frank Ortenza,35,25 octobre 2005
+Yves Beauchamp,53,14 juin 2006
+Martin Gabrielli,20,4 juillet 2006
+Lise Hémond,43,7 avril 2007
+Ghyslain Trépanier,52,1 juin 2007
+Stefan Stritzkowski,36,27 août 2007
+Steven Berthiaume,41,26 septembre 2007
+Gilles Cloutier,43,21 janvier 2008
+Claude Taillon,41,6 février 2008
+Don Richard Neeposh,37,6 mai 2008
+Alain Rodrigue,44,13 juin 2008
+David Leclair,35,28 juin 2008
+Johnny Jr. Michel-Dumont,19,31 janvier 2009
+Stéphane Nadeau,25,15 mai 2009
+Jacques Charlish,54,3 juillet 2009
+Philippe Primeau,28,11 juillet 2009
+Jean-Claude Jr. Raymond,29,26 août 2009
+Éric Therrien,35,8 novembre 2009
+Angela Lavoie,47,1 janvier 2010
+Adam Murray,26,18 janvier 2010
+Roger Dorion,45,29 mars 2010
+Donald Rancourt,49,6 octobre 2010
+Henri Rodgers,69,3 décembre 2010
+Gaétan Plante,48,3 octobre 2011
+Mikel Dallaire,23,28 février 2012
+Alain Moisan,52,12 avril 2012
+Frédérick Guay,35,6 mai 2012
+David Lacour,17,22 janvier 2014
+Mathieu Perron,35,9 mai 2014
+Jobie Napartuk,29,17 juillet 2014
+Martin Couture-Rouleau,25,20 octobre 2014
+Guillaume Pilon,37,4 février 2015
+Alakagiallak Nowkawalk,23,23 mars 2015
+Jimmy Kimgalik,27,24 avril 2015
+Adrien Arsenault,65,21 juillet 2015
+Martin Collard,36,8 octobre 2015
+Brandon Maurice,17,16 novembre 2015
+Mathieu Lévesque,25,2 décembre 2015
+Philippe Wista-Charles,17,27 décembre 2015
+Jean Philippon,52,21 janvier 2016
+Jean Roussel,43,18 mars 2016
+Dave tremblay,27,19 mars 2016
+Sandy Tarzan Michel,25,6 avril 2016
+Simon Simard,27,9 juillet 2016
+David Bouffard,41,26 août 2016
+Stéphane Tiffault,55,19 septembre 2016
+Chad Murphy,45,2 octobre 2016
+Francis Dupont-Rivard,29,3 octobre 2016
+Danny Lafrance-Godmer,29,6 octobre 2016
+Martin Gagnon,39,27 décembre 2016
+Nadia Racine,34,25 janvier 2017
+Michael Markowski,54,7 mai 2017
+Emmanuel Therrien,41,15 mai 2017
+Illutaak Anautak,19,10 juin 2017
+Jacques Filiatreault,63,29 juin 2017
+David Lévesque,37,9 juillet 2017
+Guillaume Bolduc,25,10 août 2017
+Jonathan Belley,23,20 août 2017
+Dennis Beaudoin,36,28 décembre 2017
+David Sappa,22,28 décembre 2017
+Jeff Nissage Duhamel,36,29 mars 2018
+Zachary Fairbairn,28,21 juin 2018
+Riley Fairholm,17,25 juillet 2018
+Tommy Ningiuk,40,5 septembre 2018
+Jean-Louis D’amour,77,30 mars 2019
+Denis Chalifoux,50,28 juin 2019
+Sandy Alaku,58,5 juillet 2019
+Dave Ouellette Clavel,40,6 janvier 2020
+Benoit Chabot,26,17 janvier 2020
+Brandon Christian,47,2 février 2020
+Sébastien Simard,32,18 mai 2020
+Marc Savage,53,23 juin 2020
+Jonathan Roy,33,25 juillet 2020
+Bruno-Pierre Harvey,28,6 septembre 2020
+Sébastien Lacasse,37,11 septembre 2020
+Dany Leduc,32,27 septembre 2020
+Jean Belhumeur,41,4 octobre 2020
+Christopher (Jude) Cesar,31,16 mars 2021
+
+Décès par suicide lors d’une intervention policière ailleurs au Québec,Persons who died by suicide during a police intervention in Quebec,1 janvier 1987 
+
+Louis-Robert Gemme,35,23 juillet 1989
+François Larue,42,17 mars 1991
+Gilles Desormeaux,35,27 décembre 1991
+Toner Myles,33,20 décembre 1992
+Jacques Saint-Jean,34,3 juin 1993
+Jean Noury,30,28 septembre 1993
+Alain Dufresne,32,5 mars 1994
+Jean Corriveau,29,22 avril 1994
+Serge Pierre,46,6 mai 1994
+Jean-Noël Lajoie,51,30 mai 1994
+Sylvain Trudel,36,25 juin 1994
+Jean-Louis Grandmont,49,7 août 1994
+Denis Rochon,45,7 novembre 1994
+Daniel Jean,27,1 mai 1995
+Sylvain Royer,17,29 mai 1995
+Ghislain Harton,35,12 août 1995
+Guy Lamontagne,50,7 septembre 1995
+Laurien Rossignol,59,14 octobre 1995
+Carol Mathieu,39,27 octobre 1995
+Rénald Paquet,34,30 novembre 1995
+Daniel Pothier,36,2 mars 1996
+Robert Bergeron,32,16 juillet 1996
+Réal Lauzon,46,4 août 1996
+Tommy Iqualuk,38,7 avril 1996
+Richard Côté,37,9 novembre 1996
+Mario Larocque,37,13 février 1997
+Jean-François Houde,31,18 mars 1997
+Guy Prévost,23,18 juin 1997
+Michel Manseau,46,24 juin 1997
+Denis Laplante,40,10 juillet 1997
+Daniel Dubois,43,19 août 1997
+Daniel Mailhot,40,2 octobre 1997
+Douglas Scott Morgan,35,18 mars 1998
+Mario Desharnais,39,8 avril 1998
+Alain Deschênes,40,25 décembre 1998
+Robert-Paul Garrette,40,17 mars 2000
+Martin Perron,24,le 11 juillet 2000
+Éric Didriksen,31,28 août 2000
+Félix Gagnon,39,13 septembre 2001
+Yvon Vachon,46,10 octobre 2001
+Benoit O’Connor,24,18 novembre 2001
+Jean-Claude Larocque,20,19 avril 2002
+Pierre Chouinard,39,16 août 2002
+Germain Coulombe,44,19 octobre 2002
+Patrick Gagnon,18,25 mai 2003
+Denis Roy,55,7 novembre 2003
+Pierre Laberge,53,24 mars 2004
+Benoît Richer,28,2 juillet 2004
+Claude Malenfant,65,16 octobre 2004
+Jean Dion,46,26 décembre 2005
+Stéphane Bisaillon,35,17 mai 2005
+Oumar Thiam,43,25 avril 2007
+Roger Gagnon,31,29 juillet 2007
+Robert Leblond,34,12 août 2007
+Marc Lachapelle,41,1 octobre 2008
+Paul Gamache,33,20 février 2009
+Maurice Beauchesne,46,22 mai 2009
+Éric Hamelin,39,23 avril 2010
+Mathieu Lacas,24,17 juin 2010
+Cameron McRae,45,17 août 2010
+Claude d'Auteuil,59,20 août 2010
+Danis Savard,34,3 décembre 2010
+Dave Godin,35,15 juin 2011
+Michael William Stabenow,45,29 septembre 2011
+Benjamin Miron,32,26 octobre 2011
+Daniel Grondin,55,19 janvier 2012
+Robert Lapierre,44,18 mars 2012
+Pierre Boisvert,53,4 mai 2012
+Normand Constantin,56,11 août 2012
+Ernest Fleming,32,25 septembre 2012
+Patrick Deraspe,36,31 octobre 2012
+Janot Guitard,54,4 novembre 2012
+Gilles Fortier,68,9 décembre 2012
+Steven Kelly,45,18 février 2013
+Jobie Jr. Saunders,21,3 mars 2013
+Billy Imbeault,36,16 juin 2013
+Jean-Pierre Pharand,68,25 juin 2013
+Robert Qitsualuk,19,8 juillet 2013
+Christopher Ikey,23,27 août 2013
+René Charlebois,48,26 septembre 2013
+Jacques Blondin,54,5 octobre 2013
+Pierre Mailhot,44,7 décembre 2013
+Christian-Paul Bordeleau,40,11 mai 2014
+Daniel Viens,36,27 mai 2014
+Roland Fortier,62,9 juin 2014
+Étienne Leroux,40,8 août 2014
+Daniel Wabanonik,38,28 octobre 2014
+André Côté,50,8 décembre 2014
+Michel Côté,62,18 décembre 2014
+Anthony Raymond Papatie,22,13 février 2016
+Robert Junior Vachon,58,25 septembre 2016
+Marius Fontaine,59,26 août 2016
+Cody Bobbish,18,4 octobre 2016
+Carl Jason Dunphy,39,11 février 2017
+Gary Traikov,61,24 mars 2017
+Alain Cliche,55,23 mai 2017
+Michel Campeau,43,6 septembre 2018
+Penina Adams,19,26 octobre 2018
+Steve Sinclair,65,4 janvier 2019
+Johns Bonnard Paradon,20,28 mars 2019
+Pierre-Luc Boudrias,20,15 mai 2019
+Daniel Pelchat,55,14 juillet 2019
+Marin Chevrel,33,15 août 2019
+Daniel Juteau,62,29 août 2019
+Yacine Merzouk,26,7 novembre 2019
+Stéphane Landry,47,26 novembre 2019
+Gerald Alexander Marquis,29,8 décembre 2019
+Maurice Raby,53,1 juillet 2020
+Marc R. Tremblay,47,4 octobre 2020
+Claude Bergeron,67,8 octobre 2020
+
+Personnes décédées lors d’un incident routier impliquant un policier ailleurs au Québec,Persons who died following a traffic incident involving a police officer in Quebec,1 janvier 1987
+
+Stéphane Bouthillier,23,8 juillet 1990
+Marielle Pelletier-Bisson,62,14 août 1990
+Gérald Leclair,29,22 février 1991
+Richard Gérard Mathieu,27,14 novembre 1991
+Steeve Hébert,28,23 novembre 1991
+Daniel Larkin,26,20 décembre 1992
+Daniel Brousseau,15,1 juillet 1993
+Christian Plante,33,10 septembre 1993
+Jean Martin,40,16 mai 1994
+Cameron Woods,28,12 juillet 1994
+Dorothy Carrier,59,12 juillet 1994
+Kathleen Patricia Court,26,12 juillet 1994
+Bertrand Champagne,35,9 octobre 1994
+Lyne René,25,20 octobre 1994
+Nicolas Boulay,21,4 novembre 1994
+Stanley Davis,35,19 février 1995
+Brendon Myers,40,19 février 1995
+Dany Blier,26,27 mai 1995
+Stéphane Saint-Pierre,19,2 juin 1996
+Laurent Morganti,36,16 novembre 1996
+Shirley Dixon,45,2 mars 1997
+Roger-Charles Choinière,28,21 avril 1997
+Edward Santana,24,7 juillet 1997
+Daniel Audet,33,14 juin 1998
+Joseph Molnar,18,3 juillet 1998
+Sylvain Basque,32,21 septembre 1998
+Michel Lépine,32,13 mars 1999
+Luc Galipeau,41,10 avril 1999
+Patrick Dagenais,24,18 juin 1999
+Sylvain Demers,34,18 juin 1999
+Nadia Lagacé,21,1 juillet 1999
+Allen Metallic,28,1 juillet 1999
+Jack Jakmakian,28,15 juillet 1999
+Rémi Proulx,41,8 juillet 1999
+Patrice Poirier,30,26 mars 2000
+Marc Bergeron,32,29 avril 2000
+Robert Pelletier,50,29 août 2000
+John Duncan Dedam,21,28 septembre 2000
+Patrick Lebrun,24,31 octobre 2000
+Denis Beauregard,36,25 août 2001
+Gustave Blais,82,26 août 2001
+Gladys Tolley,61,6 octobre 2001
+Sébastien Tremblay,25,9 novembre 2001
+Mathieu Ouellet,24,novembre 2001
+Terry Lalo,16,15 avril 2002
+Pierre Chouinard,39,16 août 2002
+Ghislain Perreault,47,16 août 2002
+Jean-François Bergeron,20,9 avril 2003
+André Charneux,58,30 avril 2003
+Michel Landry,35,3 août 2003
+Paul Robitaille,39,3 août 2003
+Guy Rouillier,42,9 août 2003
+Rohan Richard,33,24 août 2003
+Eddy Lévesque,74,28 septembre 2003
+Kenneth Robertson,31,27 août 2004
+Cathy Deslandes,19,3 décembre 2004
+Richard Boisvert,40,6 mai 2005
+Stéphane Bisaillon,35,17 mai 2005
+Jason Béchard,19,21 mai 2005
+Sylvain Lampron,37,1 août 2005
+Kim De Muylder,14,27 février 2006
+Éric Bouchard,18,27 mai 2006
+Haley Rhiannon Chaylt,19,22 octobre 2006
+Charles-Antoine Dulmaine,20,30 décembre 2006
+Luc Dallaire,61,23 janvier 2007
+Guillaume Langlois,28,7 mai 2007
+Gérard Labrecque,53,19 juillet 2007
+Benjamin Lalonde-Prud’homme,19,16 août 2007
+Brian Bélanger,19,16 août 2007
+Roberto Jiménez Torres,68,25 juin 2008
+René Jolicœur,28,10 juillet 2008
+Yan Garneau,22,22 juillet 2008
+Tehonwahtastha Glasgow,15,30 juillet 2008
+Keven Wilkinson,19,2 septembre 2008
+Nicolas Campeau,22,6 avril 2009
+Sébastien Foisy,30,8 juillet 2009
+Robert Chiran,33,7 septembre 2009
+Steve Leclerc,22,25 septembre 2009
+Pierre-Yves Morin,26,26 septembre 2009
+Rory Michael Breen,5 octobre 2009
+Pierre Gergis,23,7 octobre 2009
+Jean-Philippe Hamel,25,23 octobre 2009
+David Desfossés,25,7 novembre 2009
+Steve Fitzpatrick,27,10 juin 2010
+Brandon Crawford,20,16 avril 2011
+Anthony McColl,19,16 avril 2011
+Karrick Blinco-Tremblay,29,22 mai 2011
+Mathieu Durette,24,25 juin 2011
+Jacquelin Fillion,20,31 juillet 2011
+Alain Rémillard,41,16 août 2011
+Éric Rompré,25,16 juin 2012
+Hébert Boulianne,53,12 décembre 2012
+Jean-Marie Fontaine,75,17 janvier 2013
+Samuel Vandal,26,7 mai 2013
+Joseph-Henri Bourget,19,9 juin 2013
+Frédéric Fafard-Côté,30,5 août 2013
+Kevin Houle-Filibotte,27,4 décembre 2013
+Nicholas Thorne-Belance,5,17 février 2014
+Pierre Paquette,65,16 mai 2014
+Réal Duval,13 juin 2014
+Christian Fontaine,20,24 juillet 2014
+Sylvain Brazeau,35,25 juillet 2014
+Guy Blouin,48,3 septembre 2014
+Mario Pellerin,59,20 janvier 2015
+Aubrey French,94,17 février 2015
+Cécile Lalancette,89,18 juillet 2015
+Georges Martel,80,18 juillet 2015
+Louiselle Laroche,71,18 juillet 2015
+Jessy Drolet,38,10 septembre 2015
+Jean-Nicolas Smith,20,10 octobre 2016
+Jean-Guy Grégoire,81,17 octobre 2016
+Patrice Boire,33,31 mars 2017
+Antoine Bouchard,18,12 septembre 2017
+Suzanne Brisson,58,3 janvier 2018
+Pierre Tremblay,63,3 janvier 2018
+Daniel Gagnon,21,17 mai 2018
+Jeannot Beaupré,63,19 juillet 2018
+Denis Champagne,20,30 octobre 2018
+Yacine Merzouk,26,8 novembre 2019
+Danny Charland,46,22 février 2020
+Samuel Théroux,20,13 juillet 2020
+Daniel Bertini,54,24 juillet 2020
+Michaël Bédard,29,13 octobre 2020
+
+Personnes décédées sous la garde de policiers ailleurs au Québec,Persons who died IN police custody in Quebec,1 janvier 1987
+
+Abelie Sala,25,25 janvier 1989
+Jean-Guy Picard,44,30 novembre 1990
+Richard Poulin,58,9 juin 1994
+Gracie Bearskin,20,15 octobre 1995
+Stéphane Paradis,26,3 juillet 1996
+Denis Chevrier,50,29 avril 2007
+Roger Nadeau,48,1 mai 2007
+Claudio Castagnetta,32,20 septembre 2007
+Julien Belzil,70,14 mars 2013
+Jimmy Éliyassialuk,22,28 avril 2017
+Brandon Stephen,24,2 janvier 2018
+Alonzo Bergeron,55,21 février 2018
+Maxime Drouin,41,21 janvier 2020
+Michael Paleser,45,28 août 2020
+
+Personnes décédées par suicide sous la garde de policiers ailleurs au Québec,Persons who died IN police custody in Quebec,1 janvier 1987
+
+Miguel Angel Vergas Aceves,40,5 janvier 1990
+Jocelyn Gervais,39,2 février 1990
+Paul William Awashish,32,16 septembre 1990
+Claude Lemieux,25,30 novembre 1991
+Claude Malec Lalo,24,23 mars 1992
+Daniel Desormeaux,34,11 septembre 1992
+Maurice Washaulno,35,19 septembre 1992
+Stéphane Pagé,27,5 mars 1993
+Guy Bouchard,37,24 juillet 1993
+Moses Koneak,35,4 août 1993
+Alvie-Robert Bellingham,33,30 août 1993
+Luc Blackburn,30,14 janvier 1994
+Jacques Villeneuve,37,18 janvier 1994
+Michel Verret,46,15 mai 1995
+Joseph-Élie Lavoie,55,30 mai 1996
+Éric Tremblay Nadeau,29,7 octobre 1996
+Linda Lefebvre,32,1 mai 1997
+Gérard Chachai,24,25 mai 1997
+Gilles Flamand,37,10 décembre 1997
+Denis Jean,51,25 décembre 1997
+Yves Diamond,42,12 janvier 1998
+Keith-John Diabo,31,17 mai 1998
+Daniel Clermont,38,14 juillet 1998
+Richard Sabourin,46,31 juillet 1998
+Victor-Soyuz Portela,28,10 février 1999
+Daniel Proulx,45,3 juillet 1999
+Michel Viens,40,4 juillet 1999
+Steeve Caron,18,20 mars 2000
+Quentin Mickeyook,23,26 mars 2000
+René Boulet,42,30 août 2000
+Stéphane Petiquay,33,11 décembre 2000
+Yvonick Dufour,56,23 avril 2001
+Michel Savaria,41,10 septembre 2001
+Jonathan Dominique,25,26 décembre 2002
+Sirqualuk Saviadjuk,33,25 avril 2005
+Alain Champagne,63,4 mars 2006
+Silas Papak,36,21 juillet 2007
+Antoine Wabanonic,16 mai 2008
+Yohan Cossette,34,17 février 2009
+Daniel Chantigny,44,29 juin 2012 
+Maiva Tukalak,31,27 juillet 2012
+Terence Allen Iserhoff,27,23 janvier 2013
+Dave Cloutier,46,15 novembre 2016
+
+ONTARIO
+
+Personnes décédées suite à une intervention policière à Toronto,Persons who died following a police intervention in Toronto,1 janvier 1987
+
+Eugene Desmarais,38, 17 octobre 1987
+Gardiner Myers,25,9 juillet 1988
+Lester Donaldson,44,9 août 1988
+Thomas Post,37,26 août 1988
+Michael Wade Lawson,17,8 décembre 1988
+Mark Ageoili,4 novembre 1989
+Donald Pelletier,19,25 janvier 1990
+Hayg Cuhaci,29,4 septembre 1990
+Joseph Gerard Boisjoly,45,26 décembre 1990
+Charles Cubitt,59,23 juin 1991
+Patrick Joseph Clements,16 juillet 1991
+Winston Grosvenor,32,2 février 1992
+Raymond Lawrence,22,2 mai 1992
+Mahmoud Zarifian,36,14 mai 1992
+Dominic Sabatino,32,9 août 1992
+Tony Vega,28,26 décembre 1992
+Ian Clifford Coley,20 avril 1993
+Lorna Groves,4 juillet 1994
+Albert Moses,41,29 septembre 1994
+Tommy Anthony Barnett,22,10 janvier 1996
+Andrew Rudolph Bramwell,14 mars 1996
+Wayne Rick Williams,24,11 juin 1996
+Faraz Suleman,16,19 juin 1996
+Edmond Wai Hong Yu,35,20 février 1997
+Hugh George Dawson,31,30 mars 1997
+Xie Pei Yang,23,11 avril 1997
+Manish Odhavji,22,27 septembre 1997
+Tony Romagnuolo,44,28 décembre 1998
+Raphael Hamou,46,9 mai 1999
+Henry Masuka Jr.,26,31 décembre 1999
+Paul Murdock,25,5 janvier 2000
+Stuart Mitchell,49,18 février 2000
+Otto Vass,55,9 août 2000
+John Menga,1 février 2002
+Nicholas Blentzas,24,23 juin 2002
+Edward McNeil,44,6 février 2003
+Thomas Michael Lemon,37,6 mars 2003
+Andre Burnett,23,28 juillet 2003
+Antonio Bellon,63,10 janvier 2004
+Robert Walker,16 février 2004
+Jeffrey Reodica,17,21 mai 2004
+O’Brien Christopher-Reid,26,13 juin 2004
+Sugston Anthony Brookes,25 août 2004
+Courtney Peters,32,14 octobre 2004
+Paulo Medeiros,14 janvier 2005
+Adeyeri Robinson,37,21 février 2005
+Duane Christian,15,20 juin 2006
+Alwy Al Nadhir,18,31 octobre 2007
+Jasen Drnasin,32,27 novembre 2007
+Byron Debassige,28,16 février 2008
+David Fetterly,42,8 mars 2008
+Wieslaw Duda,49,19 avril 2010
+Junior Manon,18,5 mai 2010
+Reyal Jardine-Douglas,25,29 août 2010
+Eric Osawe,26,29 septembre 2010
+Amit Krishna,28,23 octobre 2010
+Terry McLennan,52,23 janvier 2011
+Kevin Murray,30,30 juillet 2011
+Charlie McGillivary,45,1 août 2011
+Sylvia Klibingaitis,52,7 octobre 2011
+Michael Eligon,29,3 février 2012
+Frank Anthony Berry,48,17 février 2012
+Peter Lumanglas,38,20 avril 2012
+Zoltan Hyacinth,23,17 mars 2013
+Sammy Yatim,18,27 juillet 2013
+Ian Pryce,30,13 novembre 2013
+Daniel Clause,33,31 décembre 2014
+David Andrew Doucette,49,18 février 2015
+Ucal Roy Lauzon,34,27 mai 2005
+Andrew Loku,45,5 juillet 2015
+Kwasi Skene-Peters,21,25 juillet 2015
+Rodrigo Almonacid,43,7 novembre 2015
+Devon LaFleur,30,4 mars 2016
+Alex Wettlaufer,21,12 mars 2016
+Rui Nabico,31,4 novembre 2016
+Ricardo Miraballes,37,3 février 2020
+Regis Korchinski-Paquet,29,27 mai 2020
+
+Décès par suicide lors d’une intervention policière à Toronto,Persons who died by suicide during a police intervention in Toronto,1 janvier 1987 
+
+Alexandre Boucher,19,2 février 2016
+Amleset Haile,60,4 janvier 2017
+Derek Soberal,40,17 mars 2020
+
+Personnes décédées suite à une intervention policière à Ottawa,Persons who died following a police intervention in Ottawa,1 janvier 1987
+
+Robert Jackson,26,16 août 1987
+Brian Stephen Ross,39,6 février 1991
+Vincent Gardner,49,16 novembre 1991
+Wayne Cecil Williams,25,1 mars 1992
+Frank Chartier,39,14 août 1992
+Wayne Johnson,34,20 mars 1995
+Troy Emmerson,24,16 juillet 1995
+Darwin Francisco Tellez Gonzalez,26,4 mai 1996
+Bogumil Chojnacki,26,20 mai 1996
+Terry Norris,25,26 juillet 1995
+Jamal Khouri,49,18 février 1997
+Charles Cooper,34,24 février 1997
+Frank Hutterer,35,4 octobre 2000
+Stéphane Michaud,34,5 juin 2005
+James Barber,25,3 janvier 2007
+Abdirahman Abdi,37,24 juillet 2016
+Raymond Alliman,31,3 juin 2017
+Greg Ritchie,30,31 janvier 2019
+Anthony Aust,23,7 octobre 2020
+
+Personnes décédées suite à une intervention policière ailleurs en Ontario,Persons who died following a police intervention in Ontario,1 janvier 1987
+
+Christos Giannakopoulos,18,22 juin 1991
+Cameron Carruthers,19,7 novembre 1991
+John Rioux,37,23 mars 1992
+Dale Lapensee,31,30 avril 1993
+Stanley Sweeting,75,5 août 1993
+Stefan Stefaniak,44,juin 1994
+Jason Kane,26,2 mai 1995
+Scott Andrew Ambeault,33,29 juin 1995
+Dudley George,38,6 septembre 1995
+Zdravko Pukec,26,26 septembre 1995
+Bryan Buchanan,5 février 1997
+Jodie Decker,19,1997
+David Schlaht,35,21 mai 1998
+Vladislav Janic,56,15 mai 1999
+Norman Franklin,30,29 octobre 1999
+Larry Campbell,55,1 août 2000
+Robert Carpenter,36,30 octobre 2000
+Daniel Lamer,37,10 mars 2002
+Derrick McCracken,29,16 décembre 2002
+Geronimo Fobister,17,27 août 2003
+William Davidson,45,15 novembre 2003
+Edward Stoker,22,9 février 2004
+Peter Lamonday,33,13 mai 2004
+Basil McIntosh,46,15 juin 2004
+Jerry Knight,29,17 juillet 2004
+Samuel Truscott,43,8 août 2004
+Elyas Bariali,6 mars 2005
+James Foldi,39,1 juillet 2005
+Jeffrey George Black,21,18 octobre 2005
+Jason Steacy,20,4 novembre 2005
+Rajesh Owaan,21,16 janvier 2006
+Andrew Osidacz,41,18 mars 2006
+Brian Dukic,42,5 avril 2006
+Shelton McKenzie,20,13 avril 2006
+James Best,42,28 novembre 2006
+Michael Douglas,7 mars 2007
+Cristian Iordache,37,28 mars 2007
+Soun Saing,46,6 avril 2007
+Mike Foster,24,7 avril 2007
+Trevor Graham,26,20 novembre 2007
+Steve Remian,38,1 décembre 2007
+Jonathan Weeks,31,31 mars 2008
+Jeffrey Mark Marreel,36,23 juin 2008
+Daniel Kindree,18,20 septembre 2008
+Gino Petralia,47,29 novembre 2008
+Gregg Moynagh,25,21 décembre 2008
+Benjamin Wood,32,20 janvier 2009
+Douglas Minty,59,22 juin 2009
+Levi Schaeffer,32,24 juin 2009
+Phillip Jeffrey Charbonneau,35,3 juillet 2009
+Dennis Melton,48,5 juillet 2009
+Kenneth Lyon,32,23 février 2010
+Fred Preston,70,8 mars 2010
+Brian Gray,39,9 mai 2010
+Aron Firman,27,24 juin 2010
+Evan Jones,18,25 août 2010
+Romeo Wesley,34,9 septembre 2010
+Andreas Chinnery,18,2 février 2011
+James Kiteley,36,14 février 2011
+Keith Prescod,53,24 juillet 2011
+Kaveh Sabouri Tabatabaei,50,1 août 2011
+Kyle Newman,43,12 janvier 2012
+Paul Black,44,28 janvier 2012
+Phonesay Chanthachak,27,13 février 2012
+Matthew Roke,33,2 mai 2012
+Ryan Dube,18,24 juillet 2012
+Steve Mesic,45,7 juin 2013
+Bob Srigley,45,28 juillet 2013
+Michael MacIsaac,47,2 décembre 2013
+Charnjit Bassi,45,28 mars 2014
+John Caleb Ross,21,12 avril 2014
+Jermaine Carby,33,24 septembre 2014
+Marc Ekamba-Boekwa,22,20 mars 2015
+Beau Baker,20,2 avril 2015
+Brandon Duncan,36,20 mai 2015
+Aaron Daniel Driver,24,10 août 2016
+Debra Chrisjohn,39,7 septembre 2016
+Tony Divers,36,30 septembre 2016
+Samuel Maloney,35,23 décembre 2016
+Kevin Canniff McEachern,35,17 janvier 2017
+Kieran Kay,26,22 mai 2017
+Shawn Davis,52,27 juillet 2017
+Ozama Shaw,15,26 août 2017
+Tom Ryan,70,27 octobre 2017
+Russell Sutherland,52,6 décembre 2017
+Babak Saidi,43,23 décembre 2017
+Joey Knapaysweet,21,3 février 2018
+Gordon Couvrette,43,22 février 2018
+Matthew Mahoney,33,21 mars 2018
+Quinn MacDougall,19,3 avril 2018
+Orlando Brown,32,22 juin 2018
+William McKee,59,12 février 2019
+Billy Shea,27,24 juillet 2019
+Evan Freeman,22,12 septembre 2019
+Clive Mensah,30,20 novembre 2019
+Wade Vanderwal,44,4 décembre 2019
+Fred Penner,56,1 janvier 2020
+Jamal Derek Jr. Francique,28,9 janvier 2020
+D’Andre Campbell,26,6 avril 2020
+Caleb Tubila Njoko,27,8 mai 2020
+Ejaz Ahmed Choudry,62,20 juin 2020
+Jason Peterson,42,7 juillet 2020
+Leslie Hegedus,73,15 juillet 2020
+Alberto Ayala Guerrero,56,25 juillet 2020
+Jean-Guy Meloche,71,22 août 2020
+Matthew Rice,29,9 septembre 2020
+Gary Brohman,60,19 novembre 2020
+Martin Gordyn,27,5 janvier 2021
+
+Personnes décédées sous la garde de policiers en Ontario,Persons who died IN police custody in Ontario,1 janvier 1987
+
+Kenneth Alfonso Allen,32,30 novembre 1991
+Antonino Ranieri,37,16 février 1992
+Walter Matusiak,2 juin 1992
+Réjean Armand Mercier,35,6 juin 1992
+Jagtar Singh Dhillon,42,28 septembre 1992
+Ronald Welsh,32,le 27 octobre 1992
+Walter Matusiak,2 juin 1993
+Marc Valin,25 mars 1994
+Greg Armstrong,17,27 mai 1994
+Joseph Pahpasay,58,1 juillet 1994
+David Paul Boudreau,46,17 août 1994
+Albert Gale,37,18 mars 1995
+Osbaldo Aldama,31,16 septembre 1995
+Anthony William Howard,34,21 octobre 1995
+Tony Viveiros,20,11 novembre 1995
+Jerzy Tabol,36,3 mars 1996
+Donald Yacura,43,27 mars 1996
+William Fairley,46,17 juillet 1996
+Mark Wills,42,29 septembre 1996
+Richard Pribag,40,3 janvier 1998
+Brenda Moss,53,7 février 1999
+Mary Eliza Keewatin,57,10 août 1999
+Dwight Wayne Haughton,32,5 janvier 2003
+Christine Budgell,43,17 janvier 2004
+Grant Spielmacher,46,2 février 2004
+Craig James Morency,36,23 juin 2004
+Mark Orser,49,3 avril 2005
+James Maltar,45,18 septembre 2005
+Andrew Campbell,21,11 octobre 2005
+James Goodwin,20,8 janvier 2006
+Ricardo Wesley,22,8 janvier 2006
+Darin Fournier,9 février 2006
+Susan Maleska,44,24 février 2006
+Bryan Dukic,42,5 avril 2006
+Salvatore Ruscica,47,10 novembre 2007
+Jonathan Weeks,31,31 mars 2008
+David Stevens,27,8 juin 2008
+Darryl Thompson,36,20 août 2008
+Sean Reilly,42,16 septembre 2008
+Laura Straughan,25, 13 novembre 2009
+Cyler Douglas Rouillard,25,12 mai 2010
+Dalius Kakegamic,41,21 juin 2010
+George Kononow,58,17 septembre 2010
+Adam Sprague,25,11 novembre 2010
+David Wilcox,12 novembre 2010
+Mario Hamel,55,25 novembre 2010
+Ina Matawapit,37,7 juin 2012
+Don Mamakwa,44,13 août 2014
+Marlon Jerry McKay,50,19 juillet 2017
+Agnes Sutherland,62,4 février 2018
+Drew Pearson,29,27 décembre 2018
+Amanda Bolt,28,13 novembre 2019
+
+Personnes décédées lors d’un incident routier impliquant un policier à Toronto,Persons who died following a traffic incident involving a police officer in Toronto,1 janvier 1987
+
+Rick Finch,18,21 juin 1987
+Larry Lukas,42,6 mars 1991
+Donald Ernest Brown,41,7 septembre 1995
+Rosalba Marchese,34,7 septembre 1995
+Nina Stavropoulos,18,6 janvier 1998
+Clyde Barnaby,73,11 mai 1998
+Abaas Farah,20,5 septembre 2002
+Samatar Hassan,23,5 septembre 2002
+Mei Han Lee,67,8 décembre 2003
+Gary McLean,23,13 avril 2004
+Nesanel Levin,22,22 avril 2005
+Nicholas Vanderboom,19,2 octobre 2005
+Kenneth Walton,35,2 octobre 2005
+Blake Deck,36,2 octobre 2005
+Monique McKnight,16,2 juin 2007
+Chevon Josephs,15,2 juin 2007
+Aleisha Ashley,17,2 juin 2007
+Rudy Gibson,17,18 septembre 2007
+Sarah Attayee,26,15 février 2010
+Maria Christina Valvis Rocha,23,7 janvier 2011
+Satyawatti Katryan,64,28 juillet 2012
+Natasha Carla Abogado,18,11 février 2014
+
+Personnes décédées lors d’un incident routier impliquant un policier ailleurs en Ontario,Persons who died following a traffic incident involving a police officer in Ontario,1 janvier 1987
+
+Jessica Robbins,4,17 octobre 1990
+Devin O’Brien,15,21 août 1991
+Scott Dumaresq,27,2 mars 1992
+Richard Williams,19,25 juillet 1992
+Patricia Cavanaugh,23,18 juin 1993
+Daniel Brousseau,15,1 juillet 1993
+Jody Fairhurst,20,14 mai 1994
+Shayne Norris,16,22 août 1994
+Joshua Baillie,4,11 septembre 1994
+Vaughn Maracle,30,11 mars 1995
+Mikhail Litvin,31,22 mai 1995
+Tony Simone,60,27 janvier 1996
+Ruth Anne Simone,51,27 janvier 1996
+William Richard Hewer,28,11 octobre 1996
+Greg Kennedy,17,22 novembre 1996
+Douglas Hart,70,23 juillet 1997
+John Sousa,19,16 mai 1998
+Paul Cabral,36,19 septembre 1998
+John Gibbons,47,15 novembre 1998
+Sarah Bowman,20,18 février 1999
+Kathleen Winslow,34,20 février 1999
+Ilce Miovski,50,20 mars 1999
+Lorelei Lynn McLean,28,7 avril 1999
+Vivek Debidin,10,2 mai 1999
+Kim Elliott,41,25 juin 1999
+Richard McDonald,38,28 juillet 1999
+Sabina Gagnon,18,10 août 2000
+Stephen Adam Fisher,17,3 septembre 2000
+Michael James Faubert,16,3 septembre 2000
+Katherine Tallay,17,3 septembre 2000
+Kelly Perkins,34,22 octobre 2000
+Vanessa Carter,21,20 avril 2001
+Benoit Aubé,38,22 juin 2001
+Stéphane Drouin,19,1 juillet 2001
+Toan Hien Chau,25,15 février 2002
+Yun Tang Rui,24,15 février 2002
+Frederick Forde,40,9 avril 2002
+Pazva McKenzie,33,9 avril 2002
+Anthony Beals,35,9 avril 2002
+Wayne Drinkwalter,46,28 juillet 2002
+Bill Villeneuve,83,28 octobre 2002
+Cécile Villeneuve,84,28 octobre 2002
+Michael Quigg,20,25 juillet 2003
+Dean Lavalley,17,25 juillet 2003
+John Paul Flagg,54,20 septembre 2003
+Gérald Trudel,49,5 mai 2004
+Jamie Pangowish,15,5 juin 2004
+Susan Hart,49,12 mars 2005
+Sara Foy,52,16 septembre 2008
+Edward Kassian,77,14 novembre 2008
+Eileen Kassian,77,14 novembre 2008
+Dany Gionet,21,14 novembre 2008
+Jacob Sabourin,28,3 mai 2011
+Rachel Merredew,19,3 mai 2011
+Alain Seguin,54,2 octobre 2013
+Clayton Rivet,29,14 juin 2014
+Grace Glofcheskie,24,13 décembre 2015
+Sheila Walsh,65,25 septembre 2017
+Nathan Wehlre,15,6 octobre 2017
+Taryn Hewitt,16,6 octobre 2017
+Florence Wyatt-Morris,88,6 mars 2018
+
+BRITISH COLUMBIA
+
+Personnes décédées suite à une intervention policière à Vancouver,Persons who died following a police intervention in Vancouver,1 janvier 1987
+
+Greg Coghlan,23,30 juin 1988
+Mario Deiana,44,19 juillet 1988
+Joseph Cholette,38,31 décembre 1988
+Frederick Hodgins,37,2 janvier 1991
+Brian Shaw,40,20 août 1991
+Randall Andrews,28,7 décembre 1991
+Frank Bell,21,3 mars 1992
+Danny Possee,22,12 mai 1992
+Willie Hewer,34,9 avril 1994
+Roger Binette,64,28 août 1996
+Charles Albert Wilson,30,7 octobre 1996
+Thomas Alcorn,67, 2 décembre le 1997
+Sai-Ming Wai,61,14 décembre 1999
+Jeff Berg,37,22 octobre 2000
+Benny Matson,49,12 mai 2002
+Christopher Eklund,33,1 août 2002
+Tom Stevenson,46,7 décembre 2002
+Rhonda Lee Schwartz,18 février 2004
+Roman Andreichikov,25,1 mai 2004
+Robert Bagnell,44,23 juin 2004
+Dean Andrusyk,49,28 septembre 2004
+Gerald Chenery,29,27 décembre 2004
+Paul Boyd,39,13 août 2007
+Daniel Hong-Ross,40,2 septembre 2007
+Eugene Anthony Knight,47,18 septembre 2009
+John Jason Erslavas,35,13 décembre 2010
+Duncan Leslie Roy Smears,23,16 juillet 2011
+Darrell Elroy Barnes,48,22 juillet 2011
+Christopher Lewis Ray,52,29 octobre 2012
+Alton Cuyugan,33,13 novembre 2012
+Jesse John France Jr.,29,18 janvier 2013
+Douglas E. Combs,16,25 janvier 2013
+Phuong Na Du,51,22 novembre 2014
+Abdi Hirsi,26,9 avril 2015
+Myles Gray,33,13 août 2015
+Daniel Peter Rintoul,38,10 novembre 2016
+
+Personnes décédées suite à une intervention policière ailleurs en Colombie-Britannique,Persons who died following a police intervention in British Columbia,1 janvier 1987
+
+Douglas William Hemminger,30,16 novembre 1988
+Pak Chee Wu,38,24 juin 1990
+James Douglas Stephenson,22,17 juillet 1990
+Larry Prebble,56,2 août 1990
+James Cruikshank,64,5 février 1991
+Darel Cruikshank,30,6 février 1991
+Joey Peters,33,3 août 1994
+Benjamin Dickson,26 décembre 1994
+Stanley George Paul,26 mai 1997
+Glen Robert Edwards,18,1 avril 1999
+Anthany Dawson,29,15 août 1999
+Donald James Mayer,46,17 décembre 1999
+Mladen Cujko,33,21 août 2000
+Darrell Paquette,43, septembre 2002
+Lorraine Moon,40,28 février 2003
+Terrence Hanna, 51,19 avril 2003
+Keyvan Tabesh,18,14 juillet 2003
+Clayton Alvin Willey,33,22 juillet 2003
+Lyndon Charles Valan,32,29 novembre 2003
+Joe Pagnotta,52,24 février 2004
+Graham John Maryancik,29,27 mai 2004
+Majencio Camaso,33,11 juillet 2004
+Kevin St. Arnaud,29,19 décembre 2004
+Brent Andrew Abbott,19,29 avril 2005
+Stephen Hanaghan,45,27 juin 2005
+Gurmeet Sandhu,41,30 juin 2005
+Kyle Tait,16,23 août 2005
+Jay Douglas Louis,35,19 mai 2006
+Derrick Patrick Madrusan,38,7 juin 2006
+Donald Lewis,43,13 août 2006
+Daniel Antony King,37,13 octobre 2006
+John Seguin,37,3 février 2007
+Colin Kenson Tremeer,27,5 août 2008
+Robert Dziekański,40,14 octobre 2007
+Robert Knipstrom,36,24 novembre 2007
+Christopher Paul Klim,24,27 décembre 2007
+Derek Welton,39,1 mars 2009
+Michael Vann Hubbard,58,20 mars 2009
+John Ian Rice,38,12 juillet 2009
+Kenneth Keith Baines,46,15 juillet 2009
+Rodney Shane Jackson,35,26 septembre 2009
+Valeri George,41,30 septembre 2009
+Jeffrey Scott Hughes,48,23 octobre 2009
+Matthew John Wilcox,39,10 janvier 2010
+Ropinder Singh Gill,30,19 mai 2010
+Wilbert Bartley,50,30 juillet 2010
+Alvin Wright,22,6 août 2010
+Gordon Brent Amyotte,39,28 mai 2010
+Bikermanjit Singh Kooner,39,22 juin 2010
+Jason Diffner,37,9 juillet 2010
+Jerry Louis Burke,51,14 juillet 2010
+Wilbert Douglas Ross Bartley,50,30 juillet 2010
+Brandt Jason Zimmer,40,15 août 2010
+Adam Purdie,28,2 mars 2011
+Brendon Samuel Beddow,23,23 mars 2011
+Christopher Leslie Kampman,37,2 juillet 2011
+Justin Zinser,23,24 septembre 2011
+Angus David Mitchell,26,30 mai 2012
+Gregory John Matters,40,9 septembre 2012
+Mehrdad Bayrami,48,8 novembre 2012
+Ryan Jacob,45,31 janvier 2013
+Gaetan Gilbert Plante,61,17 janvier 2014
+Maurizio Facchin,50,le 4 juin 2014
+John Robert Buehler,51,17 septembre 2014
+Peter DeGroot,45,14 octobre 2014
+Rhett Mutch,20,1 novembre 2014
+Naverone Woods,23,28 décembre 2014
+Waylon Jesse Edey,39,29 janvier 2015
+Kevin Seiji Mukuyama,42,11 février 2015
+Jacobus Jonker,53,14 février 2015
+Travis Rood,35,29 mars 2015
+James Hayward,24,8 juillet 2015
+James Daniel McIntyre,48,16 juillet 2015
+Hudson Brooks,20,16 juillet 2015
+Kenneth Robert Hanna,48,18 septembre 2015
+Rene Armand Vaugeois,88,23 septembre 2015
+Marvel Woodhouse,53,2 mars 2016
+Lindsey Harvey Gauthier,45,6 avril 2016
+Shirley Williams,77,21 avril 2016
+Jovan Williams,39,21 avril 2016
+Craig Andrew Ford,49,14 juin 2016
+Nicolas Allan Jeppesen,29,18 août 2016
+Dale Culver,35,18 juillet 2017
+David Meadows,43,24 février 2018
+Chris Bloomfield,27,10 novembre 2018
+Nona McEwan,45,29 mars 2019
+Randy Crosson,29 mars 2019
+Kyaw Din,54,11 août 2019
+Lisa Rauch,25 décembre 2019
+Barry Shantz,13 janvier 2020
+
+Décès par suicide lors d’une intervention policière en Colombie-Britannique,Persons who died by suicide during a police intervention in British Columbia,1 janvier 1987 
+
+Frank Jonathan Frechette,49,30 septembre 2008
+Patrick Roy Wilder,58,10 mai 2011
+Kyle Martin Vandenberg,28,16 juin 2011
+Jacob Setah,18,15 juin 2014
+Jackson Diggle,17,11 octobre 2020
+
+Personnes décédées sous la garde de policiers,Persons who died IN police custody in British Columbia,1 janvier 1987
+
+Victor George,4 avril 1991
+Adeline Wilson,50,28 octobre 1994
+Frank Paul,47,6 décembre 1998
+Paul Alphonse,67,18 avril 2000
+Adam Wayne Beadle,2 mars 2001
+Richard William Allen,29,4 juillet 2001
+Francis Joseph Mark,55,26 octobre 2001
+Peter Prince,64,9 novembre 2001
+John MacKay,juillet 2002
+Dwight Caron,20,1 novembre 2004
+Adrianne Claudette Bos,37,27 octobre 2005
+Ian Bush,22,29 octobre 2005
+Ryan Snopek,30,1 janvier 2006
+Candice Pete,22,9 janvier 2006
+Tracee Anne Riches,48,7 février 2006
+James Hector Bertholet,21,30 août 2006
+David Kenneth Smelts,45,6 octobre 2006
+Albert William Nemechek,76,7 novembre 2006
+Steve Qualtier,46,5 août 2007
+Christopher Tom,38,5 août 2007
+Michael Lee Stein,35,16 août 2007
+Larry Lee McPherson,31,28 août 2007
+Duane Nelson,34,20 septembre 2007
+Cecil Edward McKenna,50,28 octobre 2007
+Christopher Gordon Jickels,29,27 novembre 2007
+Daniel Serbeh,26,7 décembre 2007
+Laura Eileen Coward,26,4 février 2008
+Scott Alexander Walker,43,7 février 2008
+Albert William Prevost,43,23 mars 2008
+David James Stitt,46,19 juin 2008
+Cheryl Ann Bouey,42,26 juin 2008
+Ryan Alexander Wagemans,24,1 juillet 2008
+Brandon Whitelaw,22,31 juillet 2008
+Christine Bernadette Miller,39,8 août 2008
+Ian Alexander Young,55,19 octobre 2008
+George Alfred Jones,40,18 janvier 2009
+Kevin John Vigar,48,27 juin 2009
+Stanley Steve Cardinal,44,8 août 2009
+Gordon Brent Amyotte,39,28 mai 2010
+Collan Michael Kohalyk,36,3 janvier 2011
+Bretton Robert Kent Lohouse,46,9 septembre 2011
+Surinder Singh Malhi,58,30 décembre 2011
+Jeremy David Richardson,34,22 avril 2012
+Steven Joseph Scott,30,10 octobre 2012
+Alyssa Oleksiuk,25,10 septembre 2013
+Gregory Douglas Lloyd,43,14 février 2014
+Ernest Shawn Moosomin,41,31 juillet 2014
+Cheryl Ann Cowan,58,23 décembre 2014
+Patricia Ann Wilson,58,29 mars 2016
+Jocelyn Nynah Marsha George,18,24 juin 2016
+Jamie Shanoss,51,24 novembre 2016
+Randy Lampreau,49,13 mars 2019
+Everett Patrick,42,20 avril 2020
+
+Personnes décédées lors d’un incident routier impliquant un policier,Persons who died following a traffic incident involving a police officer in British Columbia,1 janvier 1987
+
+Stanley Samuel Henry,34,20 mai 1990
+Benito Di Spirito,66,24 juin 2003
+Paquilina-Maria Di Spirito,65,24 juin 2003
+Orion Hutchinson,21,25 octobre 2008
+Victor Duarte,47,29 octobre 2012
+Donald Allan Murray,72,27 décembre 2012
+Darcy David Cole,29,15 juin 2013
+Marcus Larabie,14,26 décembre 2014
+
+ALBERTA
+
+Personnes décédées suite à une intervention policière,Persons who died following a police intervention in Alberta,1 janvier 1987
+
+Manuel Datuin Viray,36,24 février 1989
+Roy Sheppard,29,19 février 1996
+Connie Jacobs,37,22 mars 1998
+Ty Jacobs,9,22 mars 1998
+Gurdeep Singh Grewal,30,21 juillet 1998
+Huu Pham,15,24 septembre 1999
+Adam Miller,21,24 septembre 1999
+Arthur George Provencal,34,23 décembre 2000
+Kasim Cakmak,37,11 mai 2001
+John Pavic,31,16 mai 2001
+Richard Bellerose,30,27 juillet 2002
+Tamer Sayed Roha,27,4 septembre 2002
+Douglas Richard Oliver,37,5 février 2003
+Deng Fermino Kuol,34,25 octobre 2003
+Ronald Perry,28,23 mars 2004
+Harjinder Singh Cheema,30,21 janvier 2005
+Alesandro Fiacco,33,24 décembre 2005
+Ted James Meiorin,40, 26 mars 2006
+Jason Doan,28,30 août 2006
+Leo Raymond Poulin,59,12 juin 2008
+Walid Maragan,35,4 septembre 2008
+Trevor Grimolfson,38,29 octobre 2008
+Gordon Walker Bowe,30,2 novembre 2008
+Travis Douglas Oakes,33,18 mars 2009
+Grant William Prentice,40,6 mai 2009
+Shawn Michael Price,36,10 mai 2009
+Melvin Donald Vanhouwe,49,24 mai 2009
+Bernadette Auger,48,16 janvier 2010
+Corey Lewis,39,18 juillet 2010
+Bernard Emery Giroux,37,19 novembre 2010
+Mohamud Mohamed Jama,37,1 janvier 2011
+Steven Boucher,63,10 janvier 2011
+William Francis McCoy,56,16 janvier 2011
+Cyrus Green,17,5 février 2011
+Ahmad Abdallah,24,16 mars 2011
+Kinling Robin Fire,39,31 mars 2011
+Corey Peeace,40,10 juin 2011
+Jonathan Rawlings,36,11 août 2011
+Peter Spiewak,32,20 octobre 2011
+Darby Mohan,49,11 janvier 2012
+Brad Clark,27,8 février 2012
+Deu Raj Puri,26,15 juillet 2012
+Russell Skoropad,43, 18 juillet 2012
+Mike Grisch,24,12 décembre 2012
+Lance Cutarm,30,3 août 2013
+Marc-Andre Fontaine,27,4 août 2013
+Simon Chung,39,31 octobre 2013
+Jason Gary Roy,33,28 février 2014
+Christopher Arkell,50,22 mars 2014
+John Carlos Quadros,55,9 mai 2014
+David Charles Sandaker,24,11 mai 2014
+Trevor Proudman,32,12 novembre 2014
+Anthony Heffernan,27,16 mars 2015
+David McQueen,53,24 janvier 2016
+Sanjai Prasad,41,15 juillet 2016
+Bob Crowle,76,11 octobre 2016
+Terrence Weinmeyer,49,22 novembre 2016
+Jessica Lynn Patterson,27,29 novembre 2016
+Ralph Stephens,27,7 janvier 2017
+Vitaly Savin,55,9 mars 2017
+Matt Dumas,30,9 septembre 2017
+Cavin Poucette,26,19 octobre 2017
+Adam Bettahar,21,29 mars 2018
+Lyle Crane,40,19 juillet 2018
+Sterling Ross Cardinal,29,18 août 2018
+Jaskamal (Jas) Singh Lail,25,31 août 2018
+Radford Good Dagger,48,8 octobre 2018
+Stacy Perry,29,25 décembre 2018
+Buck Evans,34,26 décembre 2018
+Devlin Kyle Neyando,26,2 janvier 2019
+Robin Fiddler,34,26 juin 2019
+Brian Kyle Schriver,30,11 février 2020
+Phillip Blair,27,6 mai 2020
+Marty Powder,19 septembre 2020
+
+Personnes décédées sous la garde de policiers,Persons who died IN police custody in Alberta,1 janvier 1987
+
+Dean Welsh,34,12 avril 1997
+Darren Varley,26,3 octobre 1999
+Charles Ramsay,1 avril 2007
+Arthur Ross Lafrance,49,15 octobre 2007
+Sylvester Omeasoo,47,6 octobre 2008
+Louize Findlay,49,6 juillet 2010
+Charlene Danais,28,7 août 2011
+Jeff Oatway,34,13 avril 2012
+Rodney Brown,32,12 mai 2017
+Deanna Noname,55,7 août 2017
+
+Personnes décédées lors d’un incident routier impliquant un policier à Edmonton,Persons who died following a traffic incident involving a police officer in Edmonton,1 janvier 1987
+
+Giovanni Aleman,7,2 juin 2001
+Corey Bishop,16,24 juillet 2004
+Ryan Pope,17,24 juillet 2004
+Patti Lee Kibbee,47,12 novembre 2004
+Marcus Tootoosis,25,12 juillet 2007
+Colleen Cappo,31,16 février 2009
+Corey Alan Bishop,52,6 août 2012
+Leonard Cardinal,29,13 mars 2016
+Nicole Cheecham,23,13 mars 2016
+Ken Ahronson,64,3 juillet 2017
+Stella Constantin,62,4 juillet 2017
+
+Personnes décédées lors d’un incident routier impliquant un policier ailleurs en Alberta,Persons who died following a traffic incident involving a police officer in Alberta
+
+Brad Kerfoot,30,19 novembre 2009
+Byron Gray,29,9 juin 2010
+Ryan Gray,18,9 juin 2010
+Roy Beauregard,53,12 août 2010
+Anne Cecilia Walden,84,8 mars 2012
+Crystal Trotchie,33,22 novembre 2013
+Branden Anderson,27,22 novembre 2013
+Tracy Janvier,41,21 janvier 2016
+
+SASKATCHEWAN
+
+Personnes décédées suite à une intervention policière,Persons who died following a police intervention in Saskatchewan,1 janvier 1987
+
+Neil Stonechild,17,24 novembre 1990
+Alexander McDonald,26,21 janvier 1993
+Brent Nowlin,25,juin 1993
+Donald Mercedi,23,11 mai 1994
+Floyd Piche,28,31 mars 1995
+Denice Cyr,20,28 janvier 1996
+Josh Engdahl,16,10 septembre 1998
+Lloyd Dustyhorn,53,19 janvier 2000
+Rodney Naitus,25,29 janvier 2000
+Lawrence Wegner,30,3 février 2000
+Melvin Wayne Bigsky,33,27 avril 2001
+Keldon McMillan,33,20 mai 2001
+Vernon Dale Crowe,32,10 juillet 2001
+Michael Stochmal,35,1 septembre 2001
+Martin Joseph Aubichon,34,19 juin 2003
+Andrew Wayne Moore,35,30 avril 2004
+Delbert Kenneth Pelletier,44,13 novembre 2006
+Dwayne Charles Dustyhorn,38,22 décembre 2007
+Jackie Montgrand,44,18 mars 2008
+Chase McKay,21,14 juin 2008
+Harry Haineault,38,2 septembre 2008
+Calvin Roy McLean,43,9 octobre 2008
+Gerald Lord,42,11 septembre 2013
+Jordan Lafond,22,24 octobre 2016
+Brydon Bryce Whitstone,22,21 octobre 2017
+Geoff Morris,41,4 mai 2019
+Lucien Silverquill,37,27 août 2019
+
+Personnes décédées sous la garde de policiers,Persons who died IN police custody in Saskatchewan,1 janvier 1987
+
+Wayne Allen Strandquist,46,2 janvier 2006
+Christopher Hiebert,9 septembre 2009
+Brandon Daniels,19,2 juillet 2010
+Desmond Roberts,43,1 juin 2015
+Michael Ryan,38,26 février 2016
+Deanna Whitecap,,2 septembre 2017
+
+Personnes décédées lors d’un incident routier impliquant un policier,Persons who died following a traffic incident involving a police officer in Saskatchewan,1 janvier 1987
+
+Darwin Robert Campbell,17,15 septembre 2002
+Austin Eaglechief,22,19 juin 2017
+
+MANITOBA
+
+Personnes décédées suite à une intervention policière,Persons who died following a police intervention in Manitoba,1 janvier 1987
+
+J.J. Harper,36,9 mars 1988
+Abe Hiebert,60,16 décembre 1997
+Donald Miles,34,21 novembre 2001
+Dennis St. Paul,30,3 janvier 2005
+Matthew Dumas,18,31 janvier 2005
+Crystal Taman,40,25 février 2005
+Howard Fleury,34,2 décembre 2005
+Zunga Bashir,24,30 décembre 2005
+Ahmed Saleh-Azad,61,27 mars 2007
+Roy Bell,42,17 décembre 2007
+Michael Langan,17,22 juillet 2008
+Craig McDougall,26,2 août 2008
+Eric Daniels,28,6 mars 2010
+Lance Trevor Muir,42,9 mai 2010
+Paul Leonard Duck,56,mars 2011
+Andrew Baryluk,52,31 juillet 2014
+Haki Sefa,44,20 septembre 2015
+Mark Dicesare,24,6 novembre 2015
+Steven Douglas Campbell,39,21 novembre 2015
+Richard Kakish,44, 13 août 2017
+Adrian Lacquette,23,13 septembre 2017
+Evan Caron,33,23 septembre 2017
+Billy Saunders,18,14 novembre 2017
+Roy Thomas Bell,44,17 décembre 2017
+Matthew Fosseneuve,34,30 juillet 2018
+Chad Williams,26,12 janvier 2019
+Machuar Madut,43,23 février 2019
+Benjamin Richard,23,2 avril 2019
+Sean Thompson,30,26 juin 2019
+Randy Cochrane,30,14 juillet 2019
+Viengxay Chommany,42,4 août 2019
+Eishia Hudson,16,8 avril 2020
+Jason Collins,36,8 avril 2020
+Stewart Kevin Andrews,22,18 avril 2020
+
+Personnes décédées sous la garde de policiers,Persons who died IN police custody in Manitoba,1 janvier 1987
+
+Sherrill Forbister,octobre 2003
+Wilfred Asham,19,2 septembre 2007
+Jeffrey Mallett,37,19 juillet 2008
+Patrick Gagnon,41,26 octobre 2018
+David Norbert,56,16 avril 2019
+Celine Samuel,44,1 février 2020
+
+Personnes décédées lors d’un incident routier impliquant un policier,Persons who died following a traffic incident involving a police officer in Manitoba,1 janvier 1987
+
+Crystal Taman,40,25 février 2005
+
+NOVA SCOTIA
+
+Personnes décédées suite à une intervention policière,Persons who died following a police intervention in Nova Scotia,1 janvier 1987
+
+Patrick Hanna,31,13 novembre 1990
+Paul Saulnier,42,15 juillet 2005
+Robert Mansfield Gregory,70,11 août 2005
+John Simon,2 décembre 2008
+Bradley Thomas Clattenburg,24,26 mai 2018
+Gabriel Wortman,51,19 avril 2020
+Howard Wheeler,60,9 juillet 2020
+
+Personnes décédées sous la garde de policiers,Persons who died IN police custody in Nova Scotia,1 janvier 1987
+
+Howard Hyde,45,22 novembre 2007
+Ryan Allen MacKay,28,25 janvier 2009
+Victoria Rose Paul,44,5 septembre 2009
+Lawrence Ports,60,11 octobre 2013
+Corey Rogers,41,16 juin 2016
+
+NEW BRUNSWICK
+
+Personnes décédées suite à une intervention policière,Persons who died following a police intervention in New Brunswick,1 janvier 1987
+
+Kevin Geldart,34,5 mai 2005
+Daniel Levesque,30,13 juillet 2013
+William David McCaffrey,26,28 février 2014
+Michel Vienneau,51,12 janvier 2015
+Chantel Moore,26,4 juin 2020
+Rodney Levi,48,12 juin 2020
+
+Personnes décédées sous la garde de policiers,Persons who died IN police custody in New Brunswick,1 janvier 1987
+
+Randy Trenholm,50,2 juin 2007
+
+Personnes décédées lors d’un incident routier impliquant un policier,Persons who died following a traffic incident involving a police officer in New Brunswick,1 janvier 1987
+
+Mélissa Gallant,16,15 février 1999
+Stanly Léger,15 février 1999
+Jérémie Fournier,15 septembre 2004
+
+NEWFOUNLAND
+
+Personnes décédées suite à une intervention policière,Persons who died following a police intervention in Newfoundland,1 janvier 1987
+
+Nicholas Benteau,43,2 mars 1996
+Norman Reid,44,26 août 2000
+Darryl Power,23,16 octobre 2000
+Don Dunphy,59,5 avril 2015
+Jorden McKay,27,27 novembre 2018
+
+Personnes décédées lors d’un incident routier impliquant un policier,Persons who died following a traffic incident involving a police officer in Newfoundland,1 janvier 1987
+
+Alyssa Power,19,13 avril 2018
+
+PRINCE EDOUARD ISLAND
+
+Personnes décédées suite à une intervention policière,Persons who died following a police intervention in Prince Edward Island,1 janvier 1987
+
+Jeremy Stephens,32,27 mai 2018
+
+YUKON
+
+Personnes décédées sous la garde de policiers,Persons who died IN police custody in Yukon,1 janvier 1987
+
+Harley Clayton Johnnie,22,8 septembre 1998
+Clark Whitehouse,34,28 septembre 2003
+Raymond Silverfox,43,2 décembre 2008
+
+NORTHWEST TERRITORIES
+
+Personnes décédées suite à une intervention policière,Persons who died following a police intervention in Northwest Territories,1 janvier 1987
+
+Karen Lander,42,14 mars 2012
+
+Personnes décédées sous la garde de policiers,Persons who died IN police custody in Northwest Territories,1 janvier 1987
+
+Beverly Elanik,51,10 janvier 2016
+
+NUNAVUT
+
+Personnes décédées suite à une intervention policière,Persons who died following a police intervention in Nunavut,1 janvier 1987
+
+Naytanie Atadjuat,26,11 septembre 2002
+Felix Taqqaugaq,29,20 mars 2012
+Silas Ulayuruluk,46,28 novembre 2016
+Charles Qirngnirq,21,19 décembre 2016
+Kunuk Qamaniq,20,18 mars 2017
+Jeremy Nuvviaq,39,1 mai 2017
+Attachie Ashoona,38,26 février 2020
+Abraham Natanine,31,5 mai 2020
+
+Personnes décédées sous la garde de policiers,Persons who died IN police custody in Nunavut,1 janvier 1987
+
+Adamie Nuturaluk,56,décembre 2009
+Paul Kayuryuk,29 octobre 2012
+Adla Pudlat,29,19 mai 2016

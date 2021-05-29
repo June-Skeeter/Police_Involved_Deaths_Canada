@@ -1,0 +1,461 @@
+﻿id_incident,date,day_week,prov,city_town,address_intersection,postal_code,location_type
+1,6-Jan-12,Fri,QC,Montréal,1000 rue De La Gaucheti√®re,H3B 4W5,Urban
+2,11-Jan-12,Wed,AB,Onoway,"#104, 5107 Lac St Anne Trail North",T0E 1V0,Rural
+3,12-Jan-12,Thu,ON,Oakville,95 Oak Walk Drive,L6H 0G6,Urban
+4,3-Feb-12,Fri,ON,Toronto,552-554 Milverton Boulevard,M4C 1X5,Urban
+5,13-Feb-12,Mon,ON,Hamilton,15 Albright Road,L8K 5J4,Urban
+6,16-Feb-12,Thu,QC,Montréal,2007 Rue Nicolet,H1W 3L3,Urban
+7,20-Feb-12,Mon,ON,Toronto,258 Campbell Avenue,M6P 3V6,Urban
+8,28-Feb-12,Tue,QC,La Baie,593 Rue Troisi√®me,G7B 2B4,Urban
+9,14-Mar-12,Wed,NT,Yellowknife,1 Glick Court,X1A 3K6,Urban
+10,20-Apr-12,Fri,ON,Toronto,28 Northmount Aveue,M3H 1N4,Urban
+11,2-May-12,Wed,ON,Maitland,"Concession 2 Road, west of Rocky Road",K6V 5T1,Urban
+12,6-May-12,Sun,QC,Saint-Félicien,2163 chemin de la Pointe,G8K 3G3,Urban
+13,30-May-12,Wed,BC,Maple Ridge,216th St. & 132nd Ave.,V4R 2S8,Urban
+14,15-Jul-12,Sun,AB,Lethbridge,64 Columbia Way West,T1K 5A8,Urban
+15,18-Jul-12,Wed,AB,Vegreville,53030 Range Road 122,T0B 2S0,Rural
+17,10-Sep-12,Mon,BC,Prince George,10680 Pinko Rd.,V2N 5V8,Urban
+18,29-Oct-12,Mon,BC,Vancouver,E Hastings St. & Cassiar St.,V5K 2A6,Urban
+19,8-Nov-12,Thu,BC,New Westminster,350 Gifford St.,V3M 7A3,Urban
+20,13-Nov-12,Tue,BC,Vancouver,1335 Renfrew Street,V5K 3B2,Urban
+21,11-Dec-12,Tue,AB,Edmonton,2142 99 Street NW,T6N 1L2,Urban
+22,31-Jan-13,Thu,BC,Burnaby,E Hastings St. & MacDonald Ave.,V5C 2J1,Urban
+23,26-Apr-13,Fri,ON,Toronto,Southeast corner of Kennedy Road and Eglinton Avenue,M1K 2P7,Urban
+24,7-Jun-13,Fri,ON,Hamilton,Lincoln Alexander Parkway near Upper Wentworth Street,L9A 5G2,Urban
+25,8-Jun-13,Sat,ON,Toronto,140 Adanac Drive,M1M 2E8,Urban
+26,21-Jun-13,Fri,ON,Port Elgin,799 Oakwood Drive,N0H 2C4,Rural
+27,13-Jul-13,Sat,NB,Moncton,Killam Drive between Whitney Avenue and Jordan Avenue,E1C 3S7,Urban
+28,25-Jul-13,Thu,ON,Arden,4107 Arden Road,K0H 1B0,Rural
+29,26-Jul-13,Fri,QC,Montréal,4634 Rue Saint-Denis,H2J 2L3,Urban
+30,27-Jul-13,Sat,ON,Toronto,Dundas Avenue & Bellwoods Avenue (Streetcar),M6J 2P9,Urban
+31,3-Aug-13,Sat,AB,Ma-Me-O Beach,Hwy 13,T0C 1X0,Rural
+32,2-Aug-13,Fri,AB,Leduc,4916 50th Ave,T9E 7K6,Urban
+33,15-Aug-13,Thu,AB,Cold Lake,Cold Lake First Nation Reserve,T0A 0T0,Rural
+34,31-Jul-13,Wed,QC,Montréal,8243 chemin Guelph,H4W 1J1,Urban
+35,11-Sep-13,Wed,SK,Holdfast,1311 Folk Street,S0G 2H0,Rural
+37,24-Oct-13,Thu,AB,Edmonton,106 Ave. & 96th St.,T5K 0Z7,Urban
+38,11-Nov-13,Mon,QC,Montréal,2017 Rue Saint-André,H2L 3V2,Urban
+39,13-Nov-13,Wed,ON,Toronto,437 Sherbourne Street,M4X 1K5,Urban
+40,2-Dec-13,Mon,ON,Ajax,Dring Street,L1T 4X9,Urban
+41,17-Jan-14,Fri,BC,Surrey,11798 98A Ave. ,V3V 2L3,Urban
+42,22-Jan-14,Wed,QC,Ste-Ad√®le,258 Boulevard de Sainte-Ad√®le ,J8B 1A8,Urban
+43,3-Feb-14,Mon,QC,Montréal,1755 rue Berri,H2L 4E9,Urban
+44,28-Feb-14,Fri,AB,Calgary,Deerfoot Tr. & McKenzie Lake Blvd.,T2Z 2J8,Urban
+45,28-Feb-14,Fri,NB,Rothesay,27 Shipyard Road,E2E 1X1,Urban
+46,22-Mar-14,Sat,AB,Medicine Hat,Range Road 60 & South Boundary Rd SE,T1B 0C5,Urban
+47,28-Mar-14,Fri,ON,Brampton,7755 Hurontario Street  ,L6W 4T1,Urban
+48,12-Apr-14,Sat,ON,Aurora,State Farm Way near Leslie Street,L4G 7C7,Urban
+49,9-May-14,Fri,QC,Québec City,3110 Boulevard Sainte-Anne,G1E 3K2,Urban
+50,9-May-14,Fri,AB,St. Paul,4733 50 Ave,T0A 3A2,Rural
+51,11-May-14,Sun,AB,Edmonton,51st Avenue NW & 149A Street NW,T6H 4W2,Urban
+52,4-Jun-14,Wed,BC,Burnaby,#102-6947 Walker Ave,V5E 3C4,Urban
+54,17-Sep-14,Wed,BC,Valemount,West Canoe Forest Rd,V0E 2Z0,Rural
+55,24-Sep-14,Wed,ON,Brampton,Queen Street East and Kennedy Road South,L6V 1X5,Urban
+56,14-Oct-14,Tue,BC,Slocan,,V0G 2C0,Rural
+57,17-Oct-14,Fri,ON,Oakville,374 South Service Road East (Monte Carlo Inn),L6J 2X6,Urban
+58,20-Oct-14,Mon,QC,Saint-Jean-sur-Richelieu,,J3B 5K9,Urban
+59,22-Oct-14,Wed,ON,Ottawa,111 Wellington Street (Parliament Hill),K1A 0A9,Urban
+60,31-Oct-14,Fri,AB,Calgary,433 Macleod Trail SE,T2G 5J7,Urban
+61,1-Nov-14,Sat,BC,Victoria,270 Dallas Rd.,V8V 1A6,Urban
+62,12-Nov-14,Wed,AB,Edmonton,122nd Ave. & 97th St.,T5G 1Z2,Urban
+63,22-Nov-14,Sat,BC,Vancouver,Knight St. & E 41st Ave.,V5W 3R9,Urban
+64,28-Dec-14,Sun,BC,Surrey,10355 King George Highway,V3T 2W6,Urban
+65,31-Dec-14,Wed,ON,Toronto,682 Warden Avenue,M1L 3Z9,Urban
+66,2-Jan-15,Fri,AB,Grand Prairie,9701 84 Ave.,T8V 4Z8,Urban
+67,12-Jan-15,Mon,NB,Bathurst,690 Thornton Avenue (Via Rail Station),E2A 2W8,Urban
+68,29-Jan-15,Thu,BC,Castlegar,"Kinnaird Bridge, Highway 3",V1N 3W5,Urban
+69,11-Feb-15,Wed,BC,Chilliwack,9743 Oak St.,V2P 5A3,Urban
+70,15-Feb-15,Sun,BC,Smithers,3351 BC-16,V0J 2N0,Rural
+71,18-Feb-15,Wed,ON,Toronto,140 Spadina Road  (near Dupont Subway Station),M5V 2L4,Urban
+72,16-Mar-15,Mon,AB,Calgary,3030 Barlow Trail NE,T1Y 1A2,Urban
+73,20-Mar-15,Fri,ON,Mississauga,3070 Queen Frederica Drive,L4Y 3A9,Urban
+74,29-Mar-15,Sun,BC,Burnaby,6116 14th Ave.,V3N 1Y5,Urban
+75,2-Apr-15,Thu,ON,Kitchener,77 Brybeck Crescent,N2M 2C5,Urban
+76,4-Apr-15,Sat,ON,Peterborough,Wolfe Street and Park Street N,K9J 3P5,Urban
+77,5-Apr-15,Sun,NL,Mitchells Brook,,A0B 2M0,Rural
+78,9-Apr-15,Thu,BC,Vancouver,320 East Hastings Street,V6A 1P4,Urban
+79,20-May-15,Wed,ON,Guelph,115 Delhi Street (Guelph General Hospital),N1E 4J4,Urban
+80,18-May-15,Mon,AB,Edmonton,118th Ave. Abbottsfield Rd.,T5W 4S9,Urban
+81,22-May-15,Fri,AB,Morinville,Range Road 263,T0G 1Y0,Rural
+82,31-May-15,Sun,QC,Montréal,1900 Avenue Papineau,H2K 4J1,Urban
+83,5-Jul-15,Sun,ON,Toronto,502 Gilbert Avenue,M6E 4X5,Urban
+84,8-Jul-15,Wed,BC,Port Hardy,Highway 19 & Granville St.,V0N 2P0,Rural
+85,16-Jul-15,Thu,BC,Dawson Creek,512 Highway 2,V1G 0A4,Urban
+86,18-Sep-15,Fri,BC,Burnaby,3879 Frances St.,V5C 2P1,Urban
+87,18-Jul-15,Sat,BC,Surrey,"1815 152 St., Unit 100 ",V4A 9Y9,Urban
+88,25-Jul-15,Sat,ON,Toronto,Between 82 and 80 Peter Street,M5V 1P8,Urban
+89,13-Aug-15,Thu,BC,Burnaby,8300 Block of Joffre Ave.,V5J 3L4,Urban
+90,20-Sep-15,Sun,MB,Winnipeg,Highway 59 and Kirkness Road,R2E 1C2,Urban
+92,6-Nov-15,Fri,MB,Winnipeg,Kenaston Boulevard and Grant Avenue,R3N 1Z4,Urban
+93,6-Nov-15,Fri,ON,Toronto,10 Dora Avenue,M6H 4J2,Urban
+94,16-Nov-15,Mon,QC,Messines,Chemin de la Ferme & Rue Patry,J9E 3M4,Urban
+95,21-Nov-15,Sat,MB,Thompson,Princeton Drive,R8N 0A1,Urban
+96,2-Dec-15,Wed,QC,Saint-Jean-sur-Richelieu,187 Rue Fournier,J2Y 1J9,Urban
+97,7-Dec-15,Mon,AB,Edmonton,12004 58 Street NW,T5W 3X3,Urban
+98,25-Dec-15,Fri,AB,Red Deer,Township Road 391 & Range Road 273,T4S 2A1,Urban
+99,27-Dec-15,Sun,QC,Saint-Constant,43 Rue de l'Amaryllis,J5A 2N3,Urban
+100,16-Jan-16,Sat,ON,Port Perry,235 Waterbury Crescent,L9L 1S4,Urban
+101,21-Jan-16,Thu,QC,Saint-Joseph-du-Lac,165 Rue Clément,J0N 1M0,Rural
+102,24-Jan-16,Sun,AB,Calgary,1019 78 Avenue NW,T2K 0S6,Urban
+103,2-Feb-16,Tue,ON,Toronto,High Park,M6R 2Z3,Urban
+104,2-Mar-16,Wed,BC,Surrey,11678 96A Avenue,V3V 2A1,Urban
+105,4-Mar-16,Fri,ON,Toronto,3410 Bayview Avenue (St. Clare‚Äôs Residence),M2M 3Y7,Urban
+106,13-Mar-16,Sun,QC,Montréal,5900 Sherbrooke St E,H1N 1B5,Urban
+107,14-Mar-16,Mon,ON,Toronto,Villaways Park,M2K 1E3,Urban
+108,31-Mar-16,Thu,QC,Montréal,6330 Rue Arthur-Chevrier,H1G 1R9,Urban
+109,6-Apr-16,Wed,QC,Lac-Simon,,J0Y 3M0,Rural
+110,18-Mar-16,Fri,QC,Chicoutimi,349 Rue J. R. Théberge,G7J 3R9,Urban
+111,19-Mar-16,Sat,QC,Dolbeau-Mistassini,Rang Sainte-Marie,G8L 1H6,Urban
+112,21-Apr-16,Thu,BC,Granisle,Morrison St.,V0J 1W0,Rural
+113,25-Apr-16,Mon,QC,Montréal,,H1V 1L3,Urban
+115,14-Jun-16,Tue,BC,Nanaimo,3600 block of Country Club Drive,V9T 1C9,Urban
+116,17-Jun-16,Fri,ON,Toronto,"http://www.cbc.ca/news/canada/toronto/siu-investigation-1.3640897, https://www.thestar.com/news/gta/2017/07/16/someone-must-know-anonymous-man-shot-by-police-confounded-the-justice-system.html, https://www.thestar.com/news/gta/2017/07/12/siu-wont-charge-officer-who-fatally-shot-man-on-toronto-rail-corridor.html, https://www.thespec.com/news-story/6729411-man-shot-dead-by-toronto-police-siu-begins-probe/, https://www.northumberlandnews.com/news-story/6734744-secrecy-over-victims-of-police-shootings-to-be-reviewed/",M9M 3A4,Urban
+117,9-Jul-16,Sat,QC,Jonqui√®re,3859 Rue Saint-Germain,G7X 2V7,Urban
+118,15-Jul-16,Fri,AB,Calgary,63 Inglewood Park SE,T2G 1B7,Urban
+120,24-Jul-16,Sun,ON,Ottawa,55 Hilda Street,K1Y 4W1,Urban
+121,10-Aug-16,Wed,ON,Strathroy,212 Park Street,N7G 3V9,Urban
+122,18-Aug-16,Thu,BC,Terrace,4720 Haugland Ave. ,V8G 2X5,Urban
+123,26-Aug-16,Fri,QC,St-Cyrille-de-Wendover,95 Rue Saint-Jean-Baptiste,J1Z 1T1,Urban
+124,19-Sep-16,Mon,QC,Rawdon,Chemin Ponderosa,J0K 1S0,Rural
+125,30-Sep-16,Fri,ON,Hamilton,115 James St S,L8N 3W8,Urban
+126,2-Oct-16,Sun,QC,√éle-Perrot,96 2e Avenue,J7V 4Z4,Urban
+127,3-Oct-16,Mon,QC,Rouyn-Noranda,214 6e Rue,J9X 1Z3,Urban
+128,6-Oct-16,Thu,QC,Montebello,215 Rue Saint-Fran√ßois-Xavier,J0V 1L0,Rural
+129,11-Oct-16,Tue,AB,Calgary,27 Sunmount Crescent SE,T2X 1V9,Urban
+130,19-Oct-16,Wed,BC,Coquitlam,1547 Balmoral Avenue,V3J 5Y7,Urban
+131,4-Nov-16,Fri,ON,Toronto,25 Sagres Crescent,M6N 5E6,Urban
+132,10-Nov-16,Thu,BC,Vancouver,2830 Bentall St.,V5M 4H4,Urban
+133,22-Nov-16,Tue,AB,Calgary,5032 16 Avenue NW,T3B 0N3,Urban
+134,26-Nov-16,Sat,ON,Nipigon,46 Park Road,P0T 2J0,Rural
+135,29-Nov-16,Tue,AB,Calgary,16 Street at 11 Ave. S.W.,T3C 0N5,Urban
+136,19-Dec-16,Mon,NU,Gjoa Haven,Gjoa Haven Airport,X0B 1J0,Rural
+137,23-Dec-16,Fri,ON,London,56 Duchess Avenue,N6C 1N2,Urban
+138,27-Dec-16,Tue,QC,Québec City,Charest Boulevard,G1P 3W8,Urban
+139,27-Jun-17,Tue,QC,Montréal,950 avenue Robillard,H2L 3S8,Urban
+140,6-Apr-16,Wed,BC,Chilliwack,46170 Yale Rd,V2P 4P9,Urban
+141,7-Sep-16,Wed,ON,London,Trafalgar Street and Highbury Avenue North,N5W 1W6,Urban
+142,13-Sep-17,Wed,MB,Winnipeg,423 Alfred Avenue,R2X 0E8,Urban
+143,6-Jan-17,Fri,QC,Montreal,915 Clark Street,H2Z 1J8,Urban
+144,6-Mar-17,Mon,QC,L'√éle-Bizard,5 place Monk,H9E 1B1,Urban
+152,24-Jan-17,Tue,QC,Gatineau,24 rue Charles-Albanel,J8Z 1P9,Urban
+158,15-May-17,Mon,QC,Beauceville,991 route du Golf,G5X 2T4,Urban
+160,10-Jun-17,Sat,QC,Akulivik,Unknown,J0M 1V0,Rural
+161,15-Jun-17,Thu,QC,Lachine,St-Joseph Boulevard near George-V Avenue,H8S 2K9,Urban
+162,29-Jun-17,Thu,QC,Grand-Remous,,J0W 1E0,Rural
+163,9-Jul-17,Sun,QC,Pont-Rouge,"180 Boul Notre Dame, Pont-Rouge",G3H 3K7,Urban
+164,10-Aug-17,Thu,QC,Saint-Georges-de-Beauce,,G5Y 2B6,Urban
+165,20-Aug-17,Sun,QC,La Sarre,,J9Z 1M5,Urban
+166,18-Mar-08,Tue,SK,Prince Albert,733 12th St. W,S6V 3C3,Urban
+167,22-Dec-07,Sat,SK,Saskatoon,1209 Cumberland Ave. S,S7H 2L8,Urban
+168,27-Apr-01,Fri,SK,Saskatoon,Highway 41,S0K 4S0,Rural
+169,20-May-01,Sun,SK,Wakaw,Highway 41,S0K 4P0,Rural
+170,7-Jan-00,Fri,AB,Edmonton,8912-148th St.,T5R 1A1,Urban
+171,21-Sep-00,Thu,AB,Red Deer,5901-59th St.,T4N 2N4,Urban
+172,21-Dec-01,Fri,SK,Wolseley,Trans Canada Hwy,S0G 5H0,Rural
+173,31-Oct-07,Wed,ON,Toronto,Riverdale Park near Don Valley,M4K 2N5,Urban
+174,26-Aug-00,Sat,NL,Little Catalina,Reid's house,A0C 1W0,Rural
+175,23-Dec-00,Sat,AB,Calgary,"317 7th Ave. SW, Unit T 100",T2P 2Y9,Urban
+176,29-Apr-01,Sun,AB,Lethbridge,221-2nd Ave. S.,T1J 0B7,Urban
+177,16-Oct-00,Mon,NL,Cornerbrook,19 Westmount Rd.,A2H 5R1,Urban
+178,3-Jun-17,Sat,ON,Ottawa,141 Clarence St. ,K1N 7E5,Urban
+179,11-May-01,Fri,AB,Edmonton,9942-108th St.,T5K 2J5,Urban
+180,5-May-05,Thu,NB,Riverview,"The Right Spot, 19 Orange Lane",E1C 4L6,Urban
+181,16-May-01,Wed,AB,Edmonton,11453-40th Ave.,T6J 0R4,Urban
+182,30-Apr-04,Fri,SK,Saskatoon,819 29th St W,S7L 0N2,Urban
+184,22-Jun-11,Wed,ON,Lindsay,31 Georgian St.,K9V 2E7,Urban
+185,27-Jul-02,Sat,AB,Edmonton,10539-75th St.,T6A 2Z6,Urban
+186,4-Sep-02,Wed,AB,Calgary,"2359 Banff Trail, NW",T2M 4L2,Urban
+187,15-Jul-05,Fri,NS,Digby,129 Victoria St.,B0V 1A0,Rural
+188,11-Aug-05,Thu,NS,Forest Glen/Carleton,,B0W 1L0,Rural
+189,14-Jun-08,Sat,SK,White Bear First Nation,,S0C 2S0,Rural
+190,2-Sep-08,Tue,SK,Clearwater River Dene First Nation,Woods near victim's house,S0M 3H0,Rural
+191,3-Sep-02,Tue,AB,Canmore,No location given,T1W 2H4,Urban
+192,5-Feb-03,Wed,AB,Edmonton,10266-103rd St.,T5J 0Y8,Urban
+193,25-Oct-03,Sat,AB,Calgary,1-1709 37th St. SE,T2A 1E9,Urban
+194,28-Feb-04,Sat,AB,Spruce Grove,119 Greystone Dr.,T7X 1Y2,Urban
+195,19-Mar-04,Fri,AB,Edmonton,129th Ave. & 64th St.,T5C 0A4,Urban
+196,21-Jan-05,Fri,AB,Calgary,"279 Queensland Circle, SE",T2J 4E3,Urban
+197,7-Sep-06,Thu,ON,Newmarket,Southwind Court,L3Y 8C5,Urban
+198,11-Mar-05,Fri,AB,Edmonton,"4816 26th St. , 14808 26th St.",T5Y 2G5,Urban
+199,2-Dec-08,Tue,NS,Wagmatcook First Nation,15 Katie Lane,B0E 3N0,Rural
+201,24-Dec-05,Sat,AB,Edmonton,113th St. & 75th Ave.,T6G 0H6,Urban
+202,26-Mar-06,Sun,AB,Rocky Mountain House,Pillars Restaurant,T4T 1W9,Urban
+203,6-Mar-05,Sun,ON,Oshawa,41 Drew Street,L1H 4Z9,Urban
+205,30-Jun-06,Fri,AB,Edmonton,12838-68th St.,T5C 0E7,Urban
+206,8-Jul-06,Sat,AB,Edmonton,102nd St. & MacDonald Dr.,T5J 0X2,Urban
+207,13-Nov-06,Mon,SK,Muskowekwan First Nation,Victim's home,S0A 2G0,Rural
+208,10-Aug-06,Thu,AB,Red Deer,"1 Ovington [Close], Oriole Park",T4N 5J3,Urban
+209,30-Aug-04,Mon,SK,La Ronge,Northland Motor Hotel ,S0J 1L0,Rural
+210,24-Apr-15,Fri,QC,Inukjuak,,J0M 1M0,Rural
+211,12-Jul-08,Sat,AB,Vegreville,50th St. & 50th Ave.,T9C 1A0,Urban
+212,6-Oct-16,Thu,SK,Saskatoon,Avenue Q North,S7L 2V7,Urban
+213,4-Sep-08,Thu,AB,Calgary,"505, 1520-26th Ave. SW",T2T 1C3,Urban
+214,29-Oct-08,Wed,AB,Edmonton,15347 Stony Plain Rd.,T5P 3Y6,Urban
+215,1-Nov-08,Sat,AB,Calgary,507-42nd St. SE,T2A 3C4,Urban
+216,5-Nov-01,Mon,MB,Winnipeg,373 Salter St.,R2W 4L7,Urban
+217,3-Jan-05,Mon,MB,Norway House,York Boat Inn,R0B 1B0,Rural
+218,18-Mar-09,Wed,AB,Calgary,4011 Richmond Rd. SW,T3E 4P2,Urban
+219,6-May-09,Wed,AB,Brooks,Lake Bevan Place,T1R 0L3,Urban
+220,28-Sep-03,Sun,YT,Lewes Lake,Lewes Lake Rd. & Klondike Hwy.,Y1A 5Y9,Urban
+221,30-Aug-08,Sat,YT,Whitehorse,4190 4 Ave.,Y1A 1J8,Urban
+222,31-Jan-05,Mon,MB,Winnipeg,Dufferin Ave,R2W 3B2,Urban
+223,2-Dec-05,Fri,MB,Winnipeg,339 Alfred Ave,R2W 1X5,Urban
+224,10-May-09,Sun,AB,Edmonton,107th Ave. & 102nd St.,T5H 0V7,Urban
+225,24-May-09,Sun,AB,Calgary,506 Sabrina Rd. SW,T2W 1Y7,Urban
+226,16-Jan-10,Sat,AB,Edmonton,8411 119th Ave.,T5B 0W3,Urban
+227,18-Jul-10,Sun,AB,Okotoks,21 Alcock St. ,T1S 1G8,Urban
+228,20-Nov-10,Sat,AB,Driftpile First Nation,,T0G 0X0,Rural
+229,10-Jan-11,Mon,AB,Canmore,Railway Ave. & Gateway St.,T1W 1P3,Urban
+230,16-Jan-11,Sun,AB,Sherwood Park,51035 Range Road 223,T8C 1G9,Urban
+231,10-Apr-11,Sun,QC,St-Raymond de Portneuf,106 rue Vanier,G3L 2M3,Urban
+232,30-Dec-05,Fri,MB,Winnipeg,Portage Ave.,R3J 0L3,Urban
+233,7-Jun-11,Tue,QC,Montreal,,H2L 4Y2,Urban
+234,27-Mar-07,Tue,MB,Winnipeg,210 Evanson St.,R3G 2A3,Urban
+235,27-Oct-17,Fri,ON,Cobourg,1000 DePalma Drive,K9A 5W6,Urban
+236,5-Feb-11,Sat,AB,Edmonton,118th Ave. & Wayne Gretzky Dr.,T5B 4L3,Urban
+237,16-Mar-11,Wed,AB,Fort McMurray,10126 MacDonald Ave. ,T9H 1T1,Urban
+238,17-Dec-07,Mon,MB,Winnipeg,Langside St.,R3C 1Z5,Urban
+239,31-Mar-11,Thu,AB,Edmonton,155th St. & 100th Ave.,T5P 0K8,Urban
+240,6-Feb-11,Sun,QC,Kirkland,,H9J 4A1,Urban
+241,22-Jul-08,Tue,MB,Winnipeg,871 William Ave.,R3E 0Z5,Urban
+242,22-Apr-09,Wed,ON,Ottawa,Highway 417 & Walkley Road,K1B 3V8,Urban
+243,10-Jun-11,Fri,AB,Calgary,"260 Erin Meadows Close, SE",T2B 3E4,Urban
+244,10-Jan-04,Sat,ON,Toronto,2021 Dufferin Street,M6E 3R3,Urban
+245,11-Aug-11,Thu,AB,Calgary,"Whiteview Rd. & Whiteview Close, NE",T1Y 1R1,Urban
+246,26-Jan-11,Wed,QC,Montreal,,H1Y 3C2,Urban
+247,20-Oct-11,Thu,AB,Calgary,"210 Citadel Peak Circle, NW",T3G 4E9,Urban
+248,18-Oct-05,Tue,ON,Markham,30 Alden Road,L3R 2S1,Urban
+249,25-Jul-04,Sun,ON,Toronto,65 Front Street West,M5J 1E6,Urban
+250,10-May-10,Mon,ON,Markdale,West Back Line & 80 Sideroad,N0C 1H0,Rural
+251,2-Aug-08,Sat,MB,Winnipeg,788 Simcoe St.,R3E 2C4,Urban
+252,3-Oct-11,Mon,QC,Québec City,830 Place de Gironde,G1G 3J1,Urban
+253,7-Mar-10,Sun,MB,Winnipeg,Arlington St. & Sargent Ave.,R3E 0B9,Urban
+254,17-Jul-00,Mon,ON,London,Adelaide St North & Oxford St East,N5Y 3J1,Urban
+255,27-Nov-10,Sat,QC,Danville,Chemin du Lac,J0A 1A0,Rural
+256,9-May-10,Sun,MB,Winnipeg,143 Langside St.,R3C 1Z5,Urban
+257,14-Mar-11,Mon,MB,God's Lake Narrows,Hse 2157,R0B 0M0,Rural
+258,30-Oct-00,Mon,ON,Amherstburg,258 McCurdy Drive,N9V 3K4,Urban
+259,6-Oct-10,Wed,QC,Val-d'Or,591 rue Sabourin,J9P 5V6,Urban
+260,7-Jan-17,Sat,AB,Stoney Nakoda First Nation,Hwy 1 & Hwy 40,T0L 1N0,Rural
+261,8-Mar-17,Wed,AB,Edmonton,Hollands Landing & 23rd Ave NW,T6R 3S9,Urban
+262,6-Sep-17,Wed,AB,Whitefish Lake First Nation,,T0G 0C0,Rural
+263,9-Sep-17,Sat,AB,Edmonton,Groat Rd. & 113th Ave.,T5M 3J8,Urban
+264,19-Oct-17,Thu,AB,Gleichen, Haskayne Ave. & Main St.,T0J 1N0,Rural
+265,19-Oct-17,Thu,AB,Alix,Range Road 234 & Hwy 11,T0C 0B0,Rural
+266,11-Apr-00,Tue,BC,Williams Lake,730 Oliver St.,V2G 1N1,Urban
+267,21-Aug-00,Mon,BC,Langford (Western Communities),Trans Canada Hwy,V9B 4C6,Urban
+269,22-Oct-00,Sun,BC,Vancouver,4800 block of Slocan St.,V5R 2A2,Urban
+270,12-May-02,Sun,BC,Vancouver,600 block of Davie St.,V6B 2G5,Urban
+271,18-Jan-10,Mon,QC,Laval,221 rue des Victorias,H7X 0A4,Urban
+272,1-Aug-02,Thu,BC,Vancouver,900 block of Jervis St.,V6E 2B4,Urban
+273,7-Dec-02,Sat,BC,Vancouver,400 block of East Pender St.,V6A 1T9,Urban
+274,28-Feb-03,Fri,BC,Alert Bay,,V0N 1A0,Rural
+275,20-Apr-03,Sun,BC,Burnaby,4125 Hastings St.,V5C 2J3,Urban
+276,3-Jul-09,Fri,ON,Brockville,Forthan Road & Highway 29,K6V 5T4,Urban
+277,14-Jul-03,Mon,BC,Port Moody,2000 block of St. George St.,V3H 2E6,Urban
+278,21-Jul-03,Mon,BC,Prince George,1600 block of 11th Ave.,V2L 3S6,Urban
+279,1-Jan-10,Fri,QC,Trois-Rivi√®res,449 Rue des Vétérans,G8T 8A8,Urban
+280,2-Aug-03,Sat,BC,Vancouver,5900 block of Fremlin St.,V6P 3W5,Urban
+281,29-Nov-03,Sat,BC,Sidney,2034 Melville Dr.,V8L 2N1,Urban
+282,15-Nov-17,Wed,MB,Lake Manitoba First Nation,Highway 6,R0C 1T0,Rural
+283,23-Sep-17,Sat,MB,Winnipeg,Madrigal Close,R2P 1G2,Urban
+284,11-Sep-02,Wed,NU,Pond Inlet,,X0A 0S0,Rural
+285,12-Feb-04,Thu,BC,Vancouver,577 Richards St.,V6B 2Z5,Urban
+286,24-Feb-04,Tue,BC,Langford,Phelps Ave.,V9B 3H7,Urban
+287,2-Feb-01,Fri,ON,Hamilton,766 Barton St. East,L8L 3B1,Urban
+288,20-Mar-12,Tue,NU,Igloolik,,X0A 0L0,Rural
+289,20-Jun-06,Tue,ON,Toronto,3700 Lawrence Ave East,M1G 1H7,Urban
+290,8-Nov-09,Sun,QC,Papineauville,397 Highway 148,J0V 1R0,Rural
+291,1-May-04,Sat,BC,Vancouver,,V6M 1E8,Urban
+292,27-May-04,Thu,BC,Sicamous,,V0E 2S0,Rural
+293,23-Jun-04,Wed,BC,Vancouver,1390 Granville St. ,V6Z 2R7,Urban
+294,11-Jul-04,Sun,BC,Victoria,2780 Richmond Rd,V8R 4T4,Urban
+295,13-Jun-04,Sun,ON,Toronto,1100 Lawrence Ave East,M3C 1R1,Urban
+296,26-Aug-09,Wed,QC,Sorel-Tracy,220 rue Victoria,J3P 1X2,Urban
+297,27-Dec-09,Sun,ON,Toronto,1901 Eglington Avenue East,M1L 2L6,Urban
+298,16-Feb-08,Sat,ON,Toronto,Oriole Park,M5P 2H1,Urban
+299,29-Sep-04,Wed,BC,Vancouver,Victoria Dr. & E 41st. Ave.,V5P 3W4,Urban
+300,19-Dec-04,Sun,BC,Vanderhoof,2608 Bute Ave.,V0J 3A0,Rural
+301,26-Dec-04,Sun,BC,Vancouver,200 block of E Hastings St.,V6A 1P1,Urban
+302,18-Mar-17,Sat,NU,Pond Inlet,,X0A 0S0,Rural
+303,1-May-17,Mon,NU,Hall Beach,,X0A 0K0,Rural
+304,12-Nov-06,Sun,ON,Toronto,Eglington Ave West & Royal York Road,M9P 1A4,Urban
+305,6-Feb-05,Sun,BC,Vancouver,600 block of E Hastings St.,V6A 1R1,Urban
+306,27-Jun-05,Mon,BC,Kamloops,Noble Lake Rd.,V2B 8N6,Urban
+307,31-Jan-09,Sat,QC,Lac-Simon,,J0Y 3M0,Rural
+308,19-Apr-10,Mon,ON,Toronto,Cherry St & Commissioners St,M5A 3L3,Urban
+309,28-Jun-08,Sat,QC,Gatineau,16 Conroy St,J9H 5L5,Urban
+310,30-Jun-05,Thu,BC,Surrey,13400 block of 84A Ave.,V3W 0T8,Urban
+311,23-Aug-05,Tue,BC,Burnaby,6800 block of Burns St.,V5E 1T4,Urban
+312,7-Mar-07,Wed,ON,Sarnia,Bright St & Russell St,N7T 4P8,Urban
+313,5-Apr-06,Wed,ON,Windsor,3125 Russell Street,N9C 1E3,Urban
+314,8-Mar-08,Sat,ON,Toronto,149 Roncesvalles Avenue,M6R 1J1,Urban
+315,24-Jun-10,Thu,ON,Collingwood,695 Saint Marie Street,L9Y 3L4,Urban
+316,29-Oct-05,Sat,BC,Houston,"3268 11 St,",V0J 1Z0,Rural
+317,21-Jan-08,Mon,QC,Grondines,,G0A 1W0,Rural
+318,19-May-06,Fri,BC,Okanagan Indian Reserve (near Vernon),11307 Westside Rd.,V1T 7Z3,Urban
+319,7-Jun-06,Wed,BC,Kelowna,3365 McIver Rd.,V4T 1G7,Urban
+320,13-Aug-06,Sun,BC,McLeese Lake,Beaver Lake Rd. & Runaway Ln.,V0K 2G0,Rural
+321,9-Aug-08,Sat,QC,Montreal,,H1G 1Y6,Urban
+322,12-Oct-06,Thu,BC,Burnaby,7274 Canada Way,V5E 3R9,Urban
+323,3-Feb-07,Sat,BC,Victoria,Hillside Ave. & Blackwood St.,V8T 2B2,Urban
+324,13-Aug-07,Mon,BC,Vancouver,Granville St. & W 16th Ave.,V6H 3K1,Urban
+325,27-Aug-03,Wed,ON,Grassy Narrows Reserve,,P0X 1B0,Rural
+326,1-Jul-05,Fri,ON,Beamsville,4254 Crescent Ave.,L0R 1B8,Rural
+327,7-Apr-07,Sat,ON,Renfrew,90 Bonnechere St.N,K7V 1Y9,Urban
+328,28-Aug-07,Tue,BC,Fort St. John,100 St. & 100 Ave.,V1J 3Y5,Urban
+329,14-Oct-07,Sun,BC,Richmond,Grant McConachie Way,V7B 0A4,Urban
+330,19-Nov-07,Mon,BC,Chilliwack,45875 Airport Rd.  ,V2P 1A3,Urban
+331,10-Dec-07,Mon,BC,Vancouver,1396 E 41st Ave,V5W 1R8,Urban
+332,27-Dec-07,Thu,BC,Vernon,3800 27th Ave.,V1T 9C9,Urban
+333,29-Jul-01,Sun,ON,Bradford,118 Holland St,L3Z 1X2,Urban
+334,17-Jun-08,Tue,BC,Surrey,13578 Crescent Rd. ,V4P 1K8,Urban
+335,27-Jun-08,Fri,BC,Surrey,72nd Ave. & 134th St.,V3W 2N5,Urban
+336,31-Jul-08,Thu,BC,Surrey,106th Ave. & 132 St. ,V3T 3V9,Urban
+337,20-Nov-07,Tue,ON,Kitchener,1400 Ottawa St. S,N2E 4E2,Urban
+338,25-Aug-10,Wed,ON,Brantford,91A Sympatica,N3P 1X6,Urban
+339,20-Jan-09,Tue,ON,Brantford,Grand River,N3S 7S9,Urban
+340,18-Mar-06,Sat,ON,Brantford,18 Cecil Ave,N3R 5M4,Urban
+341,3-Feb-09,Tue,ON,Midland,238 Scott St,L4R 2M6,Urban
+342,4-Oct-00,Wed,ON,Stittsville,Cordukes St,K2S 1S1,Urban
+344,27-Mar-07,Tue,ON,Toronto,3460 Keele St. ,M3J 3H5,Urban
+347,26-Sep-07,Wed,QC,Sagard,,G0T 1X0,Rural
+348,13-Dec-17,Wed,ON,Vaughan,1520 Major MacKenzie Dr W ,L6A 0A9,Urban
+349,27-Aug-07,Mon,QC,Lorraine,,J6Z 3N2,Urban
+350,28-Aug-10,Sat,ON,Toronto,Victoria Park Ave & Biscayne Blvd,M1R 1P1,Urban
+351,14-Oct-07,Sun,QC,Montreal,,H1Z 3T8,Urban
+352,11-May-07,Fri,ON,Sudbury/Minnow Lake,Bellevue Avenue,P3B 3E7,Urban
+353,18-Jun-17,Sun,BC,Port Coquitlam,2103 Audrey Dr,V3C 1G9,Urban
+354,18-Jul-17,Tue,BC,Prince George,1000 block of Central St. W.,V2M 3C9,Urban
+355,12-Oct-17,Thu,BC,Qualicum Beach,39000 block of Inland Island Highway,V9K 2G8,Urban
+356,6-Mar-09,Fri,ON,Ottawa,Claude Street ,K1K 2S2,Urban
+357,12-Mar-11,Sat,ON,Burlington,Walkers Line,L7M 4N6,Urban
+358,23-Jul-01,Mon,ON,Maynard,County Road 36,K0E 1T0,Rural
+359,7-Oct-11,Fri,ON,Toronto,51 Wedgewood Drive,M2M 2H4,Urban
+360,17-Jul-04,Sat,ON,Mississauga,6965 Dixie Rd,L5T 1A8,Urban
+361,12-Sep-06,Tue,ON,London,769 Southdale Rd,N6E 3B9,Urban
+362,29-Oct-05,Sat,ON,Thunder Bay,100 block Regina Avenue,P7B 5B4,Urban
+363,11-Mar-02,Mon,ON,Morrisburg,Upper Canada Rd & 401,K0C 1X0,Rural
+365,14-Jan-01,Sun,ON,Moosonee,,P0L 1Y0,Rural
+366,5-May-10,Wed,ON,Toronto,Founders Rd & Steeles Ave W,L4K 4N5,Urban
+367,30-Sep-08,Tue,BC,Langley,19917 47a Ave.,V3A 7S2,Urban
+368,10-Feb-09,Tue,BC,100 Mile House,Cedar Ave.,V0K 2E0,Rural
+369,1-Mar-09,Sun,BC,Duncan,2950 Boys Rd. ,V9L 6W4,Urban
+370,20-Mar-09,Fri,BC,Vancouver,555 Homer St.,V6B 1K8,Urban
+371,1-Jun-07,Fri,QC,Québec City,6415 boulevard Saint-Jacques,G2C 1M3,Urban
+372,7-Apr-07,Sat,QC,Saint-Zotique,Rue Principale,J0P 1Z0,Rural
+373,14-Jul-09,Tue,BC,Surrey,12639 80 Ave.,V3W 3A6,Urban
+375,9-Jul-07,Mon,QC,Montreal,6325 Boul Henri-Bourassa E,H1G 2V4,Urban
+376,27-Apr-12,Fri,ON,Moorseburg,Sideroad 9A,N0H 1K0,Rural
+377,18-Sep-09,Fri,BC,Vancouver,102-2572 Birch St.,V6H 2T4,Urban
+378,26-Sep-09,Sat,BC,Kisega'as (aka Kisgegas),,V0J 1Y0,Rural
+379,25-Jul-07,Wed,ON,Niagara Falls,Bender St. & Ontario Ave.,L2G 3L5,Urban
+380,14-Jun-06,Wed,QC,St-Sulpice,889 Chemin du Bord de l'Eau,J5W 4K4,Urban
+381,30-Sep-09,Wed,BC,Buick Creek,18683 Aitken Creek Rd.,V0C 2R0,Rural
+382,22-Jun-09,Mon,ON,Elmvale,21 Lawson Ave,L0L 1P0,Rural
+383,23-Oct-09,Fri,BC,Nanaimo,531 Selby St.,V9R 2R9,Urban
+384,29-Sep-05,Thu,QC,Yamachiche,1020 Boulevard Duchesne,G0X 3L0,Rural
+385,9-Jan-10,Sat,BC,Deep Cove,Deep Cove Rd. & Strathcona Rd.,V7G 1V7,Urban
+386,6-Mar-05,Sun,QC,Brossard,,J4W 3K8,Urban
+387,24-Jun-09,Wed,ON,Osnaburgh Lake shore,,P0V 2H0,Rural
+388,1-Aug-11,Mon,ON,Thornhill,90 Cottonwood Ct.,L3T 5X1,Urban
+389,1-Dec-05,Thu,QC,Montreal,,H3S 2A3,Urban
+390,30-Jul-10,Fri,BC,Kamloops,204 Tranquille Rd.,V2B 3G1,Urban
+391,6-Aug-10,Fri,BC,Langley,5210-203rd St.,V3A 5C5,Urban
+392,2-Mar-11,Wed,BC,Surrey,Highway 10 & King George Blvd.,V3X 2Z8,Urban
+393,29-Dec-10,Wed,ON,Sudbury,168 Pine St.,P3C 1X3,Urban
+394,23-Mar-11,Wed,BC,Surrey,3080 McBride Ave.,V4A 3H1,Urban
+395,1-Jul-11,Fri,BC,Abbotsford,2303 Rosewood Dr. ,V2S 3S7,Urban
+396,4-Jul-05,Mon,QC,Montreal,5365 rue Berri,H2J 2S7,Urban
+397,11-Feb-04,Wed,QC,Gatineau,487 Boul Alexandre-Taché,J9A 1M8,Urban
+398,1-Aug-11,Mon,ON,Toronto,Christie St & Bloor St,M6G 1L6,Urban
+399,2-Jul-04,Fri,QC,Laval,,H7N 2H3,Urban
+400,13-Apr-06,Thu,ON,Markham,39 Steele Valley Rd,L3T 1M2,Urban
+401,22-Jul-11,Fri,BC,Vancouver,300 block of Powell St.,V6A 1G4,Urban
+402,24-Sep-11,Sat,BC,Nimpo Lake,,V0L 1R0,Rural
+403,6-Feb-03,Thu,ON,Toronto,2783 Danforth Ave,M4C 1M3,Urban
+404,5-Jul-09,Sun,ON,Barrie,Bayfield St,L4M 3B9,Urban
+405,19-May-10,Wed,BC,Surrey,64th Ave. & 184th St.,V3S 1E9,Urban
+406,29-Sep-10,Wed,ON,Etobicoke,11 Dunbloor Rd.,M9A 1C4,Urban
+407,22-Jun-10,Tue,BC,Surrey,160th St. & 88th Ave.,V4N 1H5,Urban
+408,24-Jun-04,Thu,QC,Montreal,,H1E 1B3,Urban
+409,9-Jul-10,Fri,BC,Surrey,8468 162 St. ,V4N 1B4,Urban
+411,21-Feb-04,Sat,QC,Montreal,St. Jacques St. W.,H4C 3C8,Urban
+412,28-Jun-13,Fri,BC,Vancouver,Main St. & Terminal Ave.,V6A 4C4,Urban
+413,30-Jan-00,Sun,ON,Toronto,Winchester & Parliament,M4X 1C7,Urban
+414,21-Dec-08,Sun,ON,Mississauga,28 Helene St,L5G 3B7,Urban
+415,30-Jul-11,Sat,ON,Toronto,Lakeshore Blvd W,M4M 2M2,Urban
+416,1-Jan-00,Sat,ON,Toronto,30 Bond St,M5B 1W8,Urban
+417,29-Jul-17,Sat,ON,Mississauga,6045-6085 Creditview Rd,L5V 2A8,Urban
+418,27-May-05,Fri,ON,Toronto,1898 Sheppard Ave W,M3L 1Y7,Urban
+419,16-Jan-06,Mon,ON,Caledon,Bramalea Rd.,L7C 2R5,Urban
+420,7-Feb-13,Thu,ON,Kirkfield,Kirkfield Rd & Glenarm Rd.,K0M 2T0,Rural
+421,5-Nov-05,Sat,ON,Elgin,Wilson St,K0G 1E0,Rural
+422,6-Apr-07,Fri,ON,Hamilton,225 Parkdale Ave N.,L8H 5X4,Urban
+423,31-Dec-04,Fri,ON,Toronto,2129 Danforth Ave,M4C 1J8,Urban
+424,24-Sep-03,Wed,QC,Quebec City,825 Kirouac St,G1N 2J7,Urban
+425,28-Jun-03,Sat,QC,Montreal,,H1G 4J9,Urban
+426,14-Oct-04,Thu,ON,Scarborough,20 Ellesmere Rd.,M1R 4C1,Urban
+427,4-Sep-02,Wed,QC,Montreal,1750 Rue Saint-Denis,H2X 3K6,Urban
+428,5-Jun-02,Wed,QC,Evain,154 Rue Principale,J0Z 1Y0,Rural
+430,29-Nov-08,Sat,ON,Oshawa,Glen St.,L1J 3V1,Urban
+431,30-Dec-17,Sat,ON,Mississauga,Torino Crescent,L4W 3N5,Urban
+432,23-Jun-02,Sun,ON,Toronto,53 Thorncliffe Park Crescent,M4H 1L1,Urban
+433,23-Jun-08,Mon,ON,Fisher's Glen,Fisher's Glen Rd & Front Rd,N0E 1W0,Rural
+434,1-Feb-02,Fri,ON,Toronto,Havelock St & Bloor St,M6H 1M5,Urban
+435,7-Apr-00,Fri,ON,Mississauga,Woodruff Cres,L4T 1T8,Urban
+436,8-Mar-10,Mon,ON,Seaforth/Walton,82352 North Line Rd.,N0K 1Z0,Rural
+437,1-Dec-07,Sat,ON,Oakville,Wedgewood Park,L6J 4P4,Urban
+438,18-Jul-00,Tue,QC,St. Leonard,8595 Lacordaire Blvd.,H1R 2A8,Urban
+439,16-Jul-00,Sun,QC,Montreal,1580 Avenue Papineau,H2K 4H8,Urban
+440,31-May-00,Wed,QC,Montreal,,H2S 1S1,Urban
+444,17-Nov-13,Sun,ON,Oakville,Oak Springs Rd & Upper Middle Rd,L6H 5P9,Urban
+445,28-Dec-17,Thu,QC,Danford Lake,45 Route 301,J0X 1P0,Rural
+446,8-Aug-04,Sun,ON,Kingston,1000 block Portsmouth Ave,K7M 1X3,Urban
+447,24-May-17,Wed,ON,Cobourg,170 Blake St,K9A 2K5,Urban
+448,28-Dec-17,Thu,QC,Umiujaq,,J0M 1Y0,Rural
+452,21-Oct-17,Sat,SK,North Battleford,15th Ave & 105th St,S9A 1T4,Urban
+455,29-Aug-13,Thu,ON,Toronto,379 Yonge St,M5B 1S1,Urban
+456,25-Jul-12,Wed,ON,Newmarket,1111 Davis Dr,L3Y 2R9,Urban
+457,30-May-06,Tue,ON,Toronto,Regatta Cres,M2R 1Z5,Urban
+458,11-Jan-06,Wed,ON,Unionville,4 Octavia Crt,L3R 1N3,Urban
+459,8-Aug-10,Sun,ON,London,313 Clarke Rd,N5W 2L6,Urban
+460,18-Nov-07,Sun,ON,Toronto,Don Valley Parkway & Don Mills Rd,M4J 2X5,Urban
+461,9-Aug-00,Wed,ON,Toronto,1269 College St,M6H 1C5,Urban
+462,13-May-04,Thu,ON,London,Rectory St & Hamilton Rd,N5Z 1R7,Urban
+463,21-May-06,Sun,ON,Toronto,Benleigh Dr & Benorama Cres,M1H 1L2,Urban
+464,17-Apr-06,Mon,ON,Brampton,25 Rambler Dr.,L6W 3C3,Urban
+466,12-Apr-05,Tue,ON,Kitchener,2960 Kingsway Dr,N2C 1X1,Urban
+467,1-Jul-15,Wed,ON,Markdale,Main St W,N0C 1H0,Rural
+468,21-Feb-05,Mon,ON,Toronto,2700 Bathurst St,M6B 3A1,Urban
+469,16-Feb-04,Mon,ON,Toronto,265 Woodbine Ave,M4L 3P3,Urban
+470,23-Oct-10,Sat,ON,Toronto,200 Dufferin St,M6K 1Z4,Urban
+473,9-Sep-10,Thu,ON,Cat Lake First Nation,Cat Lake Nursing Station,P0V 1J0,Rural
+474,12-Jul-09,Sun,BC,Victoria,537 St Charles St.,V8S 3N9,Urban
+475,14-Jan-05,Fri,ON,Toronto,Mulock Street,M6N 3C5,Urban
+476,10-Jul-01,Tue,SK,Regina,3535 8th Ave,S4T 0T6,Urban
+477,9-Oct-01,Tue,SK,Regina,2200 block of Quebec Street,S4P 1K2,Urban
+478,1-Sep-01,Sat,SK,Regina,Plentywood Bay,S4R 7L4,Urban
+479,27-Sep-02,Fri,BC,Prince George,1600 15th Ave,V2L 3X3,Urban
+480,2-Sep-07,Sun,BC,Vancouver,1119 Hornby St.,V6Z 1B3,Urban
+481,11-Jun-11,Sat,QC,Montreal,,H1W 1H6,Urban
+482,23-Dec-17,Sat,ON,Morrisburg,6 fifth St West,K0C 1X0,Rural
+484,5-Jun-05,Sun,ON,Ottawa,Ottawa International Airport,K1V 9B4,Urban
+486,11-May-05,Wed,ON,Whitby,Bluebell Crescent,L1P 1K7,Urban
+487,15-Nov-03,Sat,ON,Brockville,County Rd 29,K6V 5T4,Urban
+488,22-May-17,Mon,ON,Cambridge,Cedar Rd & Southgate Rd,N1S 1W8,Urban
+489,31-Mar-04,Wed,QC,Aupaluk,,J0M 1X0,Rural
+491,11-May-15,Mon,AB,Trout Lake,,T0G 2N0,Rural
+492,2-Jun-00,Fri,ON,London,36 Parliament Crescent,N6C 2Y1,Urban
+493,23-Jun-01,Sat,ON,Ottawa,Clarence St near Cumberland,K1N 5P8,Urban
+494,7-May-02,Tue,ON,Toronto,675 Progress Ave,M1H 2X1,Urban
+495,29-Nov-08,Sat,MB,The Pas,377 Keewatin St.,R9A 1K3,Urban
+496,20-Feb-03,Thu,ON,Hamilton,Sanford Avenue North,L8L 5Z6,Urban
+497,17-Aug-13,Sat,QC,Akulivik,,J0M 1V0,Rural
+498,25-Jul-11,Mon,ON,Toronto,Pearson International Airport,L5P 1B2,Urban
+499,8-Jun-08,Sun,ON,Lindsay,1754 Ontario 7 west,K9V 4R2,Urban
+500,27-Mar-11,Sun,QC,Terrebonne,376 Rue Saint-Louis,J6W 1H3,Urban
+501,21-Oct-10,Thu,QC,Cloutier,,J0Z 1S0,Rural
+502,25-Apr-07,Wed,QC,Matagami,13 rue du Portage,J0Y 2A0,Rural
+503,19-Apr-05,Tue,ON,Toronto,"Queen Street, Toronto",M5B 1W8,Urban
+504,9-Jul-13,Tue,SK,Prince Albert,,S6V 1P5,Urban
