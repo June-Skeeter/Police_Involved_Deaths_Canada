@@ -1,87 +1,92 @@
 id_victim,prov,city_town,address_intersection,postal_code,Check
-0001-V1,QC,Montréal,1000 rue De La Gaucheti√®re,H3B 4W5,No
+0001-V1,QC,Montréal;    Montreal,1000 rue De La Gaucheti√®re,H3B 4W5,No
+0338-V1,ON,Brantford;    Unspecified,91A Sympatica,N3P 1X6,No
+0337-V1,ON,Kitchener;    Unspecified,1400 Ottawa St. S,N2E 4E2,No
+0336-V1,BC,Surrey;    Unspecified,106th Ave. & 132 St. ,V3T 3V9,No
+0335-V1,BC,Surrey,72nd Ave. & 134th St.,V3W 2N5,No
+0334-V1,BC,Surrey;    Unspecified,13578 Crescent Rd. ,V4P 1K8,No
 0333-V1,ON,Bradford,118 Holland St,L3Z 1X2,No
-0332-V1,BC,Vernon,3800 27th Ave.,V1T 9C9,No
+0332-V1,BC,Vernon;    Unspecified,3800 27th Ave.,V1T 9C9,No
 0331-V1,BC,Vancouver,1396 E 41st Ave,V5W 1R8,No
 0330-V1,BC,Chilliwack,45875 Airport Rd.  ,V2P 1A3,No
-0329-V1,BC,Richmond,Grant McConachie Way,V7B 0A4,No
-0328-V1,BC,Fort St. John,100 St. & 100 Ave.,V1J 3Y5,No
-0327-V1,ON,Renfrew,90 Bonnechere St.N,K7V 1Y9,No
-0326-V1,ON,Beamsville,4254 Crescent Ave.,L0R 1B8,No
-0325-V1,ON,Grassy Narrows Reserve,,P0X 1B0,No
+0329-V1,BC,Richmond;    Unspecified,Grant McConachie Way,V7B 0A4,No
+0328-V1,BC,Fort St. John;    Unspecified,100 St. & 100 Ave.,V1J 3Y5,No
+0327-V1,ON,Renfrew;    Unspecified,90 Bonnechere St.N,K7V 1Y9,No
+0326-V1,ON,Beamsville;    Unspecified,4254 Crescent Ave.,L0R 1B8,No
+0325-V1,ON,Grassy Narrows Reserve;    Unspecified,,P0X 1B0,No
 0324-V1,BC,Vancouver,Granville St. & W 16th Ave.,V6H 3K1,No
-0323-V1,BC,Victoria,Hillside Ave. & Blackwood St.,V8T 2B2,No
-0322-V1,BC,Burnaby,7274 Canada Way,V5E 3R9,No
+0323-V1,BC,Victoria;    Unspecified,Hillside Ave. & Blackwood St.,V8T 2B2,No
+0322-V1,BC,Burnaby;    New Westminster;    Unspecified,7274 Canada Way,V5E 3R9,No
 0321-V1,QC,Montreal,,H1G 1Y6,No
-0320-V1,BC,McLeese Lake,Beaver Lake Rd. & Runaway Ln.,V0K 2G0,No
-0319-V1,BC,Kelowna,3365 McIver Rd.,V4T 1G7,No
-0318-V1,BC,Okanagan Indian Reserve (near Vernon),11307 Westside Rd.,V1T 7Z3,No
-0317-V1,QC,Grondines,,G0A 1W0,No
-0316-V1,BC,Houston,"3268 11 St,",V0J 1Z0,No
-0315-V1,ON,Collingwood,695 Saint Marie Street,L9Y 3L4,No
+0320-V1,BC,McLeese Lake;    Unspecified,Beaver Lake Rd. & Runaway Ln.,V0K 2G0,No
+0319-V1,BC,Kelowna;    Unspecified,3365 McIver Rd.,V4T 1G7,No
+0318-V1,BC,Okanagan Indian Reserve (near Vernon);    Vernon;    Unspecified,11307 Westside Rd.,V1T 7Z3,No
+0317-V1,QC,Grondines;    Unspecified,,G0A 1W0,No
+0316-V1,BC,Houston;    Unspecified,"3268 11 St,",V0J 1Z0,No
+0315-V1,ON,Collingwood;    Unspecified,695 Saint Marie Street,L9Y 3L4,No
 0314-V1,ON,Toronto,149 Roncesvalles Avenue,M6R 1J1,No
-0313-V1,ON,Windsor,3125 Russell Street,N9C 1E3,No
-0312-V1,ON,Sarnia,Bright St & Russell St,N7T 4P8,No
-0311-V1,BC,Burnaby,6800 block of Burns St.,V5E 1T4,No
-0334-V1,BC,Surrey,13578 Crescent Rd. ,V4P 1K8,No
-0335-V1,BC,Surrey,72nd Ave. & 134th St.,V3W 2N5,No
-0336-V1,BC,Surrey,106th Ave. & 132 St. ,V3T 3V9,No
-0337-V1,ON,Kitchener,1400 Ottawa St. S,N2E 4E2,No
+0339-V1,ON,Brantford;    Unspecified,Grand River,N3S 7S9,No
+0313-V1,ON,Windsor;    Unspecified,3125 Russell Street,N9C 1E3,No
+0340-V1,ON,Brantford;    Unspecified,18 Cecil Ave,N3R 5M4,No
+0342-V1,ON,Stittsville;    Ottawa,Cordukes St,K2S 1S1,No
+0371-V1,QC,Québec City;    Unspecified,6415 boulevard Saint-Jacques,G2C 1M3,No
+0370-V1,BC,Vancouver;    Unspecified,555 Homer St.,V6B 1K8,No
+0369-V1,BC,Duncan;    North Cowichan;    Unspecified,2950 Boys Rd. ,V9L 6W4,No
 0368-V1,BC,100 Mile House,Cedar Ave.,V0K 2E0,No
-0367-V1,BC,Langley,19917 47a Ave.,V3A 7S2,No
+0367-V1,BC,Langley;    Unspecified,19917 47a Ave.,V3A 7S2,No
 0366-V1,ON,Toronto,Founders Rd & Steeles Ave W,L4K 4N5,No
 0365-V1,ON,Moosonee,,P0L 1Y0,No
-0363-V1,ON,Morrisburg,Upper Canada Rd & 401,K0C 1X0,No
+0363-V1,ON,Morrisburg;    Unspecified,Upper Canada Rd & 401,K0C 1X0,No
 0362-V1,ON,Thunder Bay,100 block Regina Avenue,P7B 5B4,No
 0361-V1,ON,London,769 Southdale Rd,N6E 3B9,No
-0360-V1,ON,Mississauga,6965 Dixie Rd,L5T 1A8,No
+0360-V1,ON,Mississauga;    Unspecified,6965 Dixie Rd,L5T 1A8,No
 0359-V1,ON,Toronto,51 Wedgewood Drive,M2M 2H4,No
 0358-V1,ON,Maynard,County Road 36,K0E 1T0,No
 0357-V1,ON,Burlington,Walkers Line,L7M 4N6,No
-0310-V1,BC,Surrey,13400 block of 84A Ave.,V3W 0T8,No
 0356-V1,ON,Ottawa,Claude Street ,K1K 2S2,No
+0354-V1,BC,Prince George;    Unspecified,1000 block of Central St. W.,V2M 3C9,No
 0352-V1,ON,Sudbury/Minnow Lake,Bellevue Avenue,P3B 3E7,No
 0351-V1,QC,Montreal,,H1Z 3T8,No
 0350-V1,ON,Toronto,Victoria Park Ave & Biscayne Blvd,M1R 1P1,No
-0349-V1,QC,Lorraine,,J6Z 3N2,No
-0347-V1,QC,Sagard,,G0T 1X0,No
-0344-V1,ON,Toronto,3460 Keele St. ,M3J 3H5,No
-0342-V1,ON,Stittsville,Cordukes St,K2S 1S1,No
+0349-V1,QC,Lorraine;    Unspecified,,J6Z 3N2,No
+0347-V1,QC,Sagard;    Unspecified,,G0T 1X0,No
+0344-V1,ON,Toronto;    Unspecified,3460 Keele St. ,M3J 3H5,No
 0341-V1,ON,Midland,238 Scott St,L4R 2M6,No
-0340-V1,ON,Brantford,18 Cecil Ave,N3R 5M4,No
-0339-V1,ON,Brantford,Grand River,N3S 7S9,No
-0338-V1,ON,Brantford,91A Sympatica,N3P 1X6,No
-0354-V1,BC,Prince George,1000 block of Central St. W.,V2M 3C9,No
-0369-V1,BC,Duncan,2950 Boys Rd. ,V9L 6W4,No
-0309-V1,QC,Gatineau,16 Conroy St,J9H 5L5,No
-0307-V1,QC,Lac-Simon,,J0Y 3M0,No
-0275-V1,BC,Burnaby,4125 Hastings St.,V5C 2J3,No
-0274-V1,BC,Alert Bay,,V0N 1A0,No
+0372-V1,QC,Saint-Zotique;    Unspecified,Rue Principale,J0P 1Z0,No
+0312-V1,ON,Sarnia,Bright St & Russell St,N7T 4P8,No
+0310-V1,BC,Surrey;    Unspecified,13400 block of 84A Ave.,V3W 0T8,No
+0279-V1,QC,Trois-Rivi√®res;    Unspecified,449 Rue des Vétérans,G8T 8A8,No
+0278-V1,BC,Prince George;    Unspecified,1600 block of 11th Ave.,V2L 3S6,No
+0277-V1,BC,Port Moody;    Unspecified,2000 block of St. George St.,V3H 2E6,No
+0275-V1,BC,Burnaby;    Unspecified,4125 Hastings St.,V5C 2J3,No
+0274-V1,BC,Alert Bay;    Unspecified,,V0N 1A0,No
 0273-V1,BC,Vancouver,400 block of East Pender St.,V6A 1T9,No
 0272-V1,BC,Vancouver,900 block of Jervis St.,V6E 2B4,No
-0271-V1,QC,Laval,221 rue des Victorias,H7X 0A4,No
+0271-V1,QC,Laval;    Unspecified,221 rue des Victorias,H7X 0A4,No
 0270-V1,BC,Vancouver,600 block of Davie St.,V6B 2G5,No
 0269-V1,BC,Vancouver,4800 block of Slocan St.,V5R 2A2,No
-0267-V1,BC,Langford (Western Communities),Trans Canada Hwy,V9B 4C6,No
+0267-V1,BC,Langford (Western Communities);    Unspecified,Trans Canada Hwy,V9B 4C6,No
 0266-V1,BC,Williams Lake,730 Oliver St.,V2G 1N1,No
-0263-V1,AB,Edmonton,Groat Rd. & 113th Ave.,T5M 3J8,No
-0261-V1,AB,Edmonton,Hollands Landing & 23rd Ave NW,T6R 3S9,No
-0260-V1,AB,Stoney Nakoda First Nation,Hwy 1 & Hwy 40,T0L 1N0,No
-0259-V1,QC,Val-d'Or,591 rue Sabourin,J9P 5V6,No
-0258-V1,ON,Amherstburg,258 McCurdy Drive,N9V 3K4,No
+0264-V1,AB,Gleichen;    Unspecified, Haskayne Ave. & Main St.,T0J 1N0,No
+0263-V1,AB,Edmonton;    Unspecified,Groat Rd. & 113th Ave.,T5M 3J8,No
+0261-V1,AB,Edmonton;    Unspecified,Hollands Landing & 23rd Ave NW,T6R 3S9,No
+0260-V1,AB,Stoney Nakoda First Nation;    Unspecified,Hwy 1 & Hwy 40,T0L 1N0,No
+0259-V1,QC,Val-d'Or;    Unspecified,591 rue Sabourin,J9P 5V6,No
+0258-V1,ON,Amherstburg;    Unspecified,258 McCurdy Drive,N9V 3K4,No
 0257-V1,MB,God's Lake Narrows,Hse 2157,R0B 0M0,No
-0256-V1,MB,Winnipeg,143 Langside St.,R3C 1Z5,No
-0253-V1,MB,Winnipeg,Arlington St. & Sargent Ave.,R3E 0B9,No
-0252-V1,QC,Québec City,830 Place de Gironde,G1G 3J1,No
-0251-V1,MB,Winnipeg,788 Simcoe St.,R3E 2C4,No
-0250-V1,ON,Markdale,West Back Line & 80 Sideroad,N0C 1H0,No
-0249-V1,ON,Toronto,65 Front Street West,M5J 1E6,No
-0276-V1,ON,Brockville,Forthan Road & Highway 29,K6V 5T4,No
-0277-V1,BC,Port Moody,2000 block of St. George St.,V3H 2E6,No
-0278-V1,BC,Prince George,1600 block of 11th Ave.,V2L 3S6,No
-0279-V1,QC,Trois-Rivi√®res,449 Rue des Vétérans,G8T 8A8,No
-0306-V1,BC,Kamloops,Noble Lake Rd.,V2B 8N6,No
-0303-V1,NU,Hall Beach,,X0A 0K0,No
+0256-V1,MB,Winnipeg;    Unspecified,143 Langside St.,R3C 1Z5,No
+0255-V1,QC,Danville,Chemin du Lac,J0A 1A0,No
+0254-V1,ON,London,Adelaide St North & Oxford St East,N5Y 3J1,No
+0281-V1,BC,Sidney;    Unspecified,2034 Melville Dr.,V8L 2N1,No
+0311-V1,BC,Burnaby;    Unspecified,6800 block of Burns St.,V5E 1T4,No
+0282-V1,MB,Lake Manitoba First Nation;    Unspecified,Highway 6,R0C 1T0,No
+0284-V1,NU,Pond Inlet;    Unspecified,,X0A 0S0,No
+0309-V1,QC,Gatineau;    Unspecified,16 Conroy St,J9H 5L5,No
+0308-V1,ON,Toronto,Cherry St & Commissioners St,M5A 3L3,No
+0307-V1,QC,Lac-Simon;    Unspecified,,J0Y 3M0,No
+0306-V1,BC,Kamloops;    Unspecified,Noble Lake Rd.,V2B 8N6,No
+0304-V1,ON,Toronto,Eglington Ave West & Royal York Road,M9P 1A4,No
+0303-V1,NU,Hall Beach;    Unspecified,,X0A 0K0,No
 0301-V1,BC,Vancouver,200 block of E Hastings St.,V6A 1P1,No
 0300-V1,BC,Vanderhoof,2608 Bute Ave.,V0J 3A0,No
 0299-V1,BC,Vancouver,Victoria Dr. & E 41st. Ave.,V5P 3W4,No
@@ -89,585 +94,590 @@ id_victim,prov,city_town,address_intersection,postal_code,Check
 0297-V1,ON,Toronto,1901 Eglington Avenue East,M1L 2L6,No
 0296-V1,QC,Sorel-Tracy,220 rue Victoria,J3P 1X2,No
 0295-V1,ON,Toronto,1100 Lawrence Ave East,M3C 1R1,No
-0294-V1,BC,Victoria,2780 Richmond Rd,V8R 4T4,No
-0308-V1,ON,Toronto,Cherry St & Commissioners St,M5A 3L3,No
+0294-V1,BC,Victoria;    Unspecified,2780 Richmond Rd,V8R 4T4,No
 0293-V1,BC,Vancouver,1390 Granville St. ,V6Z 2R7,No
+0292-V1,BC,Sicamous;    Unspecified,,V0E 2S0,No
 0291-V1,BC,Vancouver,,V6M 1E8,No
-0290-V1,QC,Papineauville,397 Highway 148,J0V 1R0,No
+0290-V1,QC,Papineauville;    Unspecified,397 Highway 148,J0V 1R0,No
 0289-V1,ON,Toronto,3700 Lawrence Ave East,M1G 1H7,No
-0288-V1,NU,Igloolik,,X0A 0L0,No
-0286-V1,BC,Langford,Phelps Ave.,V9B 3H7,No
+0288-V1,NU,Igloolik;    Unspecified,,X0A 0L0,No
+0287-V1,ON,Hamilton,766 Barton St. East,L8L 3B1,No
+0286-V1,BC,Langford;    Unspecified,Phelps Ave.,V9B 3H7,No
 0285-V1,BC,Vancouver,577 Richards St.,V6B 2Z5,No
-0284-V1,NU,Pond Inlet,,X0A 0S0,No
-0283-V1,MB,Winnipeg,Madrigal Close,R2P 1G2,No
-0282-V1,MB,Lake Manitoba First Nation,Highway 6,R0C 1T0,No
-0281-V1,BC,Sidney,2034 Melville Dr.,V8L 2N1,No
-0292-V1,BC,Sicamous,,V0E 2S0,No
-0248-V1,ON,Markham,30 Alden Road,L3R 2S1,No
-0370-V1,BC,Vancouver,555 Homer St.,V6B 1K8,No
-0372-V1,QC,Saint-Zotique,Rue Principale,J0P 1Z0,No
-0473-V1,ON,Cat Lake First Nation,Cat Lake Nursing Station,P0V 1J0,No
+0283-V1,MB,Winnipeg;    Unspecified,Madrigal Close,R2P 1G2,No
+0253-V1,MB,Winnipeg;    Unspecified,Arlington St. & Sargent Ave.,R3E 0B9,No
+0373-V1,BC,Surrey;    New Westminster;    Unspecified,12639 80 Ave.,V3W 3A6,No
+0376-V1,ON,Moorseburg,Sideroad 9A,N0H 1K0,No
 0470-V1,ON,Toronto,200 Dufferin St,M6K 1Z4,No
 0469-V1,ON,Toronto,265 Woodbine Ave,M4L 3P3,No
 0468-V1,ON,Toronto,2700 Bathurst St,M6B 3A1,No
 0466-V1,ON,Kitchener,2960 Kingsway Dr,N2C 1X1,No
 0464-V1,ON,Brampton,25 Rambler Dr.,L6W 3C3,No
-0462-V1,ON,London,Rectory St & Hamilton Rd,N5Z 1R7,No
+0463-V1,ON,Toronto,Benleigh Dr & Benorama Cres,M1H 1L2,No
+0462-V1,ON,London;    Unspecified,Rectory St & Hamilton Rd,N5Z 1R7,No
 0461-V1,ON,Toronto,1269 College St,M6H 1C5,No
 0459-V1,ON,London,313 Clarke Rd,N5W 2L6,No
-0452-V1,SK,North Battleford,15th Ave & 105th St,S9A 1T4,No
-0448-V1,QC,Umiujaq,,J0M 1Y0,No
+0452-V1,SK,North Battleford;    Unspecified,15th Ave & 105th St,S9A 1T4,No
+0448-V1,QC,Umiujaq;    Unspecified,,J0M 1Y0,No
 0447-V1,ON,Cobourg,170 Blake St,K9A 2K5,No
-0446-V1,ON,Kingston,1000 block Portsmouth Ave,K7M 1X3,No
-0445-V1,QC,Danford Lake,45 Route 301,J0X 1P0,No
+0446-V1,ON,Kingston;    Unspecified,1000 block Portsmouth Ave,K7M 1X3,No
+0445-V1,QC,Danford Lake;    Unspecified,45 Route 301,J0X 1P0,No
 0444-V1,ON,Oakville,Oak Springs Rd & Upper Middle Rd,L6H 5P9,No
 0440-V1,QC,Montreal,,H2S 1S1,No
 0439-V1,QC,Montreal,1580 Avenue Papineau,H2K 4H8,No
-0438-V1,QC,St. Leonard,8595 Lacordaire Blvd.,H1R 2A8,No
-0437-V1,ON,Oakville,Wedgewood Park,L6J 4P4,No
-0436-V1,ON,Seaforth/Walton,82352 North Line Rd.,N0K 1Z0,No
-0435-V1,ON,Mississauga,Woodruff Cres,L4T 1T8,No
-0434-V1,ON,Toronto,Havelock St & Bloor St,M6H 1M5,No
-0474-V1,BC,Victoria,537 St Charles St.,V8S 3N9,No
-0475-V1,ON,Toronto,Mulock Street,M6N 3C5,No
-0476-V1,SK,Regina,3535 8th Ave,S4T 0T6,No
+0438-V1,QC,St. Leonard;    Montreal,8595 Lacordaire Blvd.,H1R 2A8,No
+0437-V1,ON,Oakville;    Unspecified,Wedgewood Park,L6J 4P4,No
+0473-V1,ON,Cat Lake First Nation;    Unspecified,Cat Lake Nursing Station,P0V 1J0,No
+0436-V1,ON,Seaforth/Walton;    Unspecified,82352 North Line Rd.,N0K 1Z0,No
+0474-V1,BC,Victoria;    Unspecified,537 St Charles St.,V8S 3N9,No
+0476-V1,SK,Regina;    Unspecified,3535 8th Ave,S4T 0T6,No
 0504-V1,SK,Prince Albert,,S6V 1P5,No
 0503-V1,ON,Toronto,"Queen Street, Toronto",M5B 1W8,No
-0502-V1,QC,Matagami,13 rue du Portage,J0Y 2A0,No
+0502-V1,QC,Matagami;    Unspecified,13 rue du Portage,J0Y 2A0,No
 0501-V1,QC,Cloutier,,J0Z 1S0,No
 0500-V1,QC,Terrebonne,376 Rue Saint-Louis,J6W 1H3,No
-0499-V1,ON,Lindsay,1754 Ontario 7 west,K9V 4R2,No
-0498-V1,ON,Toronto,Pearson International Airport,L5P 1B2,No
+0499-V1,ON,Lindsay;    Unspecified,1754 Ontario 7 west,K9V 4R2,No
+0498-V1,ON,Toronto;    Unspecified,Pearson International Airport,L5P 1B2,No
 0497-V1,QC,Akulivik,,J0M 1V0,No
 0496-V1,ON,Hamilton,Sanford Avenue North,L8L 5Z6,No
 0495-V1,MB,The Pas,377 Keewatin St.,R9A 1K3,No
 0494-V1,ON,Toronto,675 Progress Ave,M1H 2X1,No
-0433-V1,ON,Fisher's Glen,Fisher's Glen Rd & Front Rd,N0E 1W0,No
 0493-V1,ON,Ottawa,Clarence St near Cumberland,K1N 5P8,No
+0492-V1,ON,London,36 Parliament Crescent,N6C 2Y1,No
 0491-V1,AB,Trout Lake,,T0G 2N0,No
-0489-V1,QC,Aupaluk,,J0M 1X0,No
-0488-V1,ON,Cambridge,Cedar Rd & Southgate Rd,N1S 1W8,No
-0487-V1,ON,Brockville,County Rd 29,K6V 5T4,No
+0489-V1,QC,Aupaluk;    Unspecified,,J0M 1X0,No
+0488-V1,ON,Cambridge;    Unspecified,Cedar Rd & Southgate Rd,N1S 1W8,No
+0487-V1,ON,Brockville;    Unspecified,County Rd 29,K6V 5T4,No
 0486-V1,ON,Whitby,Bluebell Crescent,L1P 1K7,No
 0484-V1,ON,Ottawa,Ottawa International Airport,K1V 9B4,No
-0482-V1,ON,Morrisburg,6 fifth St West,K0C 1X0,No
+0482-V1,ON,Morrisburg;    Unspecified,6 fifth St West,K0C 1X0,No
 0481-V1,QC,Montreal,,H1W 1H6,No
 0480-V1,BC,Vancouver,1119 Hornby St.,V6Z 1B3,No
 0479-V1,BC,Prince George,1600 15th Ave,V2L 3X3,No
-0478-V1,SK,Regina,Plentywood Bay,S4R 7L4,No
-0492-V1,ON,London,36 Parliament Crescent,N6C 2Y1,No
-0371-V1,QC,Québec City,6415 boulevard Saint-Jacques,G2C 1M3,No
-0432-V1,ON,Toronto,53 Thorncliffe Park Crescent,M4H 1L1,No
-0428-V1,QC,Evain,154 Rue Principale,J0Z 1Y0,No
-0396-V1,QC,Montreal,5365 rue Berri,H2J 2S7,No
-0395-V1,BC,Abbotsford,2303 Rosewood Dr. ,V2S 3S7,No
-0394-V1,BC,Surrey,3080 McBride Ave.,V4A 3H1,No
-0393-V1,ON,Sudbury,168 Pine St.,P3C 1X3,No
-0392-V1,BC,Surrey,Highway 10 & King George Blvd.,V3X 2Z8,No
-0391-V1,BC,Langley,5210-203rd St.,V3A 5C5,No
-0390-V1,BC,Kamloops,204 Tranquille Rd.,V2B 3G1,No
-0389-V1,QC,Montreal,,H3S 2A3,No
-0388-V1,ON,Thornhill,90 Cottonwood Ct.,L3T 5X1,No
-0387-V1,ON,Osnaburgh Lake shore,,P0V 2H0,No
-0386-V1,QC,Brossard,,J4W 3K8,No
-0385-V1,BC,Deep Cove,Deep Cove Rd. & Strathcona Rd.,V7G 1V7,No
-0384-V1,QC,Yamachiche,1020 Boulevard Duchesne,G0X 3L0,No
-0383-V1,BC,Nanaimo,531 Selby St.,V9R 2R9,No
-0382-V1,ON,Elmvale,21 Lawson Ave,L0L 1P0,No
-0381-V1,BC,Buick Creek,18683 Aitken Creek Rd.,V0C 2R0,No
-0380-V1,QC,St-Sulpice,889 Chemin du Bord de l'Eau,J5W 4K4,No
-0379-V1,ON,Niagara Falls,Bender St. & Ontario Ave.,L2G 3L5,No
-0378-V1,BC,Kisega'as (aka Kisgegas),,V0J 1Y0,No
-0377-V1,BC,Vancouver,102-2572 Birch St.,V6H 2T4,No
-0376-V1,ON,Moorseburg,Sideroad 9A,N0H 1K0,No
+0478-V1,SK,Regina;    Unspecified,Plentywood Bay,S4R 7L4,No
+0477-V1,SK,Regina,2200 block of Quebec Street,S4P 1K2,No
+0475-V1,ON,Toronto,Mulock Street,M6N 3C5,No
 0375-V1,QC,Montreal,6325 Boul Henri-Bourassa E,H1G 2V4,No
-0373-V1,BC,Surrey,12639 80 Ave.,V3W 3A6,No
-0397-V1,QC,Gatineau,487 Boul Alexandre-Taché,J9A 1M8,No
-0398-V1,ON,Toronto,Christie St & Bloor St,M6G 1L6,No
-0399-V1,QC,Laval,,H7N 2H3,No
-0400-V1,ON,Markham,39 Steele Valley Rd,L3T 1M2,No
-0427-V1,QC,Montreal,1750 Rue Saint-Denis,H2X 3K6,No
-0426-V1,ON,Scarborough,20 Ellesmere Rd.,M1R 4C1,No
-0425-V1,QC,Montreal,,H1G 4J9,No
-0424-V1,QC,Quebec City,825 Kirouac St,G1N 2J7,No
-0422-V1,ON,Hamilton,225 Parkdale Ave N.,L8H 5X4,No
-0421-V1,ON,Elgin,Wilson St,K0G 1E0,No
-0420-V1,ON,Kirkfield,Kirkfield Rd & Glenarm Rd.,K0M 2T0,No
-0419-V1,ON,Caledon,Bramalea Rd.,L7C 2R5,No
-0418-V1,ON,Toronto,1898 Sheppard Ave W,M3L 1Y7,No
-0416-V1,ON,Toronto,30 Bond St,M5B 1W8,No
-0430-V1,ON,Oshawa,Glen St.,L1J 3V1,No
-0415-V1,ON,Toronto,Lakeshore Blvd W,M4M 2M2,No
-0411-V1,QC,Montreal,St. Jacques St. W.,H4C 3C8,No
-0409-V1,BC,Surrey,8468 162 St. ,V4N 1B4,No
-0408-V1,QC,Montreal,,H1E 1B3,No
-0407-V1,BC,Surrey,160th St. & 88th Ave.,V4N 1H5,No
-0406-V1,ON,Etobicoke,11 Dunbloor Rd.,M9A 1C4,No
-0405-V1,BC,Surrey,64th Ave. & 184th St.,V3S 1E9,No
-0404-V1,ON,Barrie,Bayfield St,L4M 3B9,No
-0403-V1,ON,Toronto,2783 Danforth Ave,M4C 1M3,No
-0402-V1,BC,Nimpo Lake,,V0L 1R0,No
+0435-V1,ON,Mississauga,Woodruff Cres,L4T 1T8,No
+0433-V1,ON,Fisher's Glen;    Unspecified,Fisher's Glen Rd & Front Rd,N0E 1W0,No
 0401-V1,BC,Vancouver,300 block of Powell St.,V6A 1G4,No
-0414-V1,ON,Mississauga,28 Helene St,L5G 3B7,No
-0247-V1,AB,Calgary,"210 Citadel Peak Circle, NW",T3G 4E9,No
-0264-V1,AB,Gleichen, Haskayne Ave. & Main St.,T0J 1N0,No
-0245-V1,AB,Calgary,"Whiteview Rd. & Whiteview Close, NE",T1Y 1R1,No
-0086-V1,BC,Burnaby,3879 Frances St.,V5C 2P1,No
-0085-V1,BC,Dawson Creek,512 Highway 2,V1G 0A4,No
+0400-V1,ON,Markham;    Unspecified,39 Steele Valley Rd,L3T 1M2,No
+0399-V1,QC,Laval;    Unspecified,,H7N 2H3,No
+0398-V1,ON,Toronto,Christie St & Bloor St,M6G 1L6,No
+0397-V1,QC,Gatineau;    Unspecified,487 Boul Alexandre-Taché,J9A 1M8,No
+0396-V1,QC,Montreal,5365 rue Berri,H2J 2S7,No
+0395-V1,BC,Abbotsford;    Unspecified,2303 Rosewood Dr. ,V2S 3S7,No
+0394-V1,BC,Surrey;    Unspecified,3080 McBride Ave.,V4A 3H1,No
+0393-V1,ON,Sudbury,168 Pine St.,P3C 1X3,No
+0392-V1,BC,Surrey;    Unspecified,Highway 10 & King George Blvd.,V3X 2Z8,No
+0391-V1,BC,Langley;    New Westminster;    Unspecified,5210-203rd St.,V3A 5C5,No
+0390-V1,BC,Kamloops;    Unspecified,204 Tranquille Rd.,V2B 3G1,No
+0389-V1,QC,Montreal,,H3S 2A3,No
+0388-V1,ON,Thornhill;    Unspecified,90 Cottonwood Ct.,L3T 5X1,No
+0387-V1,ON,Osnaburgh Lake shore;    Unspecified,,P0V 2H0,No
+0386-V1,QC,Brossard;    Unspecified,,J4W 3K8,No
+0385-V1,BC,Deep Cove;    North Vancouver;    Unspecified,Deep Cove Rd. & Strathcona Rd.,V7G 1V7,No
+0384-V1,QC,Yamachiche;    Unspecified,1020 Boulevard Duchesne,G0X 3L0,No
+0383-V1,BC,Nanaimo;    Unspecified,531 Selby St.,V9R 2R9,No
+0382-V1,ON,Elmvale;    Unspecified,21 Lawson Ave,L0L 1P0,No
+0381-V1,BC,Buick Creek;    Buick;    Unspecified,18683 Aitken Creek Rd.,V0C 2R0,No
+0380-V1,QC,St-Sulpice;    Unspecified,889 Chemin du Bord de l'Eau,J5W 4K4,No
+0379-V1,ON,Niagara Falls,Bender St. & Ontario Ave.,L2G 3L5,No
+0378-V1,BC,Kisega'as (aka Kisgegas);    Hazelton;    Unspecified,,V0J 1Y0,No
+0377-V1,BC,Vancouver,102-2572 Birch St.,V6H 2T4,No
+0402-V1,BC,Nimpo Lake;    Anahim Lake;    Unspecified,,V0L 1R0,No
+0434-V1,ON,Toronto,Havelock St & Bloor St,M6H 1M5,No
+0403-V1,ON,Toronto,2783 Danforth Ave,M4C 1M3,No
+0405-V1,BC,Surrey;    New Westminster;    Unspecified,64th Ave. & 184th St.,V3S 1E9,No
+0432-V1,ON,Toronto,53 Thorncliffe Park Crescent,M4H 1L1,No
+0430-V1,ON,Oshawa;    Unspecified,Glen St.,L1J 3V1,No
+0428-V1,QC,Evain;    Unspecified,154 Rue Principale,J0Z 1Y0,No
+0427-V1,QC,Montreal,1750 Rue Saint-Denis,H2X 3K6,No
+0426-V1,ON,Scarborough;    Toronto,20 Ellesmere Rd.,M1R 4C1,No
+0425-V1,QC,Montreal,,H1G 4J9,No
+0424-V1,QC,Quebec City;    Unspecified,825 Kirouac St,G1N 2J7,No
+0422-V1,ON,Hamilton;    Unspecified,225 Parkdale Ave N.,L8H 5X4,No
+0421-V1,ON,Elgin;    Unspecified,Wilson St,K0G 1E0,No
+0420-V1,ON,Kirkfield,Kirkfield Rd & Glenarm Rd.,K0M 2T0,No
+0419-V1,ON,Caledon;    Unspecified,Bramalea Rd.,L7C 2R5,No
+0418-V1,ON,Toronto,1898 Sheppard Ave W,M3L 1Y7,No
+0417-V1,ON,Mississauga,6045-6085 Creditview Rd,L5V 2A8,No
+0416-V1,ON,Toronto,30 Bond St,M5B 1W8,No
+0415-V1,ON,Toronto,Lakeshore Blvd W,M4M 2M2,No
+0414-V1,ON,Mississauga;    Unspecified,28 Helene St,L5G 3B7,No
+0413-V1,ON,Toronto,Winchester & Parliament,M4X 1C7,No
+0411-V1,QC,Montreal,St. Jacques St. W.,H4C 3C8,No
+0409-V1,BC,Surrey;    Unspecified,8468 162 St. ,V4N 1B4,No
+0408-V1,QC,Montreal,,H1E 1B3,No
+0407-V1,BC,Surrey;    Unspecified,160th St. & 88th Ave.,V4N 1H5,No
+0406-V1,ON,Etobicoke;    Toronto,11 Dunbloor Rd.,M9A 1C4,No
+0404-V1,ON,Barrie;    Unspecified,Bayfield St,L4M 3B9,No
+0252-V1,QC,Québec City;    Unspecified,830 Place de Gironde,G1G 3J1,No
+0276-V1,ON,Brockville;    Unspecified,Forthan Road & Highway 29,K6V 5T4,No
+0250-V1,ON,Markdale,West Back Line & 80 Sideroad,N0C 1H0,No
+0087-V1,BC,Surrey;    Unspecified,"1815 152 St., Unit 100 ",V4A 9Y9,No
+0086-V1,BC,Burnaby;    Unspecified,3879 Frances St.,V5C 2P1,No
+0085-V1,BC,Dawson Creek;    Unspecified,512 Highway 2,V1G 0A4,No
 0084-V1,BC,Port Hardy,Highway 19 & Granville St.,V0N 2P0,No
 0083-V1,ON,Toronto,502 Gilbert Avenue,M6E 4X5,No
-0082-V1,QC,Montréal,1900 Avenue Papineau,H2K 4J1,No
+0082-V1,QC,Montréal;    Montreal,1900 Avenue Papineau,H2K 4J1,No
 0080-V1,AB,Edmonton,118th Ave. Abbottsfield Rd.,T5W 4S9,No
-0079-V1,ON,Guelph,115 Delhi Street (Guelph General Hospital),N1E 4J4,No
+0079-V1,ON,Guelph;    Unspecified,115 Delhi Street (Guelph General Hospital),N1E 4J4,No
 0078-V1,BC,Vancouver,320 East Hastings Street,V6A 1P4,No
-0077-V1,NL,Mitchells Brook,,A0B 2M0,No
+0077-V1,NL,Mitchells Brook;    Unspecified,,A0B 2M0,No
 0076-V1,ON,Peterborough,Wolfe Street and Park Street N,K9J 3P5,No
-0075-V1,ON,Kitchener,77 Brybeck Crescent,N2M 2C5,No
-0074-V1,BC,Burnaby,6116 14th Ave.,V3N 1Y5,No
-0073-V1,ON,Mississauga,3070 Queen Frederica Drive,L4Y 3A9,No
-0072-V1,AB,Calgary,3030 Barlow Trail NE,T1Y 1A2,No
+0075-V1,ON,Kitchener;    Unspecified,77 Brybeck Crescent,N2M 2C5,No
+0074-V1,BC,Burnaby;    Burnab;    Unspecified,6116 14th Ave.,V3N 1Y5,No
+0073-V1,ON,Mississauga;    Unspecified,3070 Queen Frederica Drive,L4Y 3A9,No
+0072-V1,AB,Calgary;    Unspecified,3030 Barlow Trail NE,T1Y 1A2,No
 0071-V1,ON,Toronto,140 Spadina Road  (near Dupont Subway Station),M5V 2L4,No
-0070-V1,BC,Smithers,3351 BC-16,V0J 2N0,No
-0069-V1,BC,Chilliwack,9743 Oak St.,V2P 5A3,No
-0068-V1,BC,Castlegar,"Kinnaird Bridge, Highway 3",V1N 3W5,No
-0067-V1,NB,Bathurst,690 Thornton Avenue (Via Rail Station),E2A 2W8,No
+0070-V1,BC,Smithers;    Unspecified,3351 BC-16,V0J 2N0,No
+0069-V1,BC,Chilliwack;    Unspecified,9743 Oak St.,V2P 5A3,No
+0068-V1,BC,Castlegar;    Unspecified,"Kinnaird Bridge, Highway 3",V1N 3W5,No
+0067-V1,NB,Bathurst;    Unspecified,690 Thornton Avenue (Via Rail Station),E2A 2W8,No
 0065-V1,ON,Toronto,682 Warden Avenue,M1L 3Z9,No
-0064-V1,BC,Surrey,10355 King George Highway,V3T 2W6,No
+0064-V1,BC,Surrey;    Unspecified,10355 King George Highway,V3T 2W6,No
 0063-V1,BC,Vancouver,Knight St. & E 41st Ave.,V5W 3R9,No
-0062-V1,AB,Edmonton,122nd Ave. & 97th St.,T5G 1Z2,No
-0087-V1,BC,Surrey,"1815 152 St., Unit 100 ",V4A 9Y9,No
 0088-V1,ON,Toronto,Between 82 and 80 Peter Street,M5V 1P8,No
-0089-V1,BC,Burnaby,8300 Block of Joffre Ave.,V5J 3L4,No
-0090-V1,MB,Winnipeg,Highway 59 and Kirkness Road,R2E 1C2,No
-0115-V1,BC,Nanaimo,3600 block of Country Club Drive,V9T 1C9,No
-0113-V1,QC,Montréal,,H1V 1L3,No
-0112-V2,BC,Granisle,Morrison St.,V0J 1W0,No
-0112-V1,BC,Granisle,Morrison St.,V0J 1W0,No
-0111-V1,QC,Dolbeau-Mistassini,Rang Sainte-Marie,G8L 1H6,No
-0110-V1,QC,Chicoutimi,349 Rue J. R. Théberge,G7J 3R9,No
-0109-V1,QC,Lac-Simon,,J0Y 3M0,No
+0062-V1,AB,Edmonton;    Unspecified,122nd Ave. & 97th St.,T5G 1Z2,No
+0089-V1,BC,Burnaby;    Vancouver;    Vancouver,8300 Block of Joffre Ave.,V5J 3L4,No
+0092-V1,MB,Winnipeg;    Unspecified,Kenaston Boulevard and Grant Avenue,R3N 1Z4,No
+0117-V1,QC,Jonqui√®re;    Unspecified,3859 Rue Saint-Germain,G7X 2V7,No
+0115-V1,BC,Nanaimo;    Unspecified,3600 block of Country Club Drive,V9T 1C9,No
+0113-V1,QC,Montréal;    Montreal,,H1V 1L3,No
+0112-V2,BC,Granisle;    Unspecified,Morrison St.,V0J 1W0,No
+0112-V1,BC,Granisle;    Unspecified,Morrison St.,V0J 1W0,No
+0111-V1,QC,Dolbeau-Mistassini;    Unspecified,Rang Sainte-Marie,G8L 1H6,No
+0110-V1,QC,Chicoutimi;    Unspecified,349 Rue J. R. Théberge,G7J 3R9,No
+0109-V1,QC,Lac-Simon;    Unspecified,,J0Y 3M0,No
 0108-V1,QC,Montréal,6330 Rue Arthur-Chevrier,H1G 1R9,No
 0107-V1,ON,Toronto,Villaways Park,M2K 1E3,No
-0106-V1,QC,Montréal,5900 Sherbrooke St E,H1N 1B5,No
+0106-V1,QC,Montréal;    Montreal,5900 Sherbrooke St E,H1N 1B5,No
 0105-V1,ON,Toronto,3410 Bayview Avenue (St. Clare‚Äôs Residence),M2M 3Y7,No
-0061-V1,BC,Victoria,270 Dallas Rd.,V8V 1A6,No
-0104-V1,BC,Surrey,11678 96A Avenue,V3V 2A1,No
-0102-V1,AB,Calgary,1019 78 Avenue NW,T2K 0S6,No
-0246-V1,QC,Montreal,,H1Y 3C2,No
+0104-V1,BC,Surrey;    Unspecified,11678 96A Avenue,V3V 2A1,No
+0103-V1,ON,Toronto,High Park,M6R 2Z3,No
+0102-V1,AB,Calgary;    Unspecified,1019 78 Avenue NW,T2K 0S6,No
+0101-V1,QC,Saint-Joseph-du-Lac;    Unspecified,165 Rue Clément,J0N 1M0,No
 0100-V1,ON,Port Perry,235 Waterbury Crescent,L9L 1S4,No
 0099-V1,QC,Saint-Constant,43 Rue de l'Amaryllis,J5A 2N3,No
 0098-V1,AB,Red Deer,Township Road 391 & Range Road 273,T4S 2A1,No
-0097-V1,AB,Edmonton,12004 58 Street NW,T5W 3X3,No
-0096-V1,QC,Saint-Jean-sur-Richelieu,187 Rue Fournier,J2Y 1J9,No
-0095-V1,MB,Thompson,Princeton Drive,R8N 0A1,No
-0094-V1,QC,Messines,Chemin de la Ferme & Rue Patry,J9E 3M4,No
+0251-V1,MB,Winnipeg;    Unspecified,788 Simcoe St.,R3E 2C4,No
+0096-V1,QC,Saint-Jean-sur-Richelieu;    Unspecified,187 Rue Fournier,J2Y 1J9,No
+0095-V1,MB,Thompson;    Unspecified,Princeton Drive,R8N 0A1,No
+0094-V1,QC,Messines;    Unspecified,Chemin de la Ferme & Rue Patry,J9E 3M4,No
 0093-V1,ON,Toronto,10 Dora Avenue,M6H 4J2,No
-0092-V1,MB,Winnipeg,Kenaston Boulevard and Grant Avenue,R3N 1Z4,No
-0103-V1,ON,Toronto,High Park,M6R 2Z3,No
-0060-V1,AB,Calgary,433 Macleod Trail SE,T2G 5J7,No
+0090-V1,MB,Winnipeg;    Unspecified,Highway 59 and Kirkness Road,R2E 1C2,No
+0118-V1,AB,Calgary;    Unspecified,63 Inglewood Park SE,T2G 1B7,No
+0061-V1,BC,Victoria;    Unspecified,270 Dallas Rd.,V8V 1A6,No
 0059-V1,ON,Ottawa,111 Wellington Street (Parliament Hill),K1A 0A9,No
-0058-V1,QC,Saint-Jean-sur-Richelieu,,J3B 5K9,No
+0027-V1,NB,Moncton;    Unspecified,Killam Drive between Whitney Avenue and Jordan Avenue,E1C 3S7,No
 0026-V1,ON,Port Elgin,799 Oakwood Drive,N0H 2C4,No
 0025-V1,ON,Toronto,140 Adanac Drive,M1M 2E8,No
-0024-V1,ON,Hamilton,Lincoln Alexander Parkway near Upper Wentworth Street,L9A 5G2,No
+0024-V1,ON,Hamilton;    Unspecified,Lincoln Alexander Parkway near Upper Wentworth Street,L9A 5G2,No
 0023-V1,ON,Toronto,Southeast corner of Kennedy Road and Eglinton Avenue,M1K 2P7,No
-0022-V1,BC,Burnaby,E Hastings St. & MacDonald Ave.,V5C 2J1,No
+0022-V1,BC,Burnaby;    Vancouver;    Unspecified,E Hastings St. & MacDonald Ave.,V5C 2J1,No
 0021-V1,AB,Edmonton,2142 99 Street NW,T6N 1L2,No
 0020-V1,BC,Vancouver,1335 Renfrew Street,V5K 3B2,No
-0019-V1,BC,New Westminster,350 Gifford St.,V3M 7A3,No
+0019-V1,BC,New Westminster;    Unspecified,350 Gifford St.,V3M 7A3,No
 0018-V1,BC,Vancouver,E Hastings St. & Cassiar St.,V5K 2A6,No
-0017-V1,BC,Prince George,10680 Pinko Rd.,V2N 5V8,No
-0015-V1,AB,Vegreville,53030 Range Road 122,T0B 2S0,No
-0027-V1,NB,Moncton,Killam Drive between Whitney Avenue and Jordan Avenue,E1C 3S7,No
-0014-V1,AB,Lethbridge,64 Columbia Way West,T1K 5A8,No
-0012-V1,QC,Saint-Félicien,2163 chemin de la Pointe,G8K 3G3,No
-0011-V1,ON,Maitland,"Concession 2 Road, west of Rocky Road",K6V 5T1,No
+0017-V1,BC,Prince George;    Unspecified,10680 Pinko Rd.,V2N 5V8,No
+0015-V1,AB,Vegreville;    Unspecified,53030 Range Road 122,T0B 2S0,No
+0014-V1,AB,Lethbridge;    Unspecified,64 Columbia Way West,T1K 5A8,No
+0013-V1,BC,Maple Ridge;    New Westminster;    Unspecified,216th St. & 132nd Ave.,V4R 2S8,No
+0012-V1,QC,Saint-Félicien;    Unspecified,2163 chemin de la Pointe,G8K 3G3,No
+0011-V1,ON,Maitland;    Unspecified,"Concession 2 Road, west of Rocky Road",K6V 5T1,No
 0010-V1,ON,Toronto,28 Northmount Aveue,M3H 1N4,No
-0009-V1,NT,Yellowknife,1 Glick Court,X1A 3K6,No
-0008-V1,QC,La Baie,593 Rue Troisi√®me,G7B 2B4,No
+0009-V1,NT,Yellowknife;    Unspecified,1 Glick Court,X1A 3K6,No
+0008-V1,QC,La Baie;    Unspecified,593 Rue Troisi√®me,G7B 2B4,No
 0007-V1,ON,Toronto,258 Campbell Avenue,M6P 3V6,No
-0006-V1,QC,Montréal,2007 Rue Nicolet,H1W 3L3,No
-0005-V1,ON,Hamilton,15 Albright Road,L8K 5J4,No
+0006-V1,QC,Montréal;    Montreal,2007 Rue Nicolet,H1W 3L3,No
+0005-V1,ON,Hamilton;    Unspecified,15 Albright Road,L8K 5J4,No
 0004-V1,ON,Toronto,552-554 Milverton Boulevard,M4C 1X5,No
-0003-V1,ON,Oakville,95 Oak Walk Drive,L6H 0G6,No
+0003-V1,ON,Oakville;    Unspecified,95 Oak Walk Drive,L6H 0G6,No
 0002-V1,AB,Onoway,"#104, 5107 Lac St Anne Trail North",T0E 1V0,No
-0013-V1,BC,Maple Ridge,216th St. & 132nd Ave.,V4R 2S8,No
-0117-V1,QC,Jonqui√®re,3859 Rue Saint-Germain,G7X 2V7,No
-0028-V1,ON,Arden,4107 Arden Road,K0H 1B0,No
-0030-V1,ON,Toronto,Dundas Avenue & Bellwoods Avenue (Streetcar),M6J 2P9,No
+0028-V1,ON,Arden;    Unspecified,4107 Arden Road,K0H 1B0,No
+0060-V1,AB,Calgary,433 Macleod Trail SE,T2G 5J7,No
+0029-V1,QC,Montréal,4634 Rue Saint-Denis,H2J 2L3,No
+0031-V1,AB,Ma-Me-O Beach;    Unspecified,Hwy 13,T0C 1X0,No
+0058-V1,QC,Saint-Jean-sur-Richelieu;    Unspecified,,J3B 5K9,No
 0056-V1,BC,Slocan,,V0G 2C0,No
-0055-V1,ON,Brampton,Queen Street East and Kennedy Road South,L6V 1X5,No
-0054-V1,BC,Valemount,West Canoe Forest Rd,V0E 2Z0,No
-0052-V1,BC,Burnaby,#102-6947 Walker Ave,V5E 3C4,No
-0051-V1,AB,Edmonton,51st Avenue NW & 149A Street NW,T6H 4W2,No
-0050-V1,AB,St. Paul,4733 50 Ave,T0A 3A2,No
-0049-V1,QC,Québec City,3110 Boulevard Sainte-Anne,G1E 3K2,No
-0048-V1,ON,Aurora,State Farm Way near Leslie Street,L4G 7C7,No
-0047-V1,ON,Brampton,7755 Hurontario Street  ,L6W 4T1,No
-0046-V1,AB,Medicine Hat,Range Road 60 & South Boundary Rd SE,T1B 0C5,No
-0045-V1,NB,Rothesay,27 Shipyard Road,E2E 1X1,No
-0044-V1,AB,Calgary,Deerfoot Tr. & McKenzie Lake Blvd.,T2Z 2J8,No
-0042-V1,QC,Ste-Ad√®le,258 Boulevard de Sainte-Ad√®le ,J8B 1A8,No
-0041-V1,BC,Surrey,11798 98A Ave. ,V3V 2L3,No
-0040-V1,ON,Ajax,Dring Street,L1T 4X9,No
+0055-V1,ON,Brampton;    Unspecified,Queen Street East and Kennedy Road South,L6V 1X5,No
+0054-V1,BC,Valemount;    Valemont;    Unspecified,West Canoe Forest Rd,V0E 2Z0,No
+0052-V1,BC,Burnaby;    Unspecified,#102-6947 Walker Ave,V5E 3C4,No
+0051-V1,AB,Edmonton;    Unspecified,51st Avenue NW & 149A Street NW,T6H 4W2,No
+0050-V1,AB,St. Paul;    Unspecified,4733 50 Ave,T0A 3A2,No
+0049-V1,QC,Québec City;    Unspecified,3110 Boulevard Sainte-Anne,G1E 3K2,No
+0048-V1,ON,Aurora;    Unspecified,State Farm Way near Leslie Street,L4G 7C7,No
+0047-V1,ON,Brampton;    Unspecified,7755 Hurontario Street  ,L6W 4T1,No
+0046-V1,AB,Medicine Hat;    Unspecified,Range Road 60 & South Boundary Rd SE,T1B 0C5,No
+0045-V1,NB,Rothesay;    Unspecified,27 Shipyard Road,E2E 1X1,No
+0044-V1,AB,Calgary;    Unspecified,Deerfoot Tr. & McKenzie Lake Blvd.,T2Z 2J8,No
+0043-V1,QC,Montréal;    Montreal,1755 rue Berri,H2L 4E9,No
+0042-V1,QC,Ste-Ad√®le;    Unspecified,258 Boulevard de Sainte-Ad√®le ,J8B 1A8,No
+0041-V1,BC,Surrey;    Unspecified,11798 98A Ave. ,V3V 2L3,No
+0040-V1,ON,Ajax;    Unspecified,Dring Street,L1T 4X9,No
 0039-V1,ON,Toronto,437 Sherbourne Street,M4X 1K5,No
-0038-V1,QC,Montréal,2017 Rue Saint-André,H2L 3V2,No
-0035-V1,SK,Holdfast,1311 Folk Street,S0G 2H0,No
+0038-V1,QC,Montréal;    Montreal,2017 Rue Saint-André,H2L 3V2,No
+0037-V1,AB,Edmonton,106 Ave. & 96th St.,T5K 0Z7,No
+0035-V1,SK,Holdfast;    Unspecified,1311 Folk Street,S0G 2H0,No
 0034-V1,QC,Montréal,8243 chemin Guelph,H4W 1J1,No
 0033-V1,AB,Cold Lake,Cold Lake First Nation Reserve,T0A 0T0,No
-0032-V1,AB,Leduc,4916 50th Ave,T9E 7K6,No
-0031-V1,AB,Ma-Me-O Beach,Hwy 13,T0C 1X0,No
-0043-V1,QC,Montréal,1755 rue Berri,H2L 4E9,No
-0118-V1,AB,Calgary,63 Inglewood Park SE,T2G 1B7,No
-0101-V1,QC,Saint-Joseph-du-Lac,165 Rue Clément,J0N 1M0,No
-0121-V1,ON,Strathroy,212 Park Street,N7G 3V9,No
-0217-V1,MB,Norway House,York Boat Inn,R0B 1B0,No
-0215-V1,AB,Calgary,507-42nd St. SE,T2A 3C4,No
-0214-V1,AB,Edmonton,15347 Stony Plain Rd.,T5P 3Y6,No
-0213-V1,AB,Calgary,"505, 1520-26th Ave. SW",T2T 1C3,No
-0212-V1,SK,Saskatoon,Avenue Q North,S7L 2V7,No
-0209-V1,SK,La Ronge,Northland Motor Hotel ,S0J 1L0,No
+0032-V1,AB,Leduc;    Unspecified,4916 50th Ave,T9E 7K6,No
+0030-V1,ON,Toronto,Dundas Avenue & Bellwoods Avenue (Streetcar),M6J 2P9,No
 0120-V1,ON,Ottawa,55 Hilda Street,K1Y 4W1,No
-0207-V1,SK,Muskowekwan First Nation,Victim's home,S0A 2G0,No
+0097-V1,AB,Edmonton,12004 58 Street NW,T5W 3X3,No
+0122-V1,BC,Terrace;    Unspecified,4720 Haugland Ave. ,V8G 2X5,No
+0221-V1,YT,Whitehorse,4190 4 Ave.,Y1A 1J8,No
+0220-V1,YT,Lewes Lake;    Unspecified,Lewes Lake Rd. & Klondike Hwy.,Y1A 5Y9,No
+0219-V1,AB,Brooks;    Unspecified,Lake Bevan Place,T1R 0L3,No
+0121-V1,ON,Strathroy;    Unspecified,212 Park Street,N7G 3V9,No
+0217-V1,MB,Norway House,York Boat Inn,R0B 1B0,No
+0216-V1,MB,Winnipeg,373 Salter St.,R2W 4L7,No
+0215-V1,AB,Calgary;    Unspecified,507-42nd St. SE,T2A 3C4,No
+0214-V1,AB,Edmonton;    Unspecified,15347 Stony Plain Rd.,T5P 3Y6,No
+0213-V1,AB,Calgary;    Unspecified,"505, 1520-26th Ave. SW",T2T 1C3,No
+0212-V1,SK,Saskatoon,Avenue Q North,S7L 2V7,No
+0211-V1,AB,Vegreville,50th St. & 50th Ave.,T9C 1A0,No
+0209-V1,SK,La Ronge,Northland Motor Hotel ,S0J 1L0,No
+0208-V1,AB,Red Deer,"1 Ovington [Close], Oriole Park",T4N 5J3,No
+0207-V1,SK,Muskowekwan First Nation;    Unspecified,Victim's home,S0A 2G0,No
 0206-V1,AB,Edmonton,102nd St. & MacDonald Dr.,T5J 0X2,No
 0205-V1,AB,Edmonton,12838-68th St.,T5C 0E7,No
 0203-V1,ON,Oshawa,41 Drew Street,L1H 4Z9,No
-0202-V1,AB,Rocky Mountain House,Pillars Restaurant,T4T 1W9,No
-0201-V1,AB,Edmonton,113th St. & 75th Ave.,T6G 0H6,No
+0202-V1,AB,Rocky Mountain House;    Unspecified,Pillars Restaurant,T4T 1W9,No
+0201-V1,AB,Edmonton;    Unspecified,113th St. & 75th Ave.,T6G 0H6,No
 0199-V1,NS,Wagmatcook First Nation,15 Katie Lane,B0E 3N0,No
 0198-V1,AB,Edmonton,"4816 26th St. , 14808 26th St.",T5Y 2G5,No
 0197-V1,ON,Newmarket,Southwind Court,L3Y 8C5,No
-0196-V1,AB,Calgary,"279 Queensland Circle, SE",T2J 4E3,No
+0196-V1,AB,Calgary;    Unspecified,"279 Queensland Circle, SE",T2J 4E3,No
 0195-V1,AB,Edmonton,129th Ave. & 64th St.,T5C 0A4,No
+0222-V1,MB,Winnipeg;    Unspecified,Dufferin Ave,R2W 3B2,No
 0194-V1,AB,Spruce Grove,119 Greystone Dr.,T7X 1Y2,No
-0193-V1,AB,Calgary,1-1709 37th St. SE,T2A 1E9,No
-0192-V1,AB,Edmonton,10266-103rd St.,T5J 0Y8,No
-0218-V1,AB,Calgary,4011 Richmond Rd. SW,T3E 4P2,No
-0219-V1,AB,Brooks,Lake Bevan Place,T1R 0L3,No
-0220-V1,YT,Lewes Lake,Lewes Lake Rd. & Klondike Hwy.,Y1A 5Y9,No
-0221-V1,YT,Whitehorse,4190 4 Ave.,Y1A 1J8,No
+0223-V1,MB,Winnipeg;    Unspecified,339 Alfred Ave,R2W 1X5,No
+0225-V1,AB,Calgary;    Unspecified,506 Sabrina Rd. SW,T2W 1Y7,No
+0249-V1,ON,Toronto,65 Front Street West,M5J 1E6,No
+0248-V1,ON,Markham;    Unspecified,30 Alden Road,L3R 2S1,No
+0247-V1,AB,Calgary;    Unspecified,"210 Citadel Peak Circle, NW",T3G 4E9,No
+0246-V1,QC,Montreal,,H1Y 3C2,No
+0245-V1,AB,Calgary;    Unspecified,"Whiteview Rd. & Whiteview Close, NE",T1Y 1R1,No
 0244-V1,ON,Toronto,2021 Dufferin Street,M6E 3R3,No
-0243-V1,AB,Calgary,"260 Erin Meadows Close, SE",T2B 3E4,No
+0243-V1,AB,Calgary;    Unspecified,"260 Erin Meadows Close, SE",T2B 3E4,No
 0242-V1,ON,Ottawa,Highway 417 & Walkley Road,K1B 3V8,No
-0241-V1,MB,Winnipeg,871 William Ave.,R3E 0Z5,No
-0240-V1,QC,Kirkland,,H9J 4A1,No
-0239-V1,AB,Edmonton,155th St. & 100th Ave.,T5P 0K8,No
-0238-V1,MB,Winnipeg,Langside St.,R3C 1Z5,No
-0237-V1,AB,Fort McMurray,10126 MacDonald Ave. ,T9H 1T1,No
-0236-V1,AB,Edmonton,118th Ave. & Wayne Gretzky Dr.,T5B 4L3,No
-0235-V1,ON,Cobourg,1000 DePalma Drive,K9A 5W6,No
-0234-V1,MB,Winnipeg,210 Evanson St.,R3G 2A3,No
-0191-V1,AB,Canmore,No location given,T1W 2H4,No
-0232-V1,MB,Winnipeg,Portage Ave.,R3J 0L3,No
-0230-V1,AB,Sherwood Park,51035 Range Road 223,T8C 1G9,No
-0229-V1,AB,Canmore,Railway Ave. & Gateway St.,T1W 1P3,No
-0228-V1,AB,Driftpile First Nation,,T0G 0X0,No
-0227-V1,AB,Okotoks,21 Alcock St. ,T1S 1G8,No
-0226-V1,AB,Edmonton,8411 119th Ave.,T5B 0W3,No
-0225-V1,AB,Calgary,506 Sabrina Rd. SW,T2W 1Y7,No
-0224-V1,AB,Edmonton,107th Ave. & 102nd St.,T5H 0V7,No
-0223-V1,MB,Winnipeg,339 Alfred Ave,R2W 1X5,No
-0222-V1,MB,Winnipeg,Dufferin Ave,R2W 3B2,No
+0241-V1,MB,Winnipeg;    Unspecified,871 William Ave.,R3E 0Z5,No
+0240-V1,QC,Kirkland;    Montreal,,H9J 4A1,No
+0239-V1,AB,Edmonton;    Unspecified,155th St. & 100th Ave.,T5P 0K8,No
+0238-V1,MB,Winnipeg;    Unspecified,Langside St.,R3C 1Z5,No
+0237-V1,AB,Fort McMurray;    Unspecified,10126 MacDonald Ave. ,T9H 1T1,No
+0236-V1,AB,Edmonton;    Unspecified,118th Ave. & Wayne Gretzky Dr.,T5B 4L3,No
+0235-V1,ON,Cobourg;    Unspecified,1000 DePalma Drive,K9A 5W6,No
+0234-V1,MB,Winnipeg;    Unspecified,210 Evanson St.,R3G 2A3,No
+0233-V2,QC,Montreal,,H2L 4Y2,No
 0233-V1,QC,Montreal,,H2L 4Y2,No
-0190-V1,SK,Clearwater River Dene First Nation,Woods near victim's house,S0M 3H0,No
-0208-V1,AB,Red Deer,"1 Ovington [Close], Oriole Park",T4N 5J3,No
-0188-V1,NS,Forest Glen/Carleton,,B0W 1L0,No
-0152-V1,QC,Gatineau,24 rue Charles-Albanel,J8Z 1P9,No
-0144-V1,QC,L'√éle-Bizard,5 place Monk,H9E 1B1,No
+0232-V1,MB,Winnipeg;    Unspecified,Portage Ave.,R3J 0L3,No
+0231-V1,QC,St-Raymond de Portneuf,106 rue Vanier,G3L 2M3,No
+0230-V1,AB,Sherwood Park;    Unspecified,51035 Range Road 223,T8C 1G9,No
+0229-V1,AB,Canmore;    Unspecified,Railway Ave. & Gateway St.,T1W 1P3,No
+0228-V1,AB,Driftpile First Nation,,T0G 0X0,No
+0227-V1,AB,Okotoks;    Unspecified,21 Alcock St. ,T1S 1G8,No
+0226-V1,AB,Edmonton;    Unspecified,8411 119th Ave.,T5B 0W3,No
+0224-V1,AB,Edmonton;    Unspecified,107th Ave. & 102nd St.,T5H 0V7,No
+0193-V1,AB,Calgary;    Unspecified,1-1709 37th St. SE,T2A 1E9,No
+0218-V1,AB,Calgary;    Unspecified,4011 Richmond Rd. SW,T3E 4P2,No
+0191-V1,AB,Canmore,No location given,T1W 2H4,No
+0160-V1,QC,Akulivik;    Unspecified,Unspecified,J0M 1V0,No
+0158-V1,QC,Beauceville;    Unspecified,991 route du Golf,G5X 2T4,No
+0152-V1,QC,Gatineau;    Unspecified,24 rue Charles-Albanel,J8Z 1P9,No
+0144-V1,QC,L'√éle-Bizard;    Montreal,5 place Monk,H9E 1B1,No
 0143-V1,QC,Montreal,915 Clark Street,H2Z 1J8,No
-0142-V1,MB,Winnipeg,423 Alfred Avenue,R2X 0E8,No
-0141-V1,ON,London,Trafalgar Street and Highbury Avenue North,N5W 1W6,No
-0140-V1,BC,Chilliwack,46170 Yale Rd,V2P 4P9,No
-0139-V1,QC,Montréal,950 avenue Robillard,H2L 3S8,No
-0138-V1,QC,Québec City,Charest Boulevard,G1P 3W8,No
-0137-V1,ON,London,56 Duchess Avenue,N6C 1N2,No
-0136-V1,NU,Gjoa Haven,Gjoa Haven Airport,X0B 1J0,No
-0135-V1,AB,Calgary,16 Street at 11 Ave. S.W.,T3C 0N5,No
+0142-V1,MB,Winnipeg;    Unspecified,423 Alfred Avenue,R2X 0E8,No
+0141-V1,ON,London;    Unspecified,Trafalgar Street and Highbury Avenue North,N5W 1W6,No
+0140-V1,BC,Chilliwack;    Unspecified,46170 Yale Rd,V2P 4P9,No
+0139-V1,QC,Montréal;    Montreal,950 avenue Robillard,H2L 3S8,No
+0138-V1,QC,Québec City;    Unspecified,Charest Boulevard,G1P 3W8,No
+0137-V1,ON,London;    Unspecified,56 Duchess Avenue,N6C 1N2,No
+0136-V1,NU,Gjoa Haven;    Unspecified,Gjoa Haven Airport,X0B 1J0,No
+0135-V1,AB,Calgary;    Unspecified,16 Street at 11 Ave. S.W.,T3C 0N5,No
 0134-V1,ON,Nipigon,46 Park Road,P0T 2J0,No
-0133-V1,AB,Calgary,5032 16 Avenue NW,T3B 0N3,No
-0189-V1,SK,White Bear First Nation,,S0C 2S0,No
-0131-V1,ON,Toronto,25 Sagres Crescent,M6N 5E6,No
-0129-V1,AB,Calgary,27 Sunmount Crescent SE,T2X 1V9,No
-0128-V1,QC,Montebello,215 Rue Saint-Fran√ßois-Xavier,J0V 1L0,No
-0127-V1,QC,Rouyn-Noranda,214 6e Rue,J9X 1Z3,No
-0126-V1,QC,√éle-Perrot,96 2e Avenue,J7V 4Z4,No
-0125-V1,ON,Hamilton,115 James St S,L8N 3W8,No
-0124-V1,QC,Rawdon,Chemin Ponderosa,J0K 1S0,No
-0123-V1,QC,St-Cyrille-de-Wendover,95 Rue Saint-Jean-Baptiste,J1Z 1T1,No
-0122-V1,BC,Terrace,4720 Haugland Ave. ,V8G 2X5,No
-0158-V1,QC,Beauceville,991 route du Golf,G5X 2T4,No
-0160-V1,QC,Akulivik,Unspecified,J0M 1V0,No
+0133-V1,AB,Calgary;    Unspecified,5032 16 Avenue NW,T3B 0N3,No
 0132-V1,BC,Vancouver,2830 Bentall St.,V5M 4H4,No
-0162-V1,QC,Grand-Remous,,J0W 1E0,No
-0161-V1,QC,Lachine,St-Joseph Boulevard near George-V Avenue,H8S 2K9,No
-0187-V1,NS,Digby,129 Victoria St.,B0V 1A0,No
-0186-V1,AB,Calgary,"2359 Banff Trail, NW",T2M 4L2,No
-0185-V1,AB,Edmonton,10539-75th St.,T6A 2Z6,No
+0131-V1,ON,Toronto,25 Sagres Crescent,M6N 5E6,No
+0129-V1,AB,Calgary;    Unspecified,27 Sunmount Crescent SE,T2X 1V9,No
+0128-V1,QC,Montebello;    Unspecified,215 Rue Saint-Fran√ßois-Xavier,J0V 1L0,No
+0192-V1,AB,Edmonton;    Unspecified,10266-103rd St.,T5J 0Y8,No
+0126-V1,QC,√éle-Perrot;    Unspecified,96 2e Avenue,J7V 4Z4,No
+0125-V1,ON,Hamilton;    Unspecified,115 James St S,L8N 3W8,No
+0124-V1,QC,Rawdon;    Unspecified,Chemin Ponderosa,J0K 1S0,No
+0123-V1,QC,St-Cyrille-de-Wendover;    Unspecified,95 Rue Saint-Jean-Baptiste,J1Z 1T1,No
+0161-V1,QC,Lachine;    Montreal,St-Joseph Boulevard near George-V Avenue,H8S 2K9,No
+0162-V1,QC,Grand-Remous;    Unspecified,,J0W 1E0,No
+0127-V1,QC,Rouyn-Noranda;    Unspecified,214 6e Rue,J9X 1Z3,No
+0164-V1,QC,Saint-Georges-de-Beauce;    Unspecified,,G5Y 2B6,No
+0163-V1,QC,Pont-Rouge;    Unspecified,"180 Boul Notre Dame, Pont-Rouge",G3H 3K7,No
+0190-V1,SK,Clearwater River Dene First Nation;    Unspecified,Woods near victim's house,S0M 3H0,No
+0189-V1,SK,White Bear First Nation,,S0C 2S0,No
+0187-V1,NS,Digby;    Unspecified,129 Victoria St.,B0V 1A0,No
+0186-V1,AB,Calgary;    Unspecified,"2359 Banff Trail, NW",T2M 4L2,No
+0185-V1,AB,Edmonton;    Unspecified,10539-75th St.,T6A 2Z6,No
 0184-V1,ON,Lindsay,31 Georgian St.,K9V 2E7,No
-0182-V1,SK,Saskatoon,819 29th St W,S7L 0N2,No
-0180-V1,NB,Riverview,"The Right Spot, 19 Orange Lane",E1C 4L6,No
-0179-V1,AB,Edmonton,9942-108th St.,T5K 2J5,No
+0182-V1,SK,Saskatoon;    Unspecified,819 29th St W,S7L 0N2,No
+0181-V1,AB,Edmonton;    Unspecified,11453-40th Ave.,T6J 0R4,No
+0180-V1,NB,Riverview;    Unspecified,"The Right Spot, 19 Orange Lane",E1C 4L6,No
+0179-V1,AB,Edmonton;    Unspecified,9942-108th St.,T5K 2J5,No
 0178-V1,ON,Ottawa,141 Clarence St. ,K1N 7E5,No
-0177-V1,NL,Cornerbrook,19 Westmount Rd.,A2H 5R1,No
+0177-V1,NL,Cornerbrook;    Unspecified,19 Westmount Rd.,A2H 5R1,No
+0188-V1,NS,Forest Glen/Carleton;    Unspecified,,B0W 1L0,No
+0175-V1,AB,Calgary;    Unspecified,"317 7th Ave. SW, Unit T 100",T2P 2Y9,No
 0176-V1,AB,Lethbridge,221-2nd Ave. S.,T1J 0B7,No
-0175-V1,AB,Calgary,"317 7th Ave. SW, Unit T 100",T2P 2Y9,No
-0181-V1,AB,Edmonton,11453-40th Ave.,T6J 0R4,No
-0173-V1,ON,Toronto,Riverdale Park near Don Valley,M4K 2N5,No
-0163-V1,QC,Pont-Rouge,"180 Boul Notre Dame, Pont-Rouge",G3H 3K7,No
-0174-V1,NL,Little Catalina,Reid's house,A0C 1W0,No
-0164-V1,QC,Saint-Georges-de-Beauce,,G5Y 2B6,No
-0165-V1,QC,La Sarre,,J9Z 1M5,No
-0167-V1,SK,Saskatoon,1209 Cumberland Ave. S,S7H 2L8,No
-0168-V1,SK,Saskatoon,Highway 41,S0K 4S0,No
-0166-V1,SK,Prince Albert,733 12th St. W,S6V 3C3,No
-0169-V1,SK,Wakaw,Highway 41,S0K 4P0,No
-0170-V1,AB,Edmonton,8912-148th St.,T5R 1A1,No
+0166-V1,SK,Prince Albert;    Unspecified,733 12th St. W,S6V 3C3,No
+0168-V1,SK,Saskatoon;    Unspecified,Highway 41,S0K 4S0,No
+0169-V1,SK,Wakaw;    Unspecified,Highway 41,S0K 4P0,No
+0167-V1,SK,Saskatoon;    Unspecified,1209 Cumberland Ave. S,S7H 2L8,No
 0171-V1,AB,Red Deer,5901-59th St.,T4N 2N4,No
 0172-V1,SK,Wolseley,Trans Canada Hwy,S0G 5H0,No
-0526-V1,SK,,,Unspecified,Yes
+0173-V1,ON,Toronto,Riverdale Park near Don Valley,M4K 2N5,No
+0174-V1,NL,Little Catalina;    Unspecified,Reid's house,A0C 1W0,No
+0170-V1,AB,Edmonton,8912-148th St.,T5R 1A1,No
+0165-V1,QC,La Sarre;    Unspecified,,J9Z 1M5,No
+0521-V1,QC,,,Unspecified,Yes
+0588-V1,BC,,,Unspecified,Yes
 0585-V1,BC,,,Unspecified,Yes
+0571-V1,ON,,,Unspecified,Yes
+0568-V1,ON,,,Unspecified,Yes
 0567-V1,ON,,,Unspecified,Yes
+0564-V1,ON,,,Unspecified,Yes
+0526-V1,SK,,,Unspecified,Yes
 0562-V1,ON,,,Unspecified,Yes
 0563-V1,ON,,,Unspecified,Yes
-0564-V1,ON,,,Unspecified,Yes
 0583-V1,BC,,,Unspecified,Yes
-0525-V1,SK,,,Unspecified,Yes
-0560-V1,ON,,,Unspecified,Yes
-0577-V1,QC,,,Unspecified,Yes
-0555-V1,AB,,,Unspecified,Yes
-0519-V1,MB,,,Unspecified,Yes
-0568-V1,ON,,,Unspecified,Yes
-0600-V1,QC,,,Unspecified,Yes
 0573-V1,NS,,,Unspecified,Yes
-0571-V1,ON,,,Unspecified,Yes
-0561-V1,AB,,,Unspecified,Yes
-0521-V1,QC,,,Unspecified,Yes
-0580-V1,BC,,,Unspecified,Yes
+0560-V1,ON,,,Unspecified,Yes
+0581-V1,ON,,,Unspecified,Yes
+0559-V1,AB,,,Unspecified,Yes
 0592-V1,QC,,,Unspecified,Yes
 0565-V1,ON,,,Unspecified,Yes
+0582-V1,NB,,,Unspecified,Yes
 0579-V1,NB,,,Unspecified,Yes
+0561-V1,AB,,,Unspecified,Yes
 0531-V1,NS,,,Unspecified,Yes
-0513-V1,MB,,,Unspecified,Yes
-0588-V1,BC,,,Unspecified,Yes
 0516-V1,MB,,,Unspecified,Yes
+0514-V1,MB,,,Unspecified,Yes
 0593-V1,ON,,,Unspecified,Yes
 0520-V1,QC,,,Unspecified,Yes
 0589-V1,BC,,,Unspecified,Yes
-0559-V1,AB,,,Unspecified,Yes
 0522-V1,QC,,,Unspecified,Yes
-0581-V1,ON,,,Unspecified,Yes
-0514-V1,MB,,,Unspecified,Yes
-0580-V2,BC,,,Unspecified,Yes
-0582-V1,NB,,,Unspecified,Yes
-0551-V1,ON,,,Unspecified,Yes
+0577-V1,QC,,,Unspecified,Yes
+0513-V1,MB,,,Unspecified,Yes
+0544-V1,AB,,,Unspecified,Yes
+0543-V1,AB,,,Unspecified,Yes
+0505-V1,MB,,,Unspecified,Yes
+0512-V1,QC,,,Unspecified,Yes
+0533-V1,AB,,,Unspecified,Yes
 0532-V1,AB,,,Unspecified,Yes
 0540-V1,ON,,,Unspecified,Yes
 0539-V1,PE,,,Unspecified,Yes
 0524-V1,NS,,,Unspecified,Yes
-0530-V1,AB,,,Unspecified,Yes
+0555-V1,AB,,,Unspecified,Yes
 0537-V1,ON,,,Unspecified,Yes
-0533-V1,AB,,,Unspecified,Yes
 0527-V1,AB,,,Unspecified,Yes
+0534-V1,ON,,,Unspecified,Yes
+0529-V1,ON,,,Unspecified,Yes
 0569-V1,BC,,,Unspecified,Yes
 0595-V1,ON,,,Unspecified,Yes
 0509-V1,ON,,,Unspecified,Yes
-0518-V1,MB,,,Unspecified,Yes
 0523-V1,AB,,,Unspecified,Yes
 0603-V1,ON,,,Unspecified,Yes
-0534-V1,ON,,,Unspecified,Yes
-0512-V1,QC,,,Unspecified,Yes
-0529-V1,ON,,,Unspecified,Yes
-0543-V1,AB,,,Unspecified,Yes
-0505-V1,MB,,,Unspecified,Yes
+0511-V1,QC,,,Unspecified,Yes
+0545-V1,AB,,,Unspecified,Yes
+0530-V1,AB,,,Unspecified,Yes
+0572-V1,BC,,,Unspecified,Yes
+0510-V1,QC,,,Unspecified,Yes
+0525-V1,SK,,,Unspecified,Yes
+0519-V1,MB,,,Unspecified,Yes
+0580-V1,BC,,,Unspecified,Yes
+0580-V2,BC,,,Unspecified,Yes
+0518-V1,MB,,,Unspecified,Yes
+0551-V1,ON,,,Unspecified,Yes
+0600-V1,QC,,,Unspecified,Yes
 0517-V1,MB,,,Unspecified,Yes
 0550-V1,AB,,,Unspecified,Yes
 0548-V1,AB,,,Unspecified,Yes
+0547-V1,AB,,,Unspecified,Yes
 0507-V1,SK,,,Unspecified,Yes
 0535-V1,NL,,,Unspecified,Yes
 0575-V1,BC,,,Unspecified,Yes
-0547-V1,AB,,,Unspecified,Yes
-0546-V1,AB,,,Unspecified,Yes
-0572-V1,BC,,,Unspecified,Yes
-0510-V1,QC,,,Unspecified,Yes
-0545-V1,AB,,,Unspecified,Yes
-0511-V1,QC,,,Unspecified,Yes
-0544-V1,AB,,,Unspecified,Yes
 0549-V1,ON,,,Unspecified,Yes
+0546-V1,AB,,,Unspecified,Yes
+114_GS,BC,Terrace,,Unspecified,Yes
+115_GS,BC,Burnaby,,Unspecified,Yes
+116_GS,BC,Vancouver,,Unspecified,Yes
+123_GS,BC,Kamloops;    Unspecified,,Unspecified,Yes
+120_GS,BC,Abbotsford,,Unspecified,Yes
+121_GS,BC,Agassiz,,Unspecified,Yes
+124_GS,BC,Surrey;    Unspecified,,Unspecified,Yes
+119_GS,BC,Vancouver;    Unspecified,,Unspecified,Yes
+111_GS,BC,New Westminster,,Unspecified,Yes
+95_GS,BC,Abbotsford,,Unspecified,Yes
 107_GS,BC,Agassiz,,Unspecified,Yes
-94_GS,BC,Chilliwack,,Unspecified,Yes
 106_GS,BC,Victoria,,Unspecified,Yes
 105_GS,BC,Agassiz,,Unspecified,Yes
-99_GS,BC,Penticton,,Unspecified,Yes
+99_GS,BC,Penticton;    Unspecified,,Unspecified,Yes
 98_GS,BC,Vancouver,,Unspecified,Yes
 96_GS,BC,Maple Ridge,,Unspecified,Yes
-95_GS,BC,Abbotsford,,Unspecified,Yes
-92_GS,BC,Maple Ridge,,Unspecified,Yes
-81_GS,BC,Vancouver,,Unspecified,Yes
-90_GS,BC,Abbotsford,,Unspecified,Yes
-89_GS,BC,Surrey,,Unspecified,Yes
-87_GS,BC,Prince George,,Unspecified,Yes
-86_GS,BC,Abbotsford,,Unspecified,Yes
-85_GS,BC,Fort St. John,,Unspecified,Yes
-83_GS,BC,Vancouver,,Unspecified,Yes
-80_GS,BC,Fairmont Hot Springs,,Unspecified,Yes
-77_GS,BC,Kelowna,,Unspecified,Yes
-111_GS,BC,New Westminster,,Unspecified,Yes
-91_GS,BC,Port Coquitlam,,Unspecified,Yes
-114_GS,BC,Terrace,,Unspecified,Yes
-164_GS,BC,Surrey,,Unspecified,Yes
-116_GS,BC,Vancouver,,Unspecified,Yes
-172_GS,BC,Prince George,,Unspecified,Yes
+94_GS,BC,Chilliwack,,Unspecified,Yes
+130_GS,BC,Vancouver;    Unspecified,,Unspecified,Yes
 170_GS,BC,Vancouver,,Unspecified,Yes
+172_GS,BC,Prince George;    Unspecified,,Unspecified,Yes
+92_GS,BC,Maple Ridge,,Unspecified,Yes
 169_GS,BC,Coquitlam,,Unspecified,Yes
 165_GS,BC,Surrey,,Unspecified,Yes
-76_GS,BC,Vancouver,,Unspecified,Yes
+164_GS,BC,Surrey,,Unspecified,Yes
 156_GS,BC,Victoria,,Unspecified,Yes
-153_GS,BC,Maple Ridge,,Unspecified,Yes
+132_GS,BC,Kamloops,,Unspecified,Yes
 152_GS,BC,Maple Ridge,,Unspecified,Yes
 150_GS,BC,Abbotsford,,Unspecified,Yes
-141_GS,BC,Port Hardy,,Unspecified,Yes
+141_GS,BC,Port Hardy;    Unspecified,,Unspecified,Yes
 140_GS,BC,Abbotsford,,Unspecified,Yes
-132_GS,BC,Kamloops,,Unspecified,Yes
-130_GS,BC,Vancouver,,Unspecified,Yes
-128_GS,BC,Kamloops,,Unspecified,Yes
-124_GS,BC,Surrey,,Unspecified,Yes
-123_GS,BC,Kamloops,,Unspecified,Yes
-121_GS,BC,Agassiz,,Unspecified,Yes
-120_GS,BC,Abbotsford,,Unspecified,Yes
-119_GS,BC,Vancouver,,Unspecified,Yes
-115_GS,BC,Burnaby,,Unspecified,Yes
-75_GS,BC,Agassiz,,Unspecified,Yes
 136_GS,BC,Surrey,,Unspecified,Yes
-73_GS,BC,Vancouver,,Unspecified,Yes
-27_GS,BC,Tofino,,Unspecified,Yes
+153_GS,BC,Maple Ridge,,Unspecified,Yes
+91_GS,BC,Port Coquitlam,,Unspecified,Yes
+128_GS,BC,Kamloops,,Unspecified,Yes
+89_GS,BC,Surrey;    Unspecified,,Unspecified,Yes
+37_GS,BC,Vancouver;    Unspecified,,Unspecified,Yes
+36_GS,BC,Nanaimo,,Unspecified,Yes
+34_GS,BC,Surrey;    Unspecified,,Unspecified,Yes
+32_GS,BC,Victoria;    Unspecified,,Unspecified,Yes
+29_GS,BC,Kelowna;    Unspecified,,Unspecified,Yes
+27_GS,BC,Tofino;    Unspecified,,Unspecified,Yes
 26_GS,BC,Kelowna,,Unspecified,Yes
-25_GS,BC,Kelowna,,Unspecified,Yes
+25_GS,BC,Kelowna;    Unspecified,,Unspecified,Yes
 24_GS,BC,Victoria,,Unspecified,Yes
 22_GS,BC,Fort St. John,,Unspecified,Yes
-21_GS,BC,Penticton,,Unspecified,Yes
+21_GS,BC,Penticton;    Unspecified,,Unspecified,Yes
 20_GS,BC,Victoria,,Unspecified,Yes
 18_GS,BC,Kamloops,,Unspecified,Yes
-16_GS,BC,Surrey,,Unspecified,Yes
+17_GS,BC,Victoria;    Unspecified,,Unspecified,Yes
+16_GS,BC,Surrey;    Unspecified,,Unspecified,Yes
 14_GS,BC,Kamloops,,Unspecified,Yes
 11_GS,BC,Nanaimo,,Unspecified,Yes
-10_GS,BC,Victoria,,Unspecified,Yes
-9_GS,BC,Vancouver,,Unspecified,Yes
-8_GS,BC,Cranbrook,,Unspecified,Yes
-6_GS,BC,Nanaimo,,Unspecified,Yes
-4_GS,BC,Lytton,,Unspecified,Yes
-2_GS,BC,New Westminster,,Unspecified,Yes
+10_GS,BC,Victoria;    Unspecified,,Unspecified,Yes
+9_GS,BC,Vancouver;    Unspecified,,Unspecified,Yes
+8_GS,BC,Cranbrook;    Unspecified,,Unspecified,Yes
+6_GS,BC,Nanaimo;    Unspecified,,Unspecified,Yes
+2_GS,BC,New Westminster;    Unspecified,,Unspecified,Yes
 0_GS,BC,Vancouver,,Unspecified,Yes
-74_GS,BC,Maple Ridge,,Unspecified,Yes
-29_GS,BC,Kelowna,,Unspecified,Yes
-32_GS,BC,Victoria,,Unspecified,Yes
-17_GS,BC,Victoria,,Unspecified,Yes
-36_GS,BC,Nanaimo,,Unspecified,Yes
-72_GS,BC,Kelowna,,Unspecified,Yes
-34_GS,BC,Surrey,,Unspecified,Yes
-69_GS,BC,"Edmonton, Alberta",,Unspecified,Yes
-67_GS,BC,Surrey,,Unspecified,Yes
-66_GS,BC,Penticton,,Unspecified,Yes
-63_GS,BC,Kamloops,,Unspecified,Yes
-58_GS,BC,Creston,,Unspecified,Yes
-54_GS,BC,Victoria,,Unspecified,Yes
-51_GS,BC,Comox,,Unspecified,Yes
-50_GS,BC,New Westminster,,Unspecified,Yes
-57_GS,BC,Kamloops,,Unspecified,Yes
+90_GS,BC,Abbotsford,,Unspecified,Yes
 39_GS,BC,Terrace,,Unspecified,Yes
-45_GS,BC,Prince George,,Unspecified,Yes
-44_GS,BC,White Rock,,Unspecified,Yes
-43_GS,BC,Campbell River,,Unspecified,Yes
+40_GS,BC,Chilliwack;    Unspecified,,Unspecified,Yes
+4_GS,BC,Lytton;    Unspecified,,Unspecified,Yes
+41_GS,BC,Surrey;    Unspecified,,Unspecified,Yes
+86_GS,BC,Abbotsford,,Unspecified,Yes
+83_GS,BC,Vancouver,,Unspecified,Yes
+81_GS,BC,Vancouver;    Unspecified,,Unspecified,Yes
+80_GS,BC,Fairmont Hot Springs;    Unspecified,,Unspecified,Yes
+77_GS,BC,Kelowna;    Unspecified,,Unspecified,Yes
+76_GS,BC,Vancouver,,Unspecified,Yes
+75_GS,BC,Agassiz,,Unspecified,Yes
+74_GS,BC,Maple Ridge,,Unspecified,Yes
+73_GS,BC,Vancouver,,Unspecified,Yes
+72_GS,BC,Kelowna;    Unspecified,,Unspecified,Yes
+69_GS,BC,"Edmonton, Alberta;    Unspecified",,Unspecified,Yes
+85_GS,BC,Fort St. John;    Unspecified,,Unspecified,Yes
+63_GS,BC,Kamloops,,Unspecified,Yes
+66_GS,BC,Penticton;    Unspecified,,Unspecified,Yes
 42_GS,BC,Victoria,,Unspecified,Yes
-41_GS,BC,Surrey,,Unspecified,Yes
-40_GS,BC,Chilliwack,,Unspecified,Yes
-48_GS,BC,Abbotsford,,Unspecified,Yes
-37_GS,BC,Vancouver,,Unspecified,Yes
-747_CRAP,ON,Unspecified,,Unspecified,Yes
+43_GS,BC,Campbell River;    Unspecified,,Unspecified,Yes
+44_GS,BC,White Rock,,Unspecified,Yes
+45_GS,BC,Prince George;    Unspecified,,Unspecified,Yes
+87_GS,BC,Prince George,,Unspecified,Yes
+50_GS,BC,New Westminster;    Unspecified,,Unspecified,Yes
+51_GS,BC,Comox;    Unspecified,,Unspecified,Yes
+54_GS,BC,Victoria;    Unspecified,,Unspecified,Yes
+48_GS,BC,Abbotsford;    Unspecified,,Unspecified,Yes
+57_GS,BC,Kamloops,,Unspecified,Yes
+58_GS,BC,Creston,,Unspecified,Yes
+750_CRAP,ON,Unspecified,,Unspecified,Yes
+749_CRAP,ON,Unspecified,,Unspecified,Yes
+748_CRAP,ON,Unspecified,,Unspecified,Yes
 746_CRAP,ON,Unspecified,,Unspecified,Yes
+751_CRAP,ON,Unspecified,,Unspecified,Yes
 745_CRAP,ON,Unspecified,,Unspecified,Yes
 744_CRAP,ON,Unspecified,,Unspecified,Yes
-741_CRAP,ON,Unspecified,,Unspecified,Yes
-742_CRAP,ON,Unspecified,,Unspecified,Yes
-748_CRAP,ON,Unspecified,,Unspecified,Yes
-740_CRAP,ON,Unspecified,,Unspecified,Yes
 743_CRAP,ON,Unspecified,,Unspecified,Yes
-749_CRAP,ON,Unspecified,,Unspecified,Yes
-758_CRAP,ON,Unspecified,,Unspecified,Yes
-751_CRAP,ON,Unspecified,,Unspecified,Yes
+822_CRAP,ON,Unspecified,,Unspecified,Yes
+747_CRAP,ON,Unspecified,,Unspecified,Yes
 752_CRAP,ON,Unspecified,,Unspecified,Yes
-753_CRAP,ON,Unspecified,,Unspecified,Yes
-754_CRAP,ON,Unspecified,,Unspecified,Yes
-815_CRAP,ON,Toronto,,Unspecified,Yes
 755_CRAP,ON,Unspecified,,Unspecified,Yes
+754_CRAP,ON,Unspecified,,Unspecified,Yes
 756_CRAP,ON,Unspecified,,Unspecified,Yes
 757_CRAP,ON,Unspecified,,Unspecified,Yes
-738_CRAP,ON,Unspecified,,Unspecified,Yes
 759_CRAP,ON,Unspecified,,Unspecified,Yes
-750_CRAP,ON,Unspecified,,Unspecified,Yes
-730_CRAP,ON,Unspecified,,Unspecified,Yes
-653_CRAP,ON,Unspecified,,Unspecified,Yes
-723_CRAP,ON,Unspecified,,Unspecified,Yes
-650_CRAP,ON,Unspecified,,Unspecified,Yes
-651_CRAP,ON,Unspecified,,Unspecified,Yes
-652_CRAP,ON,Unspecified,,Unspecified,Yes
 760_CRAP,ON,Unspecified,,Unspecified,Yes
+761_CRAP,ON,Unspecified,,Unspecified,Yes
+762_CRAP,ON,Unspecified,,Unspecified,Yes
+763_CRAP,ON,Unspecified,,Unspecified,Yes
+742_CRAP,ON,Unspecified,,Unspecified,Yes
+764_CRAP,ON,Unspecified,,Unspecified,Yes
+753_CRAP,ON,Unspecified,,Unspecified,Yes
+758_CRAP,ON,Unspecified,,Unspecified,Yes
+697_CRAP,ON,Unspecified,,Unspecified,Yes
+740_CRAP,ON,Unspecified,,Unspecified,Yes
+765_CRAP,ON,Unspecified,,Unspecified,Yes
 654_CRAP,ON,Unspecified,,Unspecified,Yes
 655_CRAP,ON,Unspecified,,Unspecified,Yes
 659_CRAP,ON,Unspecified,,Unspecified,Yes
 662_CRAP,ON,Unspecified,,Unspecified,Yes
 664_CRAP,ON,Unspecified,,Unspecified,Yes
-729_CRAP,ON,Unspecified,,Unspecified,Yes
 672_CRAP,ON,Unspecified,,Unspecified,Yes
+674_CRAP,ON,Unspecified,,Unspecified,Yes
 680_CRAP,ON,Unspecified,,Unspecified,Yes
 682_CRAP,ON,Unspecified,,Unspecified,Yes
 690_CRAP,ON,Unspecified,,Unspecified,Yes
-697_CRAP,ON,Unspecified,,Unspecified,Yes
+653_CRAP,ON,Unspecified,,Unspecified,Yes
 701_CRAP,ON,Unspecified,,Unspecified,Yes
 704_CRAP,ON,Unspecified,,Unspecified,Yes
 718_CRAP,ON,Unspecified,,Unspecified,Yes
 720_CRAP,ON,Unspecified,,Unspecified,Yes
-674_CRAP,ON,Unspecified,,Unspecified,Yes
-761_CRAP,ON,Unspecified,,Unspecified,Yes
-786_CRAP,ON,Unspecified,,Unspecified,Yes
-763_CRAP,ON,Unspecified,,Unspecified,Yes
-794_CRAP,ON,Toronto,,Unspecified,Yes
-795_CRAP,ON,Toronto,,Unspecified,Yes
+723_CRAP,ON,Unspecified,,Unspecified,Yes
+729_CRAP,ON,Unspecified,,Unspecified,Yes
+730_CRAP,ON,Unspecified,,Unspecified,Yes
+738_CRAP,ON,Unspecified,,Unspecified,Yes
+741_CRAP,ON,Unspecified,,Unspecified,Yes
+766_CRAP,ON,Unspecified,,Unspecified,Yes
 796_CRAP,ON,Toronto,,Unspecified,Yes
-797_CRAP,ON,Toronto,,Unspecified,Yes
-798_CRAP,ON,Toronto,,Unspecified,Yes
-799_CRAP,ON,Toronto,,Unspecified,Yes
+768_CRAP,ON,Unspecified,,Unspecified,Yes
 800_CRAP,ON,Toronto,,Unspecified,Yes
 801_CRAP,ON,Toronto,,Unspecified,Yes
 802_CRAP,ON,Toronto,,Unspecified,Yes
 803_CRAP,ON,Toronto,,Unspecified,Yes
-793_CRAP,ON,Unspecified,,Unspecified,Yes
 804_CRAP,ON,Toronto,,Unspecified,Yes
+805_CRAP,ON,Toronto,,Unspecified,Yes
 806_CRAP,ON,Toronto,,Unspecified,Yes
 807_CRAP,ON,Toronto,,Unspecified,Yes
 808_CRAP,ON,Toronto,,Unspecified,Yes
 809_CRAP,ON,Toronto,,Unspecified,Yes
+799_CRAP,ON,Toronto,,Unspecified,Yes
 810_CRAP,ON,Toronto,,Unspecified,Yes
-811_CRAP,ON,Toronto,,Unspecified,Yes
 812_CRAP,ON,Toronto,,Unspecified,Yes
 813_CRAP,ON,Toronto,,Unspecified,Yes
 814_CRAP,ON,Toronto,,Unspecified,Yes
-649_CRAP,ON,Unspecified,,Unspecified,Yes
-805_CRAP,ON,Toronto,,Unspecified,Yes
-762_CRAP,ON,Unspecified,,Unspecified,Yes
-792_CRAP,ON,Unspecified,,Unspecified,Yes
-790_CRAP,ON,Unspecified,,Unspecified,Yes
-764_CRAP,ON,Unspecified,,Unspecified,Yes
-765_CRAP,ON,Unspecified,,Unspecified,Yes
-766_CRAP,ON,Unspecified,,Unspecified,Yes
-767_CRAP,ON,Unspecified,,Unspecified,Yes
-768_CRAP,ON,Unspecified,,Unspecified,Yes
+815_CRAP,ON,Toronto,,Unspecified,Yes
+816_CRAP,ON,Unspecified,,Unspecified,Yes
+817_CRAP,ON,Unspecified,,Unspecified,Yes
+818_CRAP,ON,Unspecified,,Unspecified,Yes
+819_CRAP,ON,Unspecified,,Unspecified,Yes
+820_CRAP,ON,Unspecified,,Unspecified,Yes
+652_CRAP,ON,Unspecified,,Unspecified,Yes
+811_CRAP,ON,Toronto,,Unspecified,Yes
+798_CRAP,ON,Toronto,,Unspecified,Yes
+797_CRAP,ON,Toronto,,Unspecified,Yes
+795_CRAP,ON,Toronto,,Unspecified,Yes
 769_CRAP,ON,Unspecified,,Unspecified,Yes
 770_CRAP,ON,Unspecified,,Unspecified,Yes
 771_CRAP,ON,Unspecified,,Unspecified,Yes
 772_CRAP,ON,Unspecified,,Unspecified,Yes
 773_CRAP,ON,Unspecified,,Unspecified,Yes
-791_CRAP,ON,Unspecified,,Unspecified,Yes
 774_CRAP,ON,Unspecified,,Unspecified,Yes
+775_CRAP,ON,Unspecified,,Unspecified,Yes
 777_CRAP,ON,Unspecified,,Unspecified,Yes
 780_CRAP,ON,Unspecified,,Unspecified,Yes
 781_CRAP,ON,Unspecified,,Unspecified,Yes
@@ -675,50 +685,48 @@ id_victim,prov,city_town,address_intersection,postal_code,Check
 783_CRAP,ON,Unspecified,,Unspecified,Yes
 784_CRAP,ON,Unspecified,,Unspecified,Yes
 785_CRAP,ON,Unspecified,,Unspecified,Yes
+786_CRAP,ON,Unspecified,,Unspecified,Yes
 788_CRAP,ON,Unspecified,,Unspecified,Yes
 789_CRAP,ON,Unspecified,,Unspecified,Yes
-775_CRAP,ON,Unspecified,,Unspecified,Yes
-648_CRAP,ON,Unspecified,,Unspecified,Yes
-549_CRAP,QC,Unspecified,,Unspecified,Yes
-646_CRAP,ON,Unspecified,,Unspecified,Yes
-533_CRAP,QC,Unspecified,,Unspecified,Yes
-534_CRAP,QC,Unspecified,,Unspecified,Yes
-535_CRAP,QC,Unspecified,,Unspecified,Yes
-536_CRAP,QC,Unspecified,,Unspecified,Yes
-537_CRAP,QC,Unspecified,,Unspecified,Yes
-538_CRAP,QC,Unspecified,,Unspecified,Yes
-539_CRAP,QC,Unspecified,,Unspecified,Yes
-540_CRAP,QC,Unspecified,,Unspecified,Yes
-541_CRAP,QC,Unspecified,,Unspecified,Yes
+790_CRAP,ON,Unspecified,,Unspecified,Yes
+791_CRAP,ON,Unspecified,,Unspecified,Yes
+792_CRAP,ON,Unspecified,,Unspecified,Yes
+793_CRAP,ON,Unspecified,,Unspecified,Yes
+794_CRAP,ON,Toronto,,Unspecified,Yes
+767_CRAP,ON,Unspecified,,Unspecified,Yes
+651_CRAP,ON,Unspecified,,Unspecified,Yes
 542_CRAP,QC,Unspecified,,Unspecified,Yes
-532_CRAP,QC,Unspecified,,Unspecified,Yes
+649_CRAP,ON,Unspecified,,Unspecified,Yes
+823_CRAP,ON,Unspecified,,Unspecified,Yes
 543_CRAP,QC,Unspecified,,Unspecified,Yes
+544_CRAP,QC,Unspecified,,Unspecified,Yes
 545_CRAP,QC,Unspecified,,Unspecified,Yes
 546_CRAP,QC,Unspecified,,Unspecified,Yes
 547_CRAP,QC,Unspecified,,Unspecified,Yes
 548_CRAP,QC,Unspecified,,Unspecified,Yes
-816_CRAP,ON,Unspecified,,Unspecified,Yes
+549_CRAP,QC,Unspecified,,Unspecified,Yes
 550_CRAP,QC,Unspecified,,Unspecified,Yes
 551_CRAP,QC,Unspecified,,Unspecified,Yes
+541_CRAP,QC,Unspecified,,Unspecified,Yes
 552_CRAP,ON,Toronto,,Unspecified,Yes
-553_CRAP,ON,Toronto,,Unspecified,Yes
 554_CRAP,ON,Toronto,,Unspecified,Yes
-544_CRAP,QC,Unspecified,,Unspecified,Yes
 555_CRAP,ON,Toronto,,Unspecified,Yes
-531_CRAP,QC,Unspecified,,Unspecified,Yes
-529_CRAP,QC,Unspecified,,Unspecified,Yes
-507_CRAP,QC,Unspecified,,Unspecified,Yes
-508_CRAP,QC,Unspecified,,Unspecified,Yes
-509_CRAP,QC,Unspecified,,Unspecified,Yes
-510_CRAP,QC,Unspecified,,Unspecified,Yes
-511_CRAP,QC,Unspecified,,Unspecified,Yes
-512_CRAP,QC,Unspecified,,Unspecified,Yes
-513_CRAP,QC,Unspecified,,Unspecified,Yes
-514_CRAP,QC,Unspecified,,Unspecified,Yes
+556_CRAP,ON,Toronto,,Unspecified,Yes
+557_CRAP,ON,Toronto,,Unspecified,Yes
+558_CRAP,ON,Toronto,,Unspecified,Yes
+559_CRAP,ON,Toronto,,Unspecified,Yes
+560_CRAP,ON,Toronto,,Unspecified,Yes
+561_CRAP,ON,Toronto,,Unspecified,Yes
+562_CRAP,ON,Toronto,,Unspecified,Yes
+563_CRAP,ON,Toronto,,Unspecified,Yes
+553_CRAP,ON,Toronto,,Unspecified,Yes
+540_CRAP,QC,Unspecified,,Unspecified,Yes
+539_CRAP,QC,Unspecified,,Unspecified,Yes
+538_CRAP,QC,Unspecified,,Unspecified,Yes
 515_CRAP,QC,Unspecified,,Unspecified,Yes
 516_CRAP,QC,Unspecified,,Unspecified,Yes
-530_CRAP,QC,Unspecified,,Unspecified,Yes
 517_CRAP,QC,Unspecified,,Unspecified,Yes
+518_CRAP,QC,Unspecified,,Unspecified,Yes
 519_CRAP,QC,Unspecified,,Unspecified,Yes
 520_CRAP,QC,Unspecified,,Unspecified,Yes
 521_CRAP,QC,Unspecified,,Unspecified,Yes
@@ -729,13 +737,19 @@ id_victim,prov,city_town,address_intersection,postal_code,Check
 526_CRAP,QC,Unspecified,,Unspecified,Yes
 527_CRAP,QC,Unspecified,,Unspecified,Yes
 528_CRAP,QC,Unspecified,,Unspecified,Yes
-518_CRAP,QC,Unspecified,,Unspecified,Yes
-556_CRAP,ON,Toronto,,Unspecified,Yes
-557_CRAP,ON,Toronto,,Unspecified,Yes
-558_CRAP,ON,Toronto,,Unspecified,Yes
-618_CRAP,ON,Toronto,,Unspecified,Yes
-619_CRAP,ON,Toronto,,Unspecified,Yes
-621_CRAP,ON,Toronto,,Unspecified,Yes
+529_CRAP,QC,Unspecified,,Unspecified,Yes
+530_CRAP,QC,Unspecified,,Unspecified,Yes
+531_CRAP,QC,Unspecified,,Unspecified,Yes
+532_CRAP,QC,Unspecified,,Unspecified,Yes
+533_CRAP,QC,Unspecified,,Unspecified,Yes
+534_CRAP,QC,Unspecified,,Unspecified,Yes
+535_CRAP,QC,Unspecified,,Unspecified,Yes
+536_CRAP,QC,Unspecified,,Unspecified,Yes
+537_CRAP,QC,Unspecified,,Unspecified,Yes
+564_CRAP,ON,Toronto,,Unspecified,Yes
+565_CRAP,ON,Toronto,,Unspecified,Yes
+566_CRAP,ON,Toronto,,Unspecified,Yes
+567_CRAP,ON,Toronto,,Unspecified,Yes
 622_CRAP,ON,Toronto,,Unspecified,Yes
 623_CRAP,ON,Ottawa,,Unspecified,Yes
 624_CRAP,ON,Ottawa,,Unspecified,Yes
@@ -743,30 +757,26 @@ id_victim,prov,city_town,address_intersection,postal_code,Check
 626_CRAP,ON,Ottawa,,Unspecified,Yes
 627_CRAP,ON,Ottawa,,Unspecified,Yes
 628_CRAP,ON,Ottawa,,Unspecified,Yes
-614_CRAP,ON,Toronto,,Unspecified,Yes
 629_CRAP,ON,Ottawa,,Unspecified,Yes
+630_CRAP,ON,Ottawa,,Unspecified,Yes
 631_CRAP,ON,Ottawa,,Unspecified,Yes
 632_CRAP,ON,Ottawa,,Unspecified,Yes
 633_CRAP,ON,Ottawa,,Unspecified,Yes
 634_CRAP,ON,Ottawa,,Unspecified,Yes
+636_CRAP,ON,Ottawa,,Unspecified,Yes
 637_CRAP,ON,Ottawa,,Unspecified,Yes
 641_CRAP,ON,Ottawa,,Unspecified,Yes
 642_CRAP,ON,Unspecified,,Unspecified,Yes
 643_CRAP,ON,Unspecified,,Unspecified,Yes
 644_CRAP,ON,Unspecified,,Unspecified,Yes
 645_CRAP,ON,Unspecified,,Unspecified,Yes
-630_CRAP,ON,Ottawa,,Unspecified,Yes
-606_CRAP,ON,Toronto,,Unspecified,Yes
-599_CRAP,ON,Toronto,,Unspecified,Yes
-559_CRAP,ON,Toronto,,Unspecified,Yes
-560_CRAP,ON,Toronto,,Unspecified,Yes
-561_CRAP,ON,Toronto,,Unspecified,Yes
-562_CRAP,ON,Toronto,,Unspecified,Yes
-563_CRAP,ON,Toronto,,Unspecified,Yes
-564_CRAP,ON,Toronto,,Unspecified,Yes
-565_CRAP,ON,Toronto,,Unspecified,Yes
-566_CRAP,ON,Toronto,,Unspecified,Yes
-567_CRAP,ON,Toronto,,Unspecified,Yes
+646_CRAP,ON,Unspecified,,Unspecified,Yes
+647_CRAP,ON,Unspecified,,Unspecified,Yes
+648_CRAP,ON,Unspecified,,Unspecified,Yes
+621_CRAP,ON,Toronto,,Unspecified,Yes
+650_CRAP,ON,Unspecified,,Unspecified,Yes
+619_CRAP,ON,Toronto,,Unspecified,Yes
+614_CRAP,ON,Toronto,,Unspecified,Yes
 568_CRAP,ON,Toronto,,Unspecified,Yes
 569_CRAP,ON,Toronto,,Unspecified,Yes
 570_CRAP,ON,Toronto,,Unspecified,Yes
@@ -779,10 +789,19 @@ id_victim,prov,city_town,address_intersection,postal_code,Check
 577_CRAP,ON,Toronto,,Unspecified,Yes
 582_CRAP,ON,Toronto,,Unspecified,Yes
 583_CRAP,ON,Toronto,,Unspecified,Yes
-647_CRAP,ON,Unspecified,,Unspecified,Yes
-817_CRAP,ON,Unspecified,,Unspecified,Yes
-880_CRAP,BC,Vancouver,,Unspecified,Yes
-819_CRAP,ON,Unspecified,,Unspecified,Yes
+586_CRAP,ON,Toronto,,Unspecified,Yes
+595_CRAP,ON,Toronto,,Unspecified,Yes
+596_CRAP,ON,Toronto,,Unspecified,Yes
+599_CRAP,ON,Toronto,,Unspecified,Yes
+600_CRAP,ON,Toronto,,Unspecified,Yes
+601_CRAP,ON,Toronto,,Unspecified,Yes
+606_CRAP,ON,Toronto,,Unspecified,Yes
+611_CRAP,ON,Toronto,,Unspecified,Yes
+618_CRAP,ON,Toronto,,Unspecified,Yes
+824_CRAP,ON,Unspecified,,Unspecified,Yes
+912_CRAP,BC,Unspecified,,Unspecified,Yes
+826_CRAP,ON,Unspecified,,Unspecified,Yes
+1141_CRAP,AB,Unspecified,,Unspecified,Yes
 1142_CRAP,AB,Edmonton,,Unspecified,Yes
 1143_CRAP,AB,Edmonton,,Unspecified,Yes
 1144_CRAP,AB,Edmonton,,Unspecified,Yes
@@ -792,9 +811,9 @@ id_victim,prov,city_town,address_intersection,postal_code,Check
 1148_CRAP,AB,Edmonton,,Unspecified,Yes
 1149_CRAP,AB,Edmonton,,Unspecified,Yes
 1150_CRAP,AB,Edmonton,,Unspecified,Yes
+1140_CRAP,AB,Unspecified,,Unspecified,Yes
 1151_CRAP,AB,Edmonton,,Unspecified,Yes
-1141_CRAP,AB,Unspecified,,Unspecified,Yes
-1152_CRAP,AB,Edmonton,,Unspecified,Yes
+1153_CRAP,AB,Edmonton,,Unspecified,Yes
 1154_CRAP,AB,Edmonton,,Unspecified,Yes
 1155_CRAP,AB,Edmonton,,Unspecified,Yes
 1156_CRAP,AB,Edmonton,,Unspecified,Yes
@@ -804,11 +823,12 @@ id_victim,prov,city_town,address_intersection,postal_code,Check
 1160_CRAP,AB,Edmonton,,Unspecified,Yes
 1161_CRAP,SK,Unspecified,,Unspecified,Yes
 1162_CRAP,SK,Unspecified,,Unspecified,Yes
-1163_CRAP,SK,Unspecified,,Unspecified,Yes
-1153_CRAP,AB,Edmonton,,Unspecified,Yes
-1164_CRAP,SK,Unspecified,,Unspecified,Yes
-1140_CRAP,AB,Unspecified,,Unspecified,Yes
+1152_CRAP,AB,Edmonton,,Unspecified,Yes
+1139_CRAP,AB,Unspecified,,Unspecified,Yes
 1138_CRAP,AB,Unspecified,,Unspecified,Yes
+1137_CRAP,AB,Unspecified,,Unspecified,Yes
+1058_CRAP,BC,Unspecified,,Unspecified,Yes
+1059_CRAP,BC,Unspecified,,Unspecified,Yes
 1060_CRAP,AB,Unspecified,,Unspecified,Yes
 1061_CRAP,AB,Unspecified,,Unspecified,Yes
 1062_CRAP,AB,Unspecified,,Unspecified,Yes
@@ -818,8 +838,8 @@ id_victim,prov,city_town,address_intersection,postal_code,Check
 1066_CRAP,AB,Unspecified,,Unspecified,Yes
 1074_CRAP,AB,Unspecified,,Unspecified,Yes
 1078_CRAP,AB,Unspecified,,Unspecified,Yes
-1139_CRAP,AB,Unspecified,,Unspecified,Yes
 1089_CRAP,AB,Unspecified,,Unspecified,Yes
+1090_CRAP,AB,Unspecified,,Unspecified,Yes
 1099_CRAP,AB,Unspecified,,Unspecified,Yes
 1100_CRAP,AB,Unspecified,,Unspecified,Yes
 1103_CRAP,AB,Unspecified,,Unspecified,Yes
@@ -828,11 +848,11 @@ id_victim,prov,city_town,address_intersection,postal_code,Check
 1134_CRAP,AB,Unspecified,,Unspecified,Yes
 1135_CRAP,AB,Unspecified,,Unspecified,Yes
 1136_CRAP,AB,Unspecified,,Unspecified,Yes
-1137_CRAP,AB,Unspecified,,Unspecified,Yes
-1090_CRAP,AB,Unspecified,,Unspecified,Yes
-1059_CRAP,BC,Unspecified,,Unspecified,Yes
-1165_CRAP,SK,Unspecified,,Unspecified,Yes
-1167_CRAP,SK,Unspecified,,Unspecified,Yes
+1163_CRAP,SK,Unspecified,,Unspecified,Yes
+1057_CRAP,BC,Unspecified,,Unspecified,Yes
+1164_CRAP,SK,Unspecified,,Unspecified,Yes
+1166_CRAP,SK,Unspecified,,Unspecified,Yes
+1230_CRAP,MB,Unspecified,,Unspecified,Yes
 1231_CRAP,MB,Unspecified,,Unspecified,Yes
 1232_CRAP,MB,Unspecified,,Unspecified,Yes
 1234_CRAP,NS,Unspecified,,Unspecified,Yes
@@ -853,11 +873,12 @@ id_victim,prov,city_town,address_intersection,postal_code,Check
 1269_CRAP,NU,Unspecified,,Unspecified,Yes
 1271_CRAP,NU,Unspecified,,Unspecified,Yes
 1272_CRAP,NU,Unspecified,,Unspecified,Yes
-506_CRAP,QC,Unspecified,,Unspecified,Yes
+514_CRAP,QC,Unspecified,,Unspecified,Yes
 1252_CRAP,NB,Unspecified,,Unspecified,Yes
-1166_CRAP,SK,Unspecified,,Unspecified,Yes
 1228_CRAP,MB,Unspecified,,Unspecified,Yes
+1224_CRAP,MB,Unspecified,,Unspecified,Yes
 1223_CRAP,MB,Unspecified,,Unspecified,Yes
+1167_CRAP,SK,Unspecified,,Unspecified,Yes
 1168_CRAP,SK,Unspecified,,Unspecified,Yes
 1169_CRAP,SK,Unspecified,,Unspecified,Yes
 1170_CRAP,SK,Unspecified,,Unspecified,Yes
@@ -867,8 +888,8 @@ id_victim,prov,city_town,address_intersection,postal_code,Check
 1188_CRAP,SK,Unspecified,,Unspecified,Yes
 1189_CRAP,SK,Unspecified,,Unspecified,Yes
 1190_CRAP,SK,Unspecified,,Unspecified,Yes
-1224_CRAP,MB,Unspecified,,Unspecified,Yes
 1191_CRAP,SK,Unspecified,,Unspecified,Yes
+1192_CRAP,SK,Unspecified,,Unspecified,Yes
 1193_CRAP,SK,Unspecified,,Unspecified,Yes
 1194_CRAP,MB,Unspecified,,Unspecified,Yes
 1195_CRAP,MB,Unspecified,,Unspecified,Yes
@@ -878,48 +899,42 @@ id_victim,prov,city_town,address_intersection,postal_code,Check
 1213_CRAP,MB,Unspecified,,Unspecified,Yes
 1217_CRAP,MB,Unspecified,,Unspecified,Yes
 1222_CRAP,MB,Unspecified,,Unspecified,Yes
-1192_CRAP,SK,Unspecified,,Unspecified,Yes
-1058_CRAP,BC,Unspecified,,Unspecified,Yes
-1057_CRAP,BC,Unspecified,,Unspecified,Yes
+1165_CRAP,SK,Unspecified,,Unspecified,Yes
 1056_CRAP,BC,Unspecified,,Unspecified,Yes
-847_CRAP,ON,Unspecified,,Unspecified,Yes
-848_CRAP,ON,Unspecified,,Unspecified,Yes
-849_CRAP,ON,Unspecified,,Unspecified,Yes
-850_CRAP,ON,Unspecified,,Unspecified,Yes
-851_CRAP,ON,Unspecified,,Unspecified,Yes
-852_CRAP,ON,Unspecified,,Unspecified,Yes
-853_CRAP,ON,Unspecified,,Unspecified,Yes
+1055_CRAP,BC,Unspecified,,Unspecified,Yes
+1054_CRAP,BC,Unspecified,,Unspecified,Yes
 854_CRAP,ON,Unspecified,,Unspecified,Yes
 855_CRAP,ON,Unspecified,,Unspecified,Yes
 856_CRAP,ON,Unspecified,,Unspecified,Yes
-846_CRAP,ON,Unspecified,,Unspecified,Yes
 857_CRAP,ON,Unspecified,,Unspecified,Yes
+858_CRAP,ON,Unspecified,,Unspecified,Yes
 859_CRAP,ON,Unspecified,,Unspecified,Yes
 860_CRAP,ON,Unspecified,,Unspecified,Yes
 861_CRAP,ON,Unspecified,,Unspecified,Yes
 862_CRAP,ON,Unspecified,,Unspecified,Yes
 863_CRAP,ON,Unspecified,,Unspecified,Yes
+853_CRAP,ON,Unspecified,,Unspecified,Yes
 864_CRAP,ON,Unspecified,,Unspecified,Yes
-865_CRAP,ON,Unspecified,,Unspecified,Yes
 866_CRAP,ON,Unspecified,,Unspecified,Yes
 867_CRAP,ON,Unspecified,,Unspecified,Yes
 868_CRAP,ON,Unspecified,,Unspecified,Yes
-858_CRAP,ON,Unspecified,,Unspecified,Yes
 869_CRAP,ON,Unspecified,,Unspecified,Yes
-845_CRAP,ON,Unspecified,,Unspecified,Yes
-843_CRAP,ON,Unspecified,,Unspecified,Yes
-820_CRAP,ON,Unspecified,,Unspecified,Yes
-822_CRAP,ON,Unspecified,,Unspecified,Yes
-823_CRAP,ON,Unspecified,,Unspecified,Yes
-824_CRAP,ON,Unspecified,,Unspecified,Yes
-825_CRAP,ON,Unspecified,,Unspecified,Yes
-826_CRAP,ON,Unspecified,,Unspecified,Yes
+870_CRAP,ON,Unspecified,,Unspecified,Yes
+871_CRAP,ON,Unspecified,,Unspecified,Yes
+872_CRAP,ON,Unspecified,,Unspecified,Yes
+873_CRAP,ON,Unspecified,,Unspecified,Yes
+874_CRAP,ON,Unspecified,,Unspecified,Yes
+875_CRAP,ON,Unspecified,,Unspecified,Yes
+865_CRAP,ON,Unspecified,,Unspecified,Yes
+852_CRAP,ON,Unspecified,,Unspecified,Yes
+851_CRAP,ON,Unspecified,,Unspecified,Yes
+850_CRAP,ON,Unspecified,,Unspecified,Yes
 827_CRAP,ON,Unspecified,,Unspecified,Yes
 828_CRAP,ON,Unspecified,,Unspecified,Yes
 829_CRAP,ON,Unspecified,,Unspecified,Yes
 830_CRAP,ON,Unspecified,,Unspecified,Yes
-844_CRAP,ON,Unspecified,,Unspecified,Yes
 831_CRAP,ON,Unspecified,,Unspecified,Yes
+832_CRAP,ON,Unspecified,,Unspecified,Yes
 833_CRAP,ON,Unspecified,,Unspecified,Yes
 834_CRAP,ON,Unspecified,,Unspecified,Yes
 835_CRAP,ON,Unspecified,,Unspecified,Yes
@@ -930,13 +945,23 @@ id_victim,prov,city_town,address_intersection,postal_code,Check
 840_CRAP,ON,Unspecified,,Unspecified,Yes
 841_CRAP,ON,Unspecified,,Unspecified,Yes
 842_CRAP,ON,Unspecified,,Unspecified,Yes
-832_CRAP,ON,Unspecified,,Unspecified,Yes
-870_CRAP,ON,Unspecified,,Unspecified,Yes
-871_CRAP,ON,Unspecified,,Unspecified,Yes
-872_CRAP,ON,Unspecified,,Unspecified,Yes
+843_CRAP,ON,Unspecified,,Unspecified,Yes
+844_CRAP,ON,Unspecified,,Unspecified,Yes
+845_CRAP,ON,Unspecified,,Unspecified,Yes
+846_CRAP,ON,Unspecified,,Unspecified,Yes
+847_CRAP,ON,Unspecified,,Unspecified,Yes
+848_CRAP,ON,Unspecified,,Unspecified,Yes
+849_CRAP,ON,Unspecified,,Unspecified,Yes
+876_CRAP,ON,Unspecified,,Unspecified,Yes
+877_CRAP,BC,Vancouver,,Unspecified,Yes
+878_CRAP,BC,Vancouver,,Unspecified,Yes
+879_CRAP,BC,Vancouver,,Unspecified,Yes
+917_CRAP,BC,Unspecified,,Unspecified,Yes
+918_CRAP,BC,Unspecified,,Unspecified,Yes
+919_CRAP,BC,Unspecified,,Unspecified,Yes
+920_CRAP,BC,Unspecified,,Unspecified,Yes
 921_CRAP,BC,Unspecified,,Unspecified,Yes
-932_CRAP,BC,Unspecified,,Unspecified,Yes
-944_CRAP,BC,Unspecified,,Unspecified,Yes
+923_CRAP,BC,Unspecified,,Unspecified,Yes
 955_CRAP,BC,Unspecified,,Unspecified,Yes
 974_CRAP,BC,Unspecified,,Unspecified,Yes
 985_CRAP,BC,Unspecified,,Unspecified,Yes
@@ -944,8 +969,8 @@ id_victim,prov,city_town,address_intersection,postal_code,Check
 1002_CRAP,BC,Unspecified,,Unspecified,Yes
 1003_CRAP,BC,Unspecified,,Unspecified,Yes
 1004_CRAP,BC,Unspecified,,Unspecified,Yes
-920_CRAP,BC,Unspecified,,Unspecified,Yes
 1005_CRAP,BC,Unspecified,,Unspecified,Yes
+1006_CRAP,BC,Unspecified,,Unspecified,Yes
 1007_CRAP,BC,Unspecified,,Unspecified,Yes
 1043_CRAP,BC,Unspecified,,Unspecified,Yes
 1047_CRAP,BC,Unspecified,,Unspecified,Yes
@@ -954,19 +979,11 @@ id_victim,prov,city_town,address_intersection,postal_code,Check
 1051_CRAP,BC,Unspecified,,Unspecified,Yes
 1052_CRAP,BC,Unspecified,,Unspecified,Yes
 1053_CRAP,BC,Unspecified,,Unspecified,Yes
-1054_CRAP,BC,Unspecified,,Unspecified,Yes
-1055_CRAP,BC,Unspecified,,Unspecified,Yes
-1006_CRAP,BC,Unspecified,,Unspecified,Yes
-919_CRAP,BC,Unspecified,,Unspecified,Yes
-918_CRAP,BC,Unspecified,,Unspecified,Yes
-917_CRAP,BC,Unspecified,,Unspecified,Yes
-873_CRAP,ON,Unspecified,,Unspecified,Yes
-874_CRAP,ON,Unspecified,,Unspecified,Yes
-875_CRAP,ON,Unspecified,,Unspecified,Yes
-876_CRAP,ON,Unspecified,,Unspecified,Yes
-877_CRAP,BC,Vancouver,,Unspecified,Yes
-878_CRAP,BC,Vancouver,,Unspecified,Yes
-879_CRAP,BC,Vancouver,,Unspecified,Yes
+916_CRAP,BC,Unspecified,,Unspecified,Yes
+825_CRAP,ON,Unspecified,,Unspecified,Yes
+915_CRAP,BC,Unspecified,,Unspecified,Yes
+913_CRAP,BC,Unspecified,,Unspecified,Yes
+880_CRAP,BC,Vancouver,,Unspecified,Yes
 881_CRAP,BC,Vancouver,,Unspecified,Yes
 882_CRAP,BC,Vancouver,,Unspecified,Yes
 883_CRAP,BC,Vancouver,,Unspecified,Yes
@@ -976,20 +993,23 @@ id_victim,prov,city_town,address_intersection,postal_code,Check
 887_CRAP,BC,Vancouver,,Unspecified,Yes
 888_CRAP,BC,Vancouver,,Unspecified,Yes
 889_CRAP,BC,Vancouver,,Unspecified,Yes
+890_CRAP,BC,Vancouver,,Unspecified,Yes
+891_CRAP,BC,Vancouver,,Unspecified,Yes
+892_CRAP,BC,Vancouver,,Unspecified,Yes
+893_CRAP,BC,Vancouver,,Unspecified,Yes
+895_CRAP,BC,Vancouver,,Unspecified,Yes
+896_CRAP,BC,Vancouver,,Unspecified,Yes
+897_CRAP,BC,Vancouver,,Unspecified,Yes
+898_CRAP,BC,Vancouver,,Unspecified,Yes
+905_CRAP,BC,Vancouver,,Unspecified,Yes
 906_CRAP,BC,Vancouver,,Unspecified,Yes
 907_CRAP,BC,Vancouver,,Unspecified,Yes
-912_CRAP,BC,Unspecified,,Unspecified,Yes
-913_CRAP,BC,Unspecified,,Unspecified,Yes
+908_CRAP,BC,Vancouver,,Unspecified,Yes
+909_CRAP,BC,Vancouver,,Unspecified,Yes
 914_CRAP,BC,Unspecified,,Unspecified,Yes
-915_CRAP,BC,Unspecified,,Unspecified,Yes
-916_CRAP,BC,Unspecified,,Unspecified,Yes
-818_CRAP,ON,Unspecified,,Unspecified,Yes
-505_CRAP,QC,Unspecified,,Unspecified,Yes
-148_CRAP,QC,Unspecified,,Unspecified,Yes
-503_CRAP,QC,Unspecified,,Unspecified,Yes
-162_CRAP,QC,Unspecified,,Unspecified,Yes
-163_CRAP,QC,Unspecified,,Unspecified,Yes
-164_CRAP,QC,Unspecified,,Unspecified,Yes
+513_CRAP,QC,Unspecified,,Unspecified,Yes
+121_CRAP,QC,Montreal,,Unspecified,Yes
+511_CRAP,QC,Unspecified,,Unspecified,Yes
 165_CRAP,QC,Unspecified,,Unspecified,Yes
 166_CRAP,QC,Unspecified,,Unspecified,Yes
 167_CRAP,QC,Unspecified,,Unspecified,Yes
@@ -997,11 +1017,11 @@ id_victim,prov,city_town,address_intersection,postal_code,Check
 169_CRAP,QC,Unspecified,,Unspecified,Yes
 170_CRAP,QC,Unspecified,,Unspecified,Yes
 171_CRAP,QC,Unspecified,,Unspecified,Yes
-161_CRAP,QC,Unspecified,,Unspecified,Yes
 172_CRAP,QC,Unspecified,,Unspecified,Yes
+173_CRAP,QC,Unspecified,,Unspecified,Yes
 174_CRAP,QC,Unspecified,,Unspecified,Yes
+164_CRAP,QC,Unspecified,,Unspecified,Yes
 175_CRAP,QC,Unspecified,,Unspecified,Yes
-176_CRAP,QC,Unspecified,,Unspecified,Yes
 178_CRAP,QC,Unspecified,,Unspecified,Yes
 179_CRAP,QC,Unspecified,,Unspecified,Yes
 183_CRAP,QC,Unspecified,,Unspecified,Yes
@@ -1009,12 +1029,13 @@ id_victim,prov,city_town,address_intersection,postal_code,Check
 187_CRAP,QC,Unspecified,,Unspecified,Yes
 189_CRAP,QC,Unspecified,,Unspecified,Yes
 195_CRAP,QC,Unspecified,,Unspecified,Yes
-173_CRAP,QC,Unspecified,,Unspecified,Yes
 196_CRAP,QC,Unspecified,,Unspecified,Yes
-160_CRAP,QC,Unspecified,,Unspecified,Yes
-158_CRAP,QC,Unspecified,,Unspecified,Yes
-136_CRAP,QC,Montreal,,Unspecified,Yes
-137_CRAP,QC,Montreal,,Unspecified,Yes
+197_CRAP,QC,Unspecified,,Unspecified,Yes
+200_CRAP,QC,Unspecified,,Unspecified,Yes
+176_CRAP,QC,Unspecified,,Unspecified,Yes
+163_CRAP,QC,Unspecified,,Unspecified,Yes
+162_CRAP,QC,Unspecified,,Unspecified,Yes
+161_CRAP,QC,Unspecified,,Unspecified,Yes
 138_CRAP,QC,Montreal,,Unspecified,Yes
 139_CRAP,QC,Montreal,,Unspecified,Yes
 140_CRAP,QC,Montreal,,Unspecified,Yes
@@ -1023,9 +1044,9 @@ id_victim,prov,city_town,address_intersection,postal_code,Check
 143_CRAP,QC,Montreal,,Unspecified,Yes
 144_CRAP,QC,Montreal,,Unspecified,Yes
 145_CRAP,QC,Montreal,,Unspecified,Yes
-159_CRAP,QC,Unspecified,,Unspecified,Yes
 146_CRAP,QC,Montreal,,Unspecified,Yes
-1273_CRAP,NU,Unspecified,,Unspecified,Yes
+147_CRAP,QC,Montreal,,Unspecified,Yes
+148_CRAP,QC,Unspecified,,Unspecified,Yes
 149_CRAP,QC,Unspecified,,Unspecified,Yes
 150_CRAP,QC,Unspecified,,Unspecified,Yes
 151_CRAP,QC,Unspecified,,Unspecified,Yes
@@ -1035,46 +1056,46 @@ id_victim,prov,city_town,address_intersection,postal_code,Check
 155_CRAP,QC,Unspecified,,Unspecified,Yes
 156_CRAP,QC,Unspecified,,Unspecified,Yes
 157_CRAP,QC,Unspecified,,Unspecified,Yes
-147_CRAP,QC,Montreal,,Unspecified,Yes
-135_CRAP,QC,Montreal,,Unspecified,Yes
-197_CRAP,QC,Unspecified,,Unspecified,Yes
+158_CRAP,QC,Unspecified,,Unspecified,Yes
+159_CRAP,QC,Unspecified,,Unspecified,Yes
+160_CRAP,QC,Unspecified,,Unspecified,Yes
 201_CRAP,QC,Unspecified,,Unspecified,Yes
-267_CRAP,QC,Unspecified,,Unspecified,Yes
-268_CRAP,QC,Unspecified,,Unspecified,Yes
-269_CRAP,QC,Unspecified,,Unspecified,Yes
-270_CRAP,QC,Unspecified,,Unspecified,Yes
+137_CRAP,QC,Montreal,,Unspecified,Yes
+202_CRAP,QC,Unspecified,,Unspecified,Yes
+207_CRAP,QC,Unspecified,,Unspecified,Yes
 271_CRAP,QC,Unspecified,,Unspecified,Yes
 272_CRAP,QC,Unspecified,,Unspecified,Yes
 273_CRAP,QC,Unspecified,,Unspecified,Yes
 274_CRAP,QC,Unspecified,,Unspecified,Yes
 275_CRAP,QC,Unspecified,,Unspecified,Yes
 276_CRAP,QC,Unspecified,,Unspecified,Yes
-266_CRAP,QC,Unspecified,,Unspecified,Yes
 277_CRAP,QC,Unspecified,,Unspecified,Yes
+278_CRAP,QC,Unspecified,,Unspecified,Yes
 279_CRAP,QC,Unspecified,,Unspecified,Yes
 280_CRAP,QC,Unspecified,,Unspecified,Yes
+270_CRAP,QC,Unspecified,,Unspecified,Yes
 281_CRAP,QC,Unspecified,,Unspecified,Yes
-282_CRAP,QC,Unspecified,,Unspecified,Yes
 283_CRAP,QC,Unspecified,,Unspecified,Yes
 284_CRAP,QC,Unspecified,,Unspecified,Yes
 285_CRAP,QC,Unspecified,,Unspecified,Yes
 286_CRAP,QC,Unspecified,,Unspecified,Yes
 287_CRAP,QC,Unspecified,,Unspecified,Yes
 288_CRAP,QC,Unspecified,,Unspecified,Yes
-278_CRAP,QC,Unspecified,,Unspecified,Yes
-200_CRAP,QC,Unspecified,,Unspecified,Yes
-265_CRAP,QC,Unspecified,,Unspecified,Yes
-263_CRAP,QC,Unspecified,,Unspecified,Yes
-202_CRAP,QC,Unspecified,,Unspecified,Yes
-203_CRAP,QC,Unspecified,,Unspecified,Yes
-207_CRAP,QC,Unspecified,,Unspecified,Yes
+289_CRAP,QC,Unspecified,,Unspecified,Yes
+290_CRAP,QC,Unspecified,,Unspecified,Yes
+291_CRAP,QC,Unspecified,,Unspecified,Yes
+292_CRAP,QC,Unspecified,,Unspecified,Yes
+282_CRAP,QC,Unspecified,,Unspecified,Yes
+269_CRAP,QC,Unspecified,,Unspecified,Yes
+268_CRAP,QC,Unspecified,,Unspecified,Yes
+267_CRAP,QC,Unspecified,,Unspecified,Yes
 216_CRAP,QC,Unspecified,,Unspecified,Yes
 218_CRAP,QC,Unspecified,,Unspecified,Yes
 219_CRAP,QC,Unspecified,,Unspecified,Yes
 220_CRAP,QC,Unspecified,,Unspecified,Yes
 221_CRAP,QC,Unspecified,,Unspecified,Yes
-264_CRAP,QC,Unspecified,,Unspecified,Yes
 222_CRAP,QC,Unspecified,,Unspecified,Yes
+225_CRAP,QC,Unspecified,,Unspecified,Yes
 238_CRAP,QC,Unspecified,,Unspecified,Yes
 247_CRAP,QC,Unspecified,,Unspecified,Yes
 248_CRAP,QC,Unspecified,,Unspecified,Yes
@@ -1085,11 +1106,14 @@ id_victim,prov,city_town,address_intersection,postal_code,Check
 260_CRAP,QC,Unspecified,,Unspecified,Yes
 261_CRAP,QC,Unspecified,,Unspecified,Yes
 262_CRAP,QC,Unspecified,,Unspecified,Yes
-225_CRAP,QC,Unspecified,,Unspecified,Yes
+263_CRAP,QC,Unspecified,,Unspecified,Yes
+264_CRAP,QC,Unspecified,,Unspecified,Yes
+265_CRAP,QC,Unspecified,,Unspecified,Yes
+266_CRAP,QC,Unspecified,,Unspecified,Yes
+203_CRAP,QC,Unspecified,,Unspecified,Yes
+136_CRAP,QC,Montreal,,Unspecified,Yes
+135_CRAP,QC,Montreal,,Unspecified,Yes
 134_CRAP,QC,Montreal,,Unspecified,Yes
-133_CRAP,QC,Montreal,,Unspecified,Yes
-132_CRAP,QC,Montreal,,Unspecified,Yes
-26_CRAP,QC,Montreal,,Unspecified,Yes
 27_CRAP,QC,Montreal,,Unspecified,Yes
 31_CRAP,QC,Montreal,,Unspecified,Yes
 33_CRAP,QC,Montreal,,Unspecified,Yes
@@ -1098,9 +1122,9 @@ id_victim,prov,city_town,address_intersection,postal_code,Check
 52_CRAP,QC,Montreal,,Unspecified,Yes
 54_CRAP,QC,Montreal,,Unspecified,Yes
 66_CRAP,QC,Montreal,,Unspecified,Yes
-25_CRAP,QC,Montreal,,Unspecified,Yes
 67_CRAP,QC,Montreal,,Unspecified,Yes
-69_CRAP,QC,Montreal,,Unspecified,Yes
+26_CRAP,QC,Montreal,,Unspecified,Yes
+68_CRAP,QC,Montreal,,Unspecified,Yes
 70_CRAP,QC,Montreal,,Unspecified,Yes
 71_CRAP,QC,Montreal,,Unspecified,Yes
 72_CRAP,QC,Montreal,,Unspecified,Yes
@@ -1110,10 +1134,11 @@ id_victim,prov,city_town,address_intersection,postal_code,Check
 76_CRAP,QC,Montreal,,Unspecified,Yes
 77_CRAP,QC,Montreal,,Unspecified,Yes
 78_CRAP,QC,Montreal,,Unspecified,Yes
-68_CRAP,QC,Montreal,,Unspecified,Yes
 79_CRAP,QC,Montreal,,Unspecified,Yes
+69_CRAP,QC,Montreal,,Unspecified,Yes
+25_CRAP,QC,Montreal,,Unspecified,Yes
 24_CRAP,QC,Montreal,,Unspecified,Yes
-22_CRAP,QC,Montreal,,Unspecified,Yes
+23_CRAP,QC,Montreal,,Unspecified,Yes
 0_CRAP,QC,Montreal,,Unspecified,Yes
 1_CRAP,QC,Montreal,,Unspecified,Yes
 2_CRAP,QC,Montreal,,Unspecified,Yes
@@ -1124,8 +1149,8 @@ id_victim,prov,city_town,address_intersection,postal_code,Check
 7_CRAP,QC,Montreal,,Unspecified,Yes
 8_CRAP,QC,Montreal,,Unspecified,Yes
 9_CRAP,QC,Montreal,,Unspecified,Yes
-23_CRAP,QC,Montreal,,Unspecified,Yes
 10_CRAP,QC,Montreal,,Unspecified,Yes
+11_CRAP,QC,Montreal,,Unspecified,Yes
 12_CRAP,QC,Montreal,,Unspecified,Yes
 13_CRAP,QC,Montreal,,Unspecified,Yes
 14_CRAP,QC,Montreal,,Unspecified,Yes
@@ -1136,11 +1161,11 @@ id_victim,prov,city_town,address_intersection,postal_code,Check
 19_CRAP,QC,Montreal,,Unspecified,Yes
 20_CRAP,QC,Montreal,,Unspecified,Yes
 21_CRAP,QC,Montreal,,Unspecified,Yes
-11_CRAP,QC,Montreal,,Unspecified,Yes
+22_CRAP,QC,Montreal,,Unspecified,Yes
 80_CRAP,QC,Montreal,,Unspecified,Yes
 81_CRAP,QC,Montreal,,Unspecified,Yes
 82_CRAP,QC,Montreal,,Unspecified,Yes
-110_CRAP,QC,Montreal,,Unspecified,Yes
+83_CRAP,QC,Montreal,,Unspecified,Yes
 111_CRAP,QC,Montreal,,Unspecified,Yes
 112_CRAP,QC,Montreal,,Unspecified,Yes
 113_CRAP,QC,Montreal,,Unspecified,Yes
@@ -1150,8 +1175,8 @@ id_victim,prov,city_town,address_intersection,postal_code,Check
 117_CRAP,QC,Montreal,,Unspecified,Yes
 118_CRAP,QC,Montreal,,Unspecified,Yes
 119_CRAP,QC,Montreal,,Unspecified,Yes
-109_CRAP,QC,Montreal,,Unspecified,Yes
 120_CRAP,QC,Montreal,,Unspecified,Yes
+1273_CRAP,NU,Unspecified,,Unspecified,Yes
 122_CRAP,QC,Montreal,,Unspecified,Yes
 123_CRAP,QC,Montreal,,Unspecified,Yes
 124_CRAP,QC,Montreal,,Unspecified,Yes
@@ -1162,11 +1187,12 @@ id_victim,prov,city_town,address_intersection,postal_code,Check
 129_CRAP,QC,Montreal,,Unspecified,Yes
 130_CRAP,QC,Montreal,,Unspecified,Yes
 131_CRAP,QC,Montreal,,Unspecified,Yes
-121_CRAP,QC,Montreal,,Unspecified,Yes
-108_CRAP,QC,Montreal,,Unspecified,Yes
+132_CRAP,QC,Montreal,,Unspecified,Yes
+133_CRAP,QC,Montreal,,Unspecified,Yes
+110_CRAP,QC,Montreal,,Unspecified,Yes
+293_CRAP,QC,Unspecified,,Unspecified,Yes
+109_CRAP,QC,Montreal,,Unspecified,Yes
 107_CRAP,QC,Montreal,,Unspecified,Yes
-106_CRAP,QC,Montreal,,Unspecified,Yes
-83_CRAP,QC,Montreal,,Unspecified,Yes
 84_CRAP,QC,Montreal,,Unspecified,Yes
 85_CRAP,QC,Montreal,,Unspecified,Yes
 86_CRAP,QC,Montreal,,Unspecified,Yes
@@ -1189,48 +1215,43 @@ id_victim,prov,city_town,address_intersection,postal_code,Check
 103_CRAP,QC,Montreal,,Unspecified,Yes
 104_CRAP,QC,Montreal,,Unspecified,Yes
 105_CRAP,QC,Montreal,,Unspecified,Yes
-289_CRAP,QC,Unspecified,,Unspecified,Yes
-504_CRAP,QC,Unspecified,,Unspecified,Yes
-290_CRAP,QC,Unspecified,,Unspecified,Yes
-292_CRAP,QC,Unspecified,,Unspecified,Yes
-427_CRAP,QC,Unspecified,,Unspecified,Yes
-428_CRAP,QC,Unspecified,,Unspecified,Yes
-429_CRAP,QC,Unspecified,,Unspecified,Yes
-430_CRAP,QC,Unspecified,,Unspecified,Yes
-431_CRAP,QC,Unspecified,,Unspecified,Yes
-433_CRAP,QC,Unspecified,,Unspecified,Yes
-434_CRAP,QC,Unspecified,,Unspecified,Yes
+106_CRAP,QC,Montreal,,Unspecified,Yes
+108_CRAP,QC,Montreal,,Unspecified,Yes
+512_CRAP,QC,Unspecified,,Unspecified,Yes
+294_CRAP,QC,Unspecified,,Unspecified,Yes
+296_CRAP,QC,Unspecified,,Unspecified,Yes
 435_CRAP,QC,Unspecified,,Unspecified,Yes
 436_CRAP,QC,Unspecified,,Unspecified,Yes
 437_CRAP,QC,Unspecified,,Unspecified,Yes
-426_CRAP,QC,Unspecified,,Unspecified,Yes
 438_CRAP,QC,Unspecified,,Unspecified,Yes
+439_CRAP,QC,Unspecified,,Unspecified,Yes
 440_CRAP,QC,Unspecified,,Unspecified,Yes
 441_CRAP,QC,Unspecified,,Unspecified,Yes
 442_CRAP,QC,Unspecified,,Unspecified,Yes
 443_CRAP,QC,Unspecified,,Unspecified,Yes
 444_CRAP,QC,Unspecified,,Unspecified,Yes
+434_CRAP,QC,Unspecified,,Unspecified,Yes
 445_CRAP,QC,Unspecified,,Unspecified,Yes
-446_CRAP,QC,Unspecified,,Unspecified,Yes
 447_CRAP,QC,Unspecified,,Unspecified,Yes
 448_CRAP,QC,Unspecified,,Unspecified,Yes
 449_CRAP,QC,Unspecified,,Unspecified,Yes
-439_CRAP,QC,Unspecified,,Unspecified,Yes
 450_CRAP,QC,Unspecified,,Unspecified,Yes
-425_CRAP,QC,Unspecified,,Unspecified,Yes
-423_CRAP,QC,Unspecified,,Unspecified,Yes
-400_CRAP,QC,Unspecified,,Unspecified,Yes
-401_CRAP,QC,Unspecified,,Unspecified,Yes
-402_CRAP,QC,Unspecified,,Unspecified,Yes
-403_CRAP,QC,Unspecified,,Unspecified,Yes
-404_CRAP,QC,Unspecified,,Unspecified,Yes
-405_CRAP,QC,Unspecified,,Unspecified,Yes
+451_CRAP,QC,Unspecified,,Unspecified,Yes
+452_CRAP,QC,Unspecified,,Unspecified,Yes
+453_CRAP,QC,Unspecified,,Unspecified,Yes
+454_CRAP,QC,Unspecified,,Unspecified,Yes
+455_CRAP,QC,Unspecified,,Unspecified,Yes
+456_CRAP,QC,Unspecified,,Unspecified,Yes
+446_CRAP,QC,Unspecified,,Unspecified,Yes
+433_CRAP,QC,Unspecified,,Unspecified,Yes
+431_CRAP,QC,Unspecified,,Unspecified,Yes
+430_CRAP,QC,Unspecified,,Unspecified,Yes
 406_CRAP,QC,Unspecified,,Unspecified,Yes
 407_CRAP,QC,Unspecified,,Unspecified,Yes
 408_CRAP,QC,Unspecified,,Unspecified,Yes
 409_CRAP,QC,Unspecified,,Unspecified,Yes
-424_CRAP,QC,Unspecified,,Unspecified,Yes
 410_CRAP,QC,Unspecified,,Unspecified,Yes
+411_CRAP,QC,Unspecified,,Unspecified,Yes
 412_CRAP,QC,Unspecified,,Unspecified,Yes
 413_CRAP,QC,Unspecified,,Unspecified,Yes
 414_CRAP,QC,Unspecified,,Unspecified,Yes
@@ -1241,48 +1262,48 @@ id_victim,prov,city_town,address_intersection,postal_code,Check
 419_CRAP,QC,Unspecified,,Unspecified,Yes
 421_CRAP,QC,Unspecified,,Unspecified,Yes
 422_CRAP,QC,Unspecified,,Unspecified,Yes
-411_CRAP,QC,Unspecified,,Unspecified,Yes
-399_CRAP,QC,Unspecified,,Unspecified,Yes
-451_CRAP,QC,Unspecified,,Unspecified,Yes
-453_CRAP,QC,Unspecified,,Unspecified,Yes
-480_CRAP,QC,Unspecified,,Unspecified,Yes
-481_CRAP,QC,Unspecified,,Unspecified,Yes
-482_CRAP,QC,Unspecified,,Unspecified,Yes
-483_CRAP,QC,Unspecified,,Unspecified,Yes
-484_CRAP,QC,Unspecified,,Unspecified,Yes
-485_CRAP,QC,Unspecified,,Unspecified,Yes
-486_CRAP,QC,Unspecified,,Unspecified,Yes
-487_CRAP,QC,Unspecified,,Unspecified,Yes
+423_CRAP,QC,Unspecified,,Unspecified,Yes
+424_CRAP,QC,Unspecified,,Unspecified,Yes
+425_CRAP,QC,Unspecified,,Unspecified,Yes
+426_CRAP,QC,Unspecified,,Unspecified,Yes
+427_CRAP,QC,Unspecified,,Unspecified,Yes
+428_CRAP,QC,Unspecified,,Unspecified,Yes
+429_CRAP,QC,Unspecified,,Unspecified,Yes
+457_CRAP,QC,Unspecified,,Unspecified,Yes
+405_CRAP,QC,Unspecified,,Unspecified,Yes
+458_CRAP,QC,Unspecified,,Unspecified,Yes
+460_CRAP,QC,Unspecified,,Unspecified,Yes
 488_CRAP,QC,Unspecified,,Unspecified,Yes
 489_CRAP,QC,Unspecified,,Unspecified,Yes
-479_CRAP,QC,Unspecified,,Unspecified,Yes
 490_CRAP,QC,Unspecified,,Unspecified,Yes
+492_CRAP,QC,Unspecified,,Unspecified,Yes
 493_CRAP,QC,Unspecified,,Unspecified,Yes
 494_CRAP,QC,Unspecified,,Unspecified,Yes
 495_CRAP,QC,Unspecified,,Unspecified,Yes
 496_CRAP,QC,Unspecified,,Unspecified,Yes
 497_CRAP,QC,Unspecified,,Unspecified,Yes
 498_CRAP,QC,Unspecified,,Unspecified,Yes
+487_CRAP,QC,Unspecified,,Unspecified,Yes
 499_CRAP,QC,Unspecified,,Unspecified,Yes
-500_CRAP,QC,Unspecified,,Unspecified,Yes
 501_CRAP,QC,Unspecified,,Unspecified,Yes
 502_CRAP,QC,Unspecified,,Unspecified,Yes
-492_CRAP,QC,Unspecified,,Unspecified,Yes
-452_CRAP,QC,Unspecified,,Unspecified,Yes
-478_CRAP,QC,Unspecified,,Unspecified,Yes
-476_CRAP,QC,Unspecified,,Unspecified,Yes
-454_CRAP,QC,Unspecified,,Unspecified,Yes
-455_CRAP,QC,Unspecified,,Unspecified,Yes
-456_CRAP,QC,Unspecified,,Unspecified,Yes
-457_CRAP,QC,Unspecified,,Unspecified,Yes
-458_CRAP,QC,Unspecified,,Unspecified,Yes
-459_CRAP,QC,Unspecified,,Unspecified,Yes
-460_CRAP,QC,Unspecified,,Unspecified,Yes
+503_CRAP,QC,Unspecified,,Unspecified,Yes
+504_CRAP,QC,Unspecified,,Unspecified,Yes
+505_CRAP,QC,Unspecified,,Unspecified,Yes
+506_CRAP,QC,Unspecified,,Unspecified,Yes
+507_CRAP,QC,Unspecified,,Unspecified,Yes
+508_CRAP,QC,Unspecified,,Unspecified,Yes
+509_CRAP,QC,Unspecified,,Unspecified,Yes
+510_CRAP,QC,Unspecified,,Unspecified,Yes
+500_CRAP,QC,Unspecified,,Unspecified,Yes
+486_CRAP,QC,Unspecified,,Unspecified,Yes
+485_CRAP,QC,Unspecified,,Unspecified,Yes
+484_CRAP,QC,Unspecified,,Unspecified,Yes
 461_CRAP,QC,Unspecified,,Unspecified,Yes
 462_CRAP,QC,Unspecified,,Unspecified,Yes
 463_CRAP,QC,Unspecified,,Unspecified,Yes
-477_CRAP,QC,Unspecified,,Unspecified,Yes
 464_CRAP,QC,Unspecified,,Unspecified,Yes
+465_CRAP,QC,Unspecified,,Unspecified,Yes
 466_CRAP,QC,Unspecified,,Unspecified,Yes
 467_CRAP,QC,Unspecified,,Unspecified,Yes
 468_CRAP,QC,Unspecified,,Unspecified,Yes
@@ -1293,48 +1314,52 @@ id_victim,prov,city_town,address_intersection,postal_code,Check
 473_CRAP,QC,Unspecified,,Unspecified,Yes
 474_CRAP,QC,Unspecified,,Unspecified,Yes
 475_CRAP,QC,Unspecified,,Unspecified,Yes
-465_CRAP,QC,Unspecified,,Unspecified,Yes
-398_CRAP,QC,Unspecified,,Unspecified,Yes
-397_CRAP,QC,Unspecified,,Unspecified,Yes
-396_CRAP,QC,Unspecified,,Unspecified,Yes
-321_CRAP,QC,Unspecified,,Unspecified,Yes
-322_CRAP,QC,Unspecified,,Unspecified,Yes
-323_CRAP,QC,Unspecified,,Unspecified,Yes
-324_CRAP,QC,Unspecified,,Unspecified,Yes
-325_CRAP,QC,Unspecified,,Unspecified,Yes
+476_CRAP,QC,Unspecified,,Unspecified,Yes
+477_CRAP,QC,Unspecified,,Unspecified,Yes
+478_CRAP,QC,Unspecified,,Unspecified,Yes
+479_CRAP,QC,Unspecified,,Unspecified,Yes
+480_CRAP,QC,Unspecified,,Unspecified,Yes
+481_CRAP,QC,Unspecified,,Unspecified,Yes
+482_CRAP,QC,Unspecified,,Unspecified,Yes
+483_CRAP,QC,Unspecified,,Unspecified,Yes
+459_CRAP,QC,Unspecified,,Unspecified,Yes
+404_CRAP,QC,Unspecified,,Unspecified,Yes
+403_CRAP,QC,Unspecified,,Unspecified,Yes
+402_CRAP,QC,Unspecified,,Unspecified,Yes
 326_CRAP,QC,Unspecified,,Unspecified,Yes
 327_CRAP,QC,Unspecified,,Unspecified,Yes
 328_CRAP,QC,Unspecified,,Unspecified,Yes
 329_CRAP,QC,Unspecified,,Unspecified,Yes
 330_CRAP,QC,Unspecified,,Unspecified,Yes
-320_CRAP,QC,Unspecified,,Unspecified,Yes
 331_CRAP,QC,Unspecified,,Unspecified,Yes
+332_CRAP,QC,Unspecified,,Unspecified,Yes
 333_CRAP,QC,Unspecified,,Unspecified,Yes
 334_CRAP,QC,Unspecified,,Unspecified,Yes
 335_CRAP,QC,Unspecified,,Unspecified,Yes
+325_CRAP,QC,Unspecified,,Unspecified,Yes
 336_CRAP,QC,Unspecified,,Unspecified,Yes
-337_CRAP,QC,Unspecified,,Unspecified,Yes
 338_CRAP,QC,Unspecified,,Unspecified,Yes
 339_CRAP,QC,Unspecified,,Unspecified,Yes
 340_CRAP,QC,Unspecified,,Unspecified,Yes
 341_CRAP,QC,Unspecified,,Unspecified,Yes
 342_CRAP,QC,Unspecified,,Unspecified,Yes
-332_CRAP,QC,Unspecified,,Unspecified,Yes
 343_CRAP,QC,Unspecified,,Unspecified,Yes
-319_CRAP,QC,Unspecified,,Unspecified,Yes
-317_CRAP,QC,Unspecified,,Unspecified,Yes
-293_CRAP,QC,Unspecified,,Unspecified,Yes
-294_CRAP,QC,Unspecified,,Unspecified,Yes
-295_CRAP,QC,Unspecified,,Unspecified,Yes
-296_CRAP,QC,Unspecified,,Unspecified,Yes
+344_CRAP,QC,Unspecified,,Unspecified,Yes
+345_CRAP,QC,Unspecified,,Unspecified,Yes
+346_CRAP,QC,Unspecified,,Unspecified,Yes
+347_CRAP,QC,Unspecified,,Unspecified,Yes
+337_CRAP,QC,Unspecified,,Unspecified,Yes
+324_CRAP,QC,Unspecified,,Unspecified,Yes
+323_CRAP,QC,Unspecified,,Unspecified,Yes
+322_CRAP,QC,Unspecified,,Unspecified,Yes
 297_CRAP,QC,Unspecified,,Unspecified,Yes
 298_CRAP,QC,Unspecified,,Unspecified,Yes
 299_CRAP,QC,Unspecified,,Unspecified,Yes
 300_CRAP,QC,Unspecified,,Unspecified,Yes
 301_CRAP,QC,Unspecified,,Unspecified,Yes
 302_CRAP,QC,Unspecified,,Unspecified,Yes
-318_CRAP,QC,Unspecified,,Unspecified,Yes
 303_CRAP,QC,Unspecified,,Unspecified,Yes
+304_CRAP,QC,Unspecified,,Unspecified,Yes
 305_CRAP,QC,Unspecified,,Unspecified,Yes
 306_CRAP,QC,Unspecified,,Unspecified,Yes
 307_CRAP,QC,Unspecified,,Unspecified,Yes
@@ -1344,22 +1369,22 @@ id_victim,prov,city_town,address_intersection,postal_code,Check
 313_CRAP,QC,Unspecified,,Unspecified,Yes
 314_CRAP,QC,Unspecified,,Unspecified,Yes
 315_CRAP,QC,Unspecified,,Unspecified,Yes
-304_CRAP,QC,Unspecified,,Unspecified,Yes
-344_CRAP,QC,Unspecified,,Unspecified,Yes
-345_CRAP,QC,Unspecified,,Unspecified,Yes
-346_CRAP,QC,Unspecified,,Unspecified,Yes
-374_CRAP,QC,Unspecified,,Unspecified,Yes
-375_CRAP,QC,Unspecified,,Unspecified,Yes
-376_CRAP,QC,Unspecified,,Unspecified,Yes
-377_CRAP,QC,Unspecified,,Unspecified,Yes
-378_CRAP,QC,Unspecified,,Unspecified,Yes
+317_CRAP,QC,Unspecified,,Unspecified,Yes
+318_CRAP,QC,Unspecified,,Unspecified,Yes
+319_CRAP,QC,Unspecified,,Unspecified,Yes
+320_CRAP,QC,Unspecified,,Unspecified,Yes
+321_CRAP,QC,Unspecified,,Unspecified,Yes
+348_CRAP,QC,Unspecified,,Unspecified,Yes
+349_CRAP,QC,Unspecified,,Unspecified,Yes
+350_CRAP,QC,Unspecified,,Unspecified,Yes
+351_CRAP,QC,Unspecified,,Unspecified,Yes
 379_CRAP,QC,Unspecified,,Unspecified,Yes
 380_CRAP,QC,Unspecified,,Unspecified,Yes
 381_CRAP,QC,Unspecified,,Unspecified,Yes
 382_CRAP,QC,Unspecified,,Unspecified,Yes
 383_CRAP,QC,Unspecified,,Unspecified,Yes
-373_CRAP,QC,Unspecified,,Unspecified,Yes
 384_CRAP,QC,Unspecified,,Unspecified,Yes
+385_CRAP,QC,Unspecified,,Unspecified,Yes
 386_CRAP,QC,Unspecified,,Unspecified,Yes
 387_CRAP,QC,Unspecified,,Unspecified,Yes
 388_CRAP,QC,Unspecified,,Unspecified,Yes
@@ -1370,15 +1395,16 @@ id_victim,prov,city_town,address_intersection,postal_code,Check
 393_CRAP,QC,Unspecified,,Unspecified,Yes
 394_CRAP,QC,Unspecified,,Unspecified,Yes
 395_CRAP,QC,Unspecified,,Unspecified,Yes
-385_CRAP,QC,Unspecified,,Unspecified,Yes
-372_CRAP,QC,Unspecified,,Unspecified,Yes
-371_CRAP,QC,Unspecified,,Unspecified,Yes
-370_CRAP,QC,Unspecified,,Unspecified,Yes
-347_CRAP,QC,Unspecified,,Unspecified,Yes
-348_CRAP,QC,Unspecified,,Unspecified,Yes
-349_CRAP,QC,Unspecified,,Unspecified,Yes
-350_CRAP,QC,Unspecified,,Unspecified,Yes
-351_CRAP,QC,Unspecified,,Unspecified,Yes
+396_CRAP,QC,Unspecified,,Unspecified,Yes
+397_CRAP,QC,Unspecified,,Unspecified,Yes
+398_CRAP,QC,Unspecified,,Unspecified,Yes
+399_CRAP,QC,Unspecified,,Unspecified,Yes
+400_CRAP,QC,Unspecified,,Unspecified,Yes
+401_CRAP,QC,Unspecified,,Unspecified,Yes
+378_CRAP,QC,Unspecified,,Unspecified,Yes
+295_CRAP,QC,Unspecified,,Unspecified,Yes
+377_CRAP,QC,Unspecified,,Unspecified,Yes
+375_CRAP,QC,Unspecified,,Unspecified,Yes
 352_CRAP,QC,Unspecified,,Unspecified,Yes
 353_CRAP,QC,Unspecified,,Unspecified,Yes
 354_CRAP,QC,Unspecified,,Unspecified,Yes
@@ -1397,117 +1423,148 @@ id_victim,prov,city_town,address_intersection,postal_code,Check
 367_CRAP,QC,Unspecified,,Unspecified,Yes
 368_CRAP,QC,Unspecified,,Unspecified,Yes
 369_CRAP,QC,Unspecified,,Unspecified,Yes
-291_CRAP,QC,Unspecified,,Unspecified,Yes
+370_CRAP,QC,Unspecified,,Unspecified,Yes
+371_CRAP,QC,Unspecified,,Unspecified,Yes
+372_CRAP,QC,Unspecified,,Unspecified,Yes
+373_CRAP,QC,Unspecified,,Unspecified,Yes
+374_CRAP,QC,Unspecified,,Unspecified,Yes
+376_CRAP,QC,Unspecified,,Unspecified,Yes
 1274_CRAP,NU,Unspecified,,Unspecified,Yes
+0355-V1,BC,Qualicum Beach,39000 block of Inland Island Highway,V9K 2G8,No
+0353-V1,BC,Port Coquitlam,2103 Audrey Dr,V3C 1G9,No
+0348-V1,ON,Vaughan,1520 Major MacKenzie Dr W ,L6A 0A9,No
+0280-V1,BC,Vancouver,5900 block of Fremlin St.,V6P 3W5,No
+0265-V1,AB,Alix,Range Road 234 & Hwy 11,T0C 0B0,No
+0262-V1,AB,Whitefish Lake First Nation,,T0G 0C0,No
+0305-V1,BC,Vancouver,600 block of E Hastings St.,V6A 1R1,No
+0302-V1,NU,Pond Inlet,,X0A 0S0,No
+0467-V1,ON,Markdale,Main St W,N0C 1H0,No
+0460-V1,ON,Toronto,Don Valley Parkway & Don Mills Rd,M4J 2X5,No
+0458-V1,ON,Unionville,4 Octavia Crt,L3R 1N3,No
+0457-V1,ON,Toronto,Regatta Cres,M2R 1Z5,No
+0456-V1,ON,Newmarket,1111 Davis Dr,L3Y 2R9,No
+0455-V1,ON,Toronto,379 Yonge St,M5B 1S1,No
+0431-V1,ON,Mississauga,Torino Crescent,L4W 3N5,No
+0423-V1,ON,Toronto,2129 Danforth Ave,M4C 1J8,No
+0412-V1,BC,Vancouver,Main St. & Terminal Ave.,V6A 4C4,No
+0081-V1,AB,Morinville,Range Road 263,T0G 1Y0,No
+0066-V1,AB,Grand Prairie,9701 84 Ave.,T8V 4Z8,No
+0116-V1,ON,Toronto,"http://www.cbc.ca/news/canada/toronto/siu-investigation-1.3640897, https://www.thestar.com/news/gta/2017/07/16/someone-must-know-anonymous-man-shot-by-police-confounded-the-justice-system.html, https://www.thestar.com/news/gta/2017/07/12/siu-wont-charge-officer-who-fatally-shot-man-on-toronto-rail-corridor.html, https://www.thespec.com/news-story/6729411-man-shot-dead-by-toronto-police-siu-begins-probe/, https://www.northumberlandnews.com/news-story/6734744-secrecy-over-victims-of-police-shootings-to-be-reviewed/",M9M 3A4,No
+0057-V1,ON,Oakville,374 South Service Road East (Monte Carlo Inn),L6J 2X6,No
+0210-V1,QC,Inukjuak,,J0M 1M0,No
+0130-V1,BC,Coquitlam,1547 Balmoral Avenue,V3J 5Y7,No
+0586-V1,BC,,,Unspecified,Yes
+0596-V1,BC,,,Unspecified,Yes
+0566-V1,ON,,,Unspecified,Yes
+0557-V1,AB,,,Unspecified,Yes
+0578-V1,NB,,,Unspecified,Yes
+0599-V1,MB,,,Unspecified,Yes
+0602-V1,ON,,,Unspecified,Yes
+0584-V1,BC,,,Unspecified,Yes
+0558-V1,AB,,,Unspecified,Yes
+0590-V1,ON,,,Unspecified,Yes
+0556-V1,AB,,,Unspecified,Yes
+0594-V1,QC,,,Unspecified,Yes
+0598-V1,ON,,,Unspecified,Yes
+0597-V1,BC,,,Unspecified,Yes
+0591-V1,BC,,,Unspecified,Yes
+0538-V1,NU,,,Unspecified,Yes
+0587-V1,ON,,,Unspecified,Yes
+0574-V1,NS,,,Unspecified,Yes
+0515-V1,MB,,,Unspecified,Yes
+0536-V1,NU,,,Unspecified,Yes
+0554-V1,ON,,,Unspecified,Yes
+0570-V1,BC,,,Unspecified,Yes
+0528-V1,AB,,,Unspecified,Yes
+0553-V1,ON,,,Unspecified,Yes
+0601-V1,ON,,,Unspecified,Yes
+0552-V1,AB,,,Unspecified,Yes
+0576-V1,BC,,,Unspecified,Yes
+0541-V1,ON,,,Unspecified,Yes
+113_GS,BC,Smithers,,Unspecified,Yes
+118_GS,BC,Vancouver,,Unspecified,Yes
+112_GS,BC,Vancouver Island (south),,Unspecified,Yes
+109_GS,BC,Salmon Arm,,Unspecified,Yes
+108_GS,BC,Victoria,,Unspecified,Yes
+103_GS,BC,Surrey,,Unspecified,Yes
+110_GS,BC,Vancouver,,Unspecified,Yes
+173_GS,BC,Kamloops,,Unspecified,Yes
+168_GS,BC,Abbotsford,,Unspecified,Yes
+167_GS,BC,Golden,,Unspecified,Yes
+163_GS,BC,Port Alberni,,Unspecified,Yes
+157_GS,BC,White Rock,,Unspecified,Yes
+155_GS,BC,Prince George,,Unspecified,Yes
+151_GS,BC,Smithers,,Unspecified,Yes
+149_GS,BC,Surrey,,Unspecified,Yes
+148_GS,BC,Agassiz,,Unspecified,Yes
+146_GS,BC,Penticton,,Unspecified,Yes
+144_GS,BC,Salt Spring,,Unspecified,Yes
+139_GS,BC,Vernon,,Unspecified,Yes
 MR_0,ON,,,Unspecified,Yes
-MR_1,SK,,,Unspecified,Yes
-MR_2,SK,,,Unspecified,Yes
-MR_3,SK,,,Unspecified,Yes
 MR_4,QC,,,Unspecified,Yes
 MR_5,ON,,,Unspecified,Yes
 MR_6,ON,,,Unspecified,Yes
-MR_7,ON,,,Unspecified,Yes
-MR_8,ON,,,Unspecified,Yes
-MR_9,NB,,,Unspecified,Yes
-MR_10,QC,,,Unspecified,Yes
 MR_11,NS,,,Unspecified,Yes
-MR_12,YT,,,Unspecified,Yes
 MR_13,NU,,,Unspecified,Yes
 MR_14,AB,,,Unspecified,Yes
 MR_15,BC,,,Unspecified,Yes
-MR_16,AB,,,Unspecified,Yes
 MR_17,QC,,,Unspecified,Yes
 MR_18,NU,,,Unspecified,Yes
 MR_19,ON,,,Unspecified,Yes
-MR_20,ON,,,Unspecified,Yes
-MR_21,QC,,,Unspecified,Yes
-MR_22,QC,,,Unspecified,Yes
 MR_23,AB,,,Unspecified,Yes
 MR_24,AB,,,Unspecified,Yes
 MR_25,AB,,,Unspecified,Yes
 MR_26,BC,,,Unspecified,Yes
-MR_27,BC,,,Unspecified,Yes
 MR_28,AB,,,Unspecified,Yes
 MR_29,MB,,,Unspecified,Yes
-MR_30,ON,,,Unspecified,Yes
 MR_31,NT,,,Unspecified,Yes
 MR_32,ON,,,Unspecified,Yes
-MR_33,NS,,,Unspecified,Yes
 MR_34,ON,,,Unspecified,Yes
-MR_35,BC,,,Unspecified,Yes
 MR_36,AB,,,Unspecified,Yes
 MR_37,AB,,,Unspecified,Yes
 MR_38,AB,,,Unspecified,Yes
 MR_39,AB,,,Unspecified,Yes
 MR_40,QC,,,Unspecified,Yes
 MR_41,ON,,,Unspecified,Yes
-MR_42,ON,,,Unspecified,Yes
 MR_43,MB,,,Unspecified,Yes
-MR_44,QC,,,Unspecified,Yes
-MR_45,QC,,,Unspecified,Yes
 MR_46,MB,,,Unspecified,Yes
-MR_47,BC,,,Unspecified,Yes
-MR_48,SK,,,Unspecified,Yes
 MR_49,ON,,,Unspecified,Yes
-MR_50,BC,,,Unspecified,Yes
 MR_51,BC,,,Unspecified,Yes
 MR_52,ON,,,Unspecified,Yes
-MR_53,ON,,,Unspecified,Yes
 MR_54,AB,,,Unspecified,Yes
 MR_55,MB,,,Unspecified,Yes
 MR_56,ON,,,Unspecified,Yes
 MR_57,ON,,,Unspecified,Yes
-MR_58,QC,,,Unspecified,Yes
 MR_59,BC,,,Unspecified,Yes
 MR_60,QC,,,Unspecified,Yes
-MR_61,AB,,,Unspecified,Yes
-MR_62,ON,,,Unspecified,Yes
 MR_63,BC,,,Unspecified,Yes
 MR_64,ON,,,Unspecified,Yes
-MR_65,SK,,,Unspecified,Yes
 MR_66,AB,,,Unspecified,Yes
 MR_67,SK,,,Unspecified,Yes
-MR_68,ON,,,Unspecified,Yes
-MR_69,ON,,,Unspecified,Yes
 MR_70,QC,,,Unspecified,Yes
-MR_71,AB,,,Unspecified,Yes
 MR_72,MB,,,Unspecified,Yes
 MR_73,ON,,,Unspecified,Yes
 MR_74,ON,,,Unspecified,Yes
 MR_75,SK,,,Unspecified,Yes
 MR_76,ON,,,Unspecified,Yes
-MR_77,ON,,,Unspecified,Yes
 MR_78,BC,,,Unspecified,Yes
-MR_79,ON,,,Unspecified,Yes
-MR_80,ON,,,Unspecified,Yes
 MR_81,MB,,,Unspecified,Yes
 MR_82,ON,,,Unspecified,Yes
-MR_83,QC,,,Unspecified,Yes
 MR_84,QC,,,Unspecified,Yes
 MR_85,ON,,,Unspecified,Yes
-MR_86,ON,,,Unspecified,Yes
 MR_87,AB,,,Unspecified,Yes
 MR_88,ON,,,Unspecified,Yes
 MR_89,ON,,,Unspecified,Yes
-MR_90,QC,,,Unspecified,Yes
-MR_91,QC,,,Unspecified,Yes
-MR_92,QC,,,Unspecified,Yes
 MR_93,ON,,,Unspecified,Yes
 MR_94,SK,,,Unspecified,Yes
 MR_95,ON,,,Unspecified,Yes
 MR_96,NB,,,Unspecified,Yes
-MR_97,ON,,,Unspecified,Yes
 MR_98,ON,,,Unspecified,Yes
 MR_99,ON,,,Unspecified,Yes
-MR_100,ON,,,Unspecified,Yes
 MR_101,BC,,,Unspecified,Yes
 MR_102,AB,,,Unspecified,Yes
-MR_103,QC,,,Unspecified,Yes
 MR_104,ON,,,Unspecified,Yes
 MR_105,QC,,,Unspecified,Yes
-MR_106,QC,,,Unspecified,Yes
-MR_107,ON,,,Unspecified,Yes
-MR_108,QC,,,Unspecified,Yes
 MR_109,ON,,,Unspecified,Yes
 MR_110,AB,,,Unspecified,Yes
 MR_111,ON,,,Unspecified,Yes
@@ -1515,10 +1572,8 @@ MR_112,ON,,,Unspecified,Yes
 MR_113,NU,,,Unspecified,Yes
 MR_114,BC,,,Unspecified,Yes
 MR_115,ON,,,Unspecified,Yes
-MR_116,QC,,,Unspecified,Yes
 MR_117,NL,,,Unspecified,Yes
 MR_118,AB,,,Unspecified,Yes
-MR_119,ON,,,Unspecified,Yes
 MR_120,BC,,,Unspecified,Yes
 MR_121,BC,,,Unspecified,Yes
 MR_122,ON,,,Unspecified,Yes
@@ -1530,11 +1585,9 @@ MR_127,MB,,,Unspecified,Yes
 MR_128,AB,,,Unspecified,Yes
 MR_129,MB,,,Unspecified,Yes
 MR_130,NS,,,Unspecified,Yes
-MR_131,QC,,,Unspecified,Yes
 MR_132,ON,,,Unspecified,Yes
 MR_133,ON,,,Unspecified,Yes
 MR_134,BC,,,Unspecified,Yes
-MR_135,MB,,,Unspecified,Yes
 MR_136,BC,,,Unspecified,Yes
 MR_137,AB,,,Unspecified,Yes
 MR_138,BC,,,Unspecified,Yes
@@ -1549,45 +1602,30 @@ MR_146,AB,,,Unspecified,Yes
 MR_147,AB,,,Unspecified,Yes
 MR_148,ON,,,Unspecified,Yes
 MR_149,QC,,,Unspecified,Yes
-MR_150,MB,,,Unspecified,Yes
 MR_151,ON,,,Unspecified,Yes
 MR_152,ON,,,Unspecified,Yes
-MR_153,BC,,,Unspecified,Yes
-MR_154,ON,,,Unspecified,Yes
-MR_155,ON,,,Unspecified,Yes
 MR_156,BC,,,Unspecified,Yes
 MR_157,BC,,,Unspecified,Yes
 MR_158,AB,,,Unspecified,Yes
 MR_159,NS,,,Unspecified,Yes
-MR_160,ON,,,Unspecified,Yes
-MR_161,NS,,,Unspecified,Yes
-MR_162,ON,,,Unspecified,Yes
-MR_163,QC,,,Unspecified,Yes
-MR_164,QC,,,Unspecified,Yes
 MR_165,SK,,,Unspecified,Yes
-MR_166,QC,,,Unspecified,Yes
 MR_167,ON,,,Unspecified,Yes
 MR_168,BC,,,Unspecified,Yes
 MR_169,AB,,,Unspecified,Yes
-MR_170,ON,,,Unspecified,Yes
 MR_171,AB,,,Unspecified,Yes
 MR_172,AB,,,Unspecified,Yes
 MR_173,AB,,,Unspecified,Yes
 MR_174,ON,,,Unspecified,Yes
 MR_175,BC,,,Unspecified,Yes
 MR_176,BC,,,Unspecified,Yes
-MR_177,QC,,,Unspecified,Yes
-MR_178,ON,,,Unspecified,Yes
 MR_179,BC,,,Unspecified,Yes
 MR_180,QC,,,Unspecified,Yes
 MR_181,ON,,,Unspecified,Yes
 MR_182,AB,,,Unspecified,Yes
 MR_183,MB,,,Unspecified,Yes
-MR_184,QC,,,Unspecified,Yes
 MR_185,ON,,,Unspecified,Yes
 MR_186,ON,,,Unspecified,Yes
 MR_187,ON,,,Unspecified,Yes
-MR_188,ON,,,Unspecified,Yes
 MR_189,BC,,,Unspecified,Yes
 MR_190,BC,,,Unspecified,Yes
 MR_191,ON,,,Unspecified,Yes
@@ -1595,7 +1633,6 @@ MR_192,ON,,,Unspecified,Yes
 MR_193,AB,,,Unspecified,Yes
 MR_194,ON,,,Unspecified,Yes
 MR_195,BC,,,Unspecified,Yes
-MR_196,ON,,,Unspecified,Yes
 MR_197,ON,,,Unspecified,Yes
 MR_198,ON,,,Unspecified,Yes
 MR_199,MB,,,Unspecified,Yes
@@ -1604,15 +1641,12 @@ MR_201,ON,,,Unspecified,Yes
 MR_202,ON,,,Unspecified,Yes
 MR_203,AB,,,Unspecified,Yes
 MR_204,ON,,,Unspecified,Yes
-MR_205,QC,,,Unspecified,Yes
 MR_206,AB,,,Unspecified,Yes
 MR_207,ON,,,Unspecified,Yes
 MR_208,ON,,,Unspecified,Yes
 MR_209,AB,,,Unspecified,Yes
 MR_210,BC,,,Unspecified,Yes
 MR_211,AB,,,Unspecified,Yes
-MR_212,QC,,,Unspecified,Yes
-MR_213,QC,,,Unspecified,Yes
 MR_214,ON,,,Unspecified,Yes
 MR_215,ON,,,Unspecified,Yes
 MR_216,QC,,,Unspecified,Yes
