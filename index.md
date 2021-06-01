@@ -20,7 +20,7 @@ I am speaking to you today from the traditional, ancestral, and unceded territor
 Candian instututions rely on the lack of race based statistics to perpetuate a narrative that systemic racism is "just an American issue" and that Canada is "better".  As a white settler and immigrant from the United States, I fell for that narrative and did not question it for years.  
 * We need to have discussions about systemic racism in Canada and make it part of the public discourse in order to hold Canadian institutions accountable.
 
-- Why me? Why now? Why this?
+<!-- - Why me? Why now? Why this? -->
 
 # Key Points
 

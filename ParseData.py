@@ -116,7 +116,7 @@ class GetData(object):
                                 )
 
 
-
+        self.Final_Data = pd.read_csv('Inputs/DataSets/Compiled/Police_Inovolved_Deaths_Canada.csv')
         self.CA_PoliceKillings = CBC_Data.append(Missing_Records)
         self.CA_PoliceKillings=self.CA_PoliceKillings.set_index(pd.DatetimeIndex(self.CA_PoliceKillings['DATE']),
                                                       drop=True
