@@ -99,18 +99,18 @@ class GetData(object):
           'Yukon': 'YT'
         }
         # Import Canadian Data
-        CBC_Data = pd.read_csv('Inputs/Police_Involved_Deaths_Canada/Deadly_Force_2020_Updates.csv',
+        CBC_Data = pd.read_csv('Inputs/DataSets/Deadly_Force_2020_Updates.csv',
                                 parse_dates=['DATE'],
                                 # index_col=['VICTIM ID']
                               encoding="latin-1"
                                 )
-        Missing_Records = pd.read_csv('Inputs/Police_Involved_Deaths_Canada/MissingRecords.csv',
+        Missing_Records = pd.read_csv('Inputs/DataSets/MissingRecords.csv',
                               parse_dates=['DATE'],
                               # index_col=['VICTIM ID'],
                               encoding="latin-1"
                                  )
 
-        self.CBC_Data_Original = pd.read_csv('Inputs/Police_Involved_Deaths_Canada/Deadly_Force_2020_Original.csv',
+        self.CBC_Data_Original = pd.read_csv('Inputs/DataSets/Deadly_Force_2020_Original.csv',
                                 parse_dates=['DATE'],
                                 # index_col=['VICTIM ID']
                                 )
